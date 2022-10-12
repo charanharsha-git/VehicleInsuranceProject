@@ -1,0 +1,5551 @@
+S.no,Customer ID,Product
+1,LK73198,Sport - Collision
+2,WT38706,Sport - All Perils
+3,RO89785,Utility - Collision
+4,QA71190,Sport - All Perils
+5,VP84987,Sport - Liability
+6,MA37431,Utility - Collision
+7,ST96866,Sedan - Liability
+8,CN90378,Sedan - Liability
+9,VV81837, Sedan - All Perils
+10,AW73065,Utility - Collision
+11,IN28584,Utility - Liability
+12,UF36353,Utility - All Perils
+13,ME37051,Sedan - Collision
+14,YQ98465,Sedan - Collision
+15,UH45301,Sport - All Perils
+16,EZ71780,Utility - Liability
+17,IX37561, Sedan - All Perils
+18,ZG18090,Sport - All Perils
+19,FQ46354,Sport - Collision
+20,NY24020,Sedan - Liability
+21,ET89070,Utility - Liability
+22,OY32548,Sedan - Liability
+23,ZN86559,Utility - All Perils
+24,EW13798,Utility - All Perils
+25,XK99408,Utility - All Perils
+26,BX24569,Utility - All Perils
+27,GM63998,Utility - All Perils
+28,EP80820, Sedan - All Perils
+29,NK91656,Sport - Collision
+30,LA60344,Sport - Liability
+31,MM67983,Utility - All Perils
+32,IF80474,Sport - Liability
+33,DQ98402,Sport - Liability
+34,ZT18953,Sport - Collision
+35,SD94067,Utility - Liability
+36,PS69748,Utility - All Perils
+37,HF65914,Sedan - Liability
+38,ZP80713,Sedan - Collision
+39,EW35231,Utility - All Perils
+40,ZR11692,Sedan - Liability
+41,VY75186, Sedan - All Perils
+42,BS13062, Sedan - All Perils
+43,UL96474, Sedan - All Perils
+44,HL40930, Sedan - All Perils
+45,SU44811,Sedan - Liability
+46,PZ47901,Sedan - Collision
+47,VZ59523,Utility - Collision
+48,AW84946,Sport - All Perils
+49,LA72316,Sport - Liability
+50,QI63521,Sport - Collision
+51,RC44077,Utility - Liability
+52,XX29952,Utility - All Perils
+53,ID89933,Sedan - Liability
+54,FI61059,Sport - Liability
+55,LH26563,Utility - Liability
+56,IQ30108,Sport - Liability
+57,HN38084,Sport - Liability
+58,EK87467,Utility - Collision
+59,EZ11341,Sport - All Perils
+60,DO70918,Sedan - Collision
+61,JI80257,Utility - Collision
+62,MF83904,Utility - All Perils
+63,PW88443, Sedan - All Perils
+64,SM42781,Sport - Liability
+65,PW98890,Sport - Collision
+66,MN79082,Sport - Liability
+67,GR31499,Sedan - Collision
+68,RR39751,Sedan - Collision
+69,CQ72935,Utility - All Perils
+70,HZ68892,Utility - Collision
+71,OS96036,Sedan - Liability
+72,YE88490,Sedan - Liability
+73,VZ23007,Sedan - Liability
+74,CN24514,Sport - All Perils
+75,BE78308,Utility - Collision
+76,MB90871, Sedan - All Perils
+77,TV23956,Sedan - Collision
+78,XH71839,Sedan - Collision
+79,JA26024,Utility - Collision
+80,VA30351,Sport - Collision
+81,ZX93551,Utility - Collision
+82,UV99893,Sport - All Perils
+83,CJ64468,Sport - All Perils
+84,YN61339,Utility - Liability
+85,NE16405,Utility - Liability
+86,CZ96653,Utility - All Perils
+87,FD20455, Sedan - All Perils
+88,DK20428,Sport - All Perils
+89,HI71466,Sedan - Liability
+90,AV76907,Sport - Collision
+91,AS17174,Utility - Liability
+92,UH89141,Sport - Collision
+93,QW87316, Sedan - All Perils
+94,UO86707,Utility - Collision
+95,CJ31839,Sedan - Liability
+96,NK40551,Utility - All Perils
+97,NB79936,Sport - Collision
+98,ED91989,Sport - Collision
+99,YI95574, Sedan - All Perils
+100,VL58402,Sport - All Perils
+101,QX24179,Utility - All Perils
+102,VD51297,Sport - Collision
+103,MN32305,Sedan - Collision
+104,LM79063,Sport - All Perils
+105,UD27331,Sport - All Perils
+106,TW11712,Utility - All Perils
+107,BE31382,Sport - Liability
+108,TF82172,Sport - All Perils
+109,TN79487,Sport - All Perils
+110,XZ45224, Sedan - All Perils
+111,BU27331,Utility - Collision
+112,RE46783,Sedan - Liability
+113,SO57563,Sedan - Collision
+114,YK32760,Sedan - Collision
+115,KB20508,Sport - Liability
+116,JG41490,Sedan - Liability
+117,SE78641,Sedan - Liability
+118,GE58317, Sedan - All Perils
+119,SE30128,Sedan - Collision
+120,LG19551,Utility - All Perils
+121,SL71998, Sedan - All Perils
+122,QB26845,Utility - Liability
+123,GI25850,Sport - Liability
+124,CW63533,Utility - Collision
+125,MF49636,Utility - All Perils
+126,DP13082,Sport - Collision
+127,OJ84485,Sport - Collision
+128,KJ87930,Sport - Liability
+129,YY58769, Sedan - All Perils
+130,OC50447,Utility - Collision
+131,FX65946,Sport - All Perils
+132,DL61016,Utility - Collision
+133,FS97588, Sedan - All Perils
+134,FU65756,Sedan - Collision
+135,FB84409,Sedan - Liability
+136,HA40978,Sedan - Collision
+137,OE19653,Sedan - Collision
+138,GA46608, Sedan - All Perils
+139,NR49426,Sedan - Collision
+140,ZO20633,Utility - All Perils
+141,WP51328,Utility - Liability
+142,SC30127,Sedan - Liability
+143,IK77998,Utility - Liability
+144,QW60568, Sedan - All Perils
+145,VR14881,Sedan - Collision
+146,VG31922,Sport - Liability
+147,IG89777,Utility - Liability
+148,MX80067,Sport - Liability
+149,LF41085,Utility - Collision
+150,LO39834, Sedan - All Perils
+151,MI81870, Sedan - All Perils
+152,BK47926,Sedan - Liability
+153,LL14393,Utility - Liability
+154,DP26592, Sedan - All Perils
+155,OD63728,Utility - All Perils
+156,SJ71233,Sport - All Perils
+157,HU75748,Utility - All Perils
+158,DM59806,Utility - All Perils
+159,BP23267,Utility - Collision
+160,DN92191,Utility - All Perils
+161,MS45259,Utility - Liability
+162,MF49636,Sedan - Collision
+163,FG91922,Sport - All Perils
+164,CT74097,Sedan - Liability
+165,ZC32761,Sport - Liability
+166,ZT63368,Utility - Liability
+167,ST59524,Sedan - Collision
+168,XB43625,Sport - All Perils
+169,MM83308,Sport - Liability
+170,RZ50353, Sedan - All Perils
+171,VC77127,Sport - Collision
+172,AU94279,Utility - All Perils
+173,RJ90816, Sedan - All Perils
+174,BA87216,Sedan - Liability
+175,LR49580,Utility - All Perils
+176,GY99495,Utility - Collision
+177,HH80006,Sport - All Perils
+178,JK13254,Sport - Liability
+179,PG14554,Sport - All Perils
+180,ZO43755,Utility - Liability
+181,WB38524,Sport - Collision
+182,IP68868,Utility - All Perils
+183,NT36519,Sport - Liability
+184,PY98628,Sport - Liability
+185,DR32525,Sedan - Liability
+186,VA77345,Sedan - Collision
+187,CF50291,Sedan - Liability
+188,BE69929,Utility - Collision
+189,RA34556, Sedan - All Perils
+190,FG63647,Sport - All Perils
+191,XR99310, Sedan - All Perils
+192,HS14476,Utility - Liability
+193,SJ30138,Sport - Collision
+194,HB12866,Sport - All Perils
+195,EQ59908,Utility - All Perils
+196,QJ31447,Sedan - Liability
+197,YU72540,Sport - Collision
+198,QA41558,Sedan - Collision
+199,GX29162,Sedan - Liability
+200,YC43143,Sedan - Liability
+201,AU94279, Sedan - All Perils
+202,BZ92811,Utility - Liability
+203,ZN86559,Sedan - Collision
+204,CV86445,Sedan - Collision
+205,JU64043,Sport - Liability
+206,SO18542,Sport - Collision
+207,OU62604,Utility - Liability
+208,XO75323,Utility - All Perils
+209,HW61722,Sedan - Collision
+210,ZY95807,Sport - Liability
+211,PD19551, Sedan - All Perils
+212,WT43034,Sport - Liability
+213,CI24326, Sedan - All Perils
+214,PP39078,Sport - Collision
+215,IG80910,Sport - Liability
+216,CH97666,Sport - All Perils
+217,QF59448,Utility - Liability
+218,VM58985,Utility - Liability
+219,WE60408,Sport - Liability
+220,OI68331,Sport - Collision
+221,QF55724,Sport - Liability
+222,KW52227,Utility - All Perils
+223,EM29359,Utility - Collision
+224,YS49138,Sport - Liability
+225,QW67581,Sport - Liability
+226,QZ83992,Utility - Liability
+227,KL43280,Sport - Liability
+228,CK19789, Sedan - All Perils
+229,LZ35469,Utility - Collision
+230,PM63319,Sedan - Collision
+231,HG64216,Sport - All Perils
+232,CZ56843,Utility - Liability
+233,PA84292,Sedan - Collision
+234,LL92275,Utility - All Perils
+235,ZV17267, Sedan - All Perils
+236,QJ31447,Utility - Liability
+237,BE75190,Sport - All Perils
+238,QF91596,Utility - Liability
+239,XH20787,Sport - Liability
+240,KF80571, Sedan - All Perils
+241,TV97612,Utility - Liability
+242,PE63707,Sport - All Perils
+243,SD38003, Sedan - All Perils
+244,SY46862,Utility - Collision
+245,NF25863,Sport - Collision
+246,QE79527,Utility - All Perils
+247,EP46328,Utility - All Perils
+248,BC47264,Utility - Collision
+249,GT14584,Utility - All Perils
+250,OW33876,Utility - Collision
+251,PT34656,Utility - Liability
+252,ZZ22193,Utility - Collision
+253,SJ74501,Sport - Liability
+254,DR38127,Sport - All Perils
+255,CC94413,Utility - Liability
+256,HH61461,Sport - Liability
+257,KZ26788,Sedan - Liability
+258,MC62068,Sport - Liability
+259,MN95006,Utility - All Perils
+260,JL93248,Sedan - Liability
+261,AD12500,Sedan - Collision
+262,QX42433,Utility - Collision
+263,BX20846,Sport - Liability
+264,BH28530,Utility - All Perils
+265,MP53132,Sport - Liability
+266,RT64920,Utility - Collision
+267,KL27677,Sedan - Liability
+268,KL27226,Sport - Liability
+269,PI96349, Sedan - All Perils
+270,YA52900,Sedan - Liability
+271,PK28821,Utility - All Perils
+272,CT83377,Sport - All Perils
+273,TW43626,Utility - Collision
+274,UP90711,Utility - Collision
+275,AT93647,Sedan - Liability
+276,JN72184,Sedan - Liability
+277,BI33231,Utility - Liability
+278,XF99212,Utility - All Perils
+279,II83628,Sport - All Perils
+280,GS92994,Utility - Collision
+281,QW31435,Utility - Collision
+282,JP64518,Sport - All Perils
+283,UE52886, Sedan - All Perils
+284,VE47660,Sport - All Perils
+285,OB66874,Utility - Collision
+286,JZ54775,Sport - All Perils
+287,MX50302,Utility - Collision
+288,LY73893,Utility - Collision
+289,DH18269,Utility - All Perils
+290,XC68458, Sedan - All Perils
+291,GO14008,Utility - Collision
+292,GM98732,Utility - Collision
+293,KI91500,Utility - Collision
+294,VW46878,Sedan - Liability
+295,WL46620,Utility - All Perils
+296,XK87182,Sport - Liability
+297,CE78778,Sedan - Liability
+298,AT89553,Sedan - Liability
+299,RB16360,Sport - Collision
+300,VF96109,Sedan - Liability
+301,KP96020,Sedan - Liability
+302,GV59387,Sport - Liability
+303,OQ69520,Utility - All Perils
+304,HV16877,Utility - All Perils
+305,CH97539, Sedan - All Perils
+306,CP67787,Sport - All Perils
+307,VK94891,Utility - All Perils
+308,IA52178, Sedan - All Perils
+309,DR32525,Sport - Liability
+310,DX70966,Sport - Liability
+311,AS18084,Utility - Collision
+312,LE26899,Sport - Liability
+313,EZ41764,Sport - Liability
+314,YC33550,Sedan - Collision
+315,PA38372, Sedan - All Perils
+316,RM31359,Utility - All Perils
+317,AI85843,Utility - All Perils
+318,DO83789,Sport - Liability
+319,UH41125,Utility - All Perils
+320,ZZ41158,Sport - Liability
+321,ER51965,Utility - Collision
+322,RY38931,Utility - Collision
+323,DP92488,Utility - Liability
+324,KI58952,Sport - All Perils
+325,GQ15613,Utility - Liability
+326,NE51159,Sedan - Liability
+327,ZQ94561, Sedan - All Perils
+328,WT22392,Utility - Collision
+329,SB61617,Utility - All Perils
+330,KJ29915,Utility - Collision
+331,WJ55369,Utility - Collision
+332,YF87007,Sport - Liability
+333,CB64729,Sport - Collision
+334,GI36262,Utility - Liability
+335,KR82385,Utility - All Perils
+336,HQ15974,Sedan - Collision
+337,SL22297,Sport - Liability
+338,LX95134,Sport - Liability
+339,SZ35936,Utility - All Perils
+340,DC91024,Sport - Collision
+341,ZC32510,Utility - Collision
+342,NW23827, Sedan - All Perils
+343,HZ39407,Sport - Liability
+344,RQ99149,Sport - Collision
+345,LS62045,Sport - Liability
+346,ZK21724,Utility - Collision
+347,NT15165,Utility - Liability
+348,RY26286,Utility - Liability
+349,BU72633,Sedan - Liability
+350,BR24590, Sedan - All Perils
+351,IV84135,Utility - Liability
+352,FP78531,Sport - Collision
+353,IL12516,Sport - All Perils
+354,MN61620,Sedan - Collision
+355,OA46321,Utility - Collision
+356,KR25511,Sport - Liability
+357,TK40018,Sedan - Liability
+358,HF82396,Sport - Liability
+359,JC96695,Sedan - Liability
+360,AP32891,Sport - Liability
+361,OF77789,Sport - Liability
+362,JK68578, Sedan - All Perils
+363,GE47180,Utility - Liability
+364,CM48429,Sport - Collision
+365,OY38576,Utility - Liability
+366,ZT26848,Sedan - Liability
+367,TJ11671,Sedan - Liability
+368,CO19402,Sport - Liability
+369,MN32305,Utility - Collision
+370,CF95802,Utility - Liability
+371,QC89139,Utility - Liability
+372,EF84269, Sedan - All Perils
+373,VV68726, Sedan - All Perils
+374,KQ49890,Sport - Collision
+375,AT62618,Utility - All Perils
+376,RN97635,Utility - Liability
+377,JO63462,Sedan - Collision
+378,ZW51071,Sedan - Collision
+379,TP61305,Sport - Liability
+380,KW56110,Sedan - Liability
+381,NT25078,Sport - Liability
+382,LO68739,Utility - Liability
+383,MC62068,Sedan - Collision
+384,WZ40465, Sedan - All Perils
+385,EG12987,Utility - Liability
+386,VY27019,Utility - Liability
+387,RF73329,Sport - Collision
+388,LO48126,Sport - Collision
+389,DX70966,Utility - All Perils
+390,WH81461,Sport - Collision
+391,LB97434,Utility - All Perils
+392,NJ54277, Sedan - All Perils
+393,KZ26788, Sedan - All Perils
+394,WV53830,Sedan - Liability
+395,QF76244,Utility - Collision
+396,ZD65365,Utility - Collision
+397,JZ23377,Sport - Liability
+398,CD86811,Sport - Liability
+399,OC88207,Utility - All Perils
+400,TM23514,Sport - All Perils
+401,TH96263,Sport - Collision
+402,VP13613, Sedan - All Perils
+403,MR77933,Sedan - Collision
+404,VJ51327,Sport - Collision
+405,LF36128,Sport - Liability
+406,XR52852,Sport - Collision
+407,FI17798,Sport - Collision
+408,QV66305,Sedan - Collision
+409,SM88270,Sport - Collision
+410,JI93499,Sport - Liability
+411,YD45065,Utility - Liability
+412,AN97123,Sedan - Collision
+413,UZ60774,Utility - Collision
+414,YU90693,Sedan - Liability
+415,WY43888,Utility - All Perils
+416,FS19862,Utility - All Perils
+417,PD19551,Sport - All Perils
+418,NX32730, Sedan - All Perils
+419,XR84971,Sport - Liability
+420,PI96349,Utility - Liability
+421,PS69748,Utility - Liability
+422,WU63862,Sedan - Liability
+423,EE57466,Sedan - Liability
+424,GB75821, Sedan - All Perils
+425,LZ34046,Sedan - Liability
+426,GG61186,Sport - Collision
+427,BQ28323,Utility - Collision
+428,ZC97968,Utility - All Perils
+429,IN17648,Sport - All Perils
+430,QJ22057,Sport - Liability
+431,NB10500,Sport - Liability
+432,NB54665, Sedan - All Perils
+433,AJ32539,Sedan - Liability
+434,OH23652,Sport - Liability
+435,FL55134,Utility - All Perils
+436,PU25891,Sedan - Collision
+437,NS14955, Sedan - All Perils
+438,TM14491,Utility - Liability
+439,TG95261,Sport - Liability
+440,UK76814,Utility - All Perils
+441,SE15781,Sport - Collision
+442,VJ83206,Sedan - Collision
+443,QO59138,Utility - Collision
+444,DA79098,Sport - All Perils
+445,VF36700,Utility - All Perils
+446,AA69265,Utility - Collision
+447,EB61889,Sport - Liability
+448,KN15789,Utility - Liability
+449,VY75186,Sport - Liability
+450,GB45753,Sport - Liability
+451,TD97297,Utility - All Perils
+452,HR64765,Sedan - Collision
+453,WO94087,Sport - All Perils
+454,TV53243,Sedan - Collision
+455,CE71123,Sedan - Collision
+456,CN16311,Utility - Liability
+457,HU76577,Sedan - Collision
+458,VI35467,Utility - All Perils
+459,LL14393,Utility - Collision
+460,KD21661,Sport - Collision
+461,CO44659,Sport - All Perils
+462,LQ45358,Sedan - Liability
+463,HF15113, Sedan - All Perils
+464,JC45487,Utility - Liability
+465,LU79865,Sedan - Collision
+466,MU64306,Sedan - Liability
+467,AI14767, Sedan - All Perils
+468,UW90223,Utility - Liability
+469,PC80039,Sedan - Liability
+470,FR46645,Utility - All Perils
+471,HI16472,Utility - Liability
+472,AB73565, Sedan - All Perils
+473,QY37300,Utility - Collision
+474,RD28560,Sport - Collision
+475,RE12758,Utility - All Perils
+476,YC54142,Utility - All Perils
+477,US78266,Utility - Collision
+478,UI36597,Utility - Collision
+479,GD17919,Sedan - Liability
+480,AK11719,Sport - Collision
+481,DL20327,Sport - All Perils
+482,QF74147,Sedan - Liability
+483,VA35421,Sedan - Liability
+484,IQ15028,Utility - Collision
+485,FY13480,Sport - Collision
+486,EC44438,Sport - Liability
+487,WL92199, Sedan - All Perils
+488,KW99972,Sport - Liability
+489,RS60249,Utility - Collision
+490,UN52560,Sedan - Collision
+491,AK17025,Sport - All Perils
+492,OP47206,Sedan - Liability
+493,VM69145,Sedan - Liability
+494,TW43626,Utility - Liability
+495,EG10175,Sedan - Collision
+496,EW68125,Sport - All Perils
+497,PD79570, Sedan - All Perils
+498,PD69398,Utility - Collision
+499,TY20016, Sedan - All Perils
+500,LB83807,Utility - Liability
+501,QW67581,Sport - All Perils
+502,CK24264, Sedan - All Perils
+503,CP87192,Utility - Liability
+504,MM49431, Sedan - All Perils
+505,ZE40223,Sedan - Collision
+506,NQ42020,Utility - All Perils
+507,TO34442,Utility - Collision
+508,YC87263,Utility - Collision
+509,PD32641,Sport - Liability
+510,JJ97525,Utility - Liability
+511,TD90177,Sedan - Collision
+512,KD16729,Sport - Liability
+513,US82470,Sport - Liability
+514,TG70775,Sport - All Perils
+515,VV82891,Sedan - Liability
+516,CH97539,Utility - All Perils
+517,QG15661,Sport - Collision
+518,LC58452,Utility - Liability
+519,NM77735,Utility - Collision
+520,WC28543,Sedan - Collision
+521,HQ32112,Utility - Liability
+522,NK73719,Utility - Liability
+523,SR74929,Sport - Liability
+524,PP48389,Sport - Collision
+525,NB54665,Utility - All Perils
+526,OC50447,Sport - All Perils
+527,TA77711,Utility - All Perils
+528,UF46533,Utility - Liability
+529,GZ64473,Sedan - Liability
+530,OO11531,Utility - Liability
+531,KI58952,Sport - All Perils
+532,OH55411, Sedan - All Perils
+533,QT25383,Sedan - Liability
+534,NN54114, Sedan - All Perils
+535,QV24282,Utility - All Perils
+536,HT31871,Utility - All Perils
+537,QD97878, Sedan - All Perils
+538,XB17553,Sedan - Collision
+539,NI66988,Utility - Liability
+540,JA47688,Utility - Collision
+541,IC47914,Sport - Collision
+542,QJ89807,Sedan - Collision
+543,GM54723,Utility - Liability
+544,MC73302, Sedan - All Perils
+545,UQ30615,Sport - All Perils
+546,BS29584,Sport - Liability
+547,RA29518,Sport - Liability
+548,QD46343,Sport - All Perils
+549,AZ50087,Sport - Liability
+550,JZ76788,Sport - Collision
+551,JB76199,Utility - All Perils
+552,OF93412,Utility - Collision
+553,LV14566,Utility - All Perils
+554,XX88364,Utility - All Perils
+555,ZJ65064,Utility - Collision
+556,UW98698,Sedan - Collision
+557,XH20787,Sedan - Collision
+558,LE12086,Sedan - Liability
+559,BC64697,Utility - All Perils
+560,FS67856,Sport - All Perils
+561,LM84166,Sport - Collision
+562,RE46783,Sedan - Collision
+563,LE12782,Utility - Liability
+564,BN87372,Sport - Collision
+565,KR43119,Sedan - Liability
+566,DQ31994,Sport - Liability
+567,WB68229,Sport - Collision
+568,IL32727,Utility - Liability
+569,IE36279,Utility - Liability
+570,SM87252,Sedan - Collision
+571,DF66914,Sport - All Perils
+572,DJ93289,Utility - Collision
+573,JC80093,Sport - All Perils
+574,YG87460,Sedan - Collision
+575,MR56401, Sedan - All Perils
+576,LC47479,Sedan - Liability
+577,TH69908, Sedan - All Perils
+578,RH70194,Utility - All Perils
+579,FU43761,Sport - All Perils
+580,QI99143,Sedan - Collision
+581,ZX64745,Sport - Liability
+582,YB66933,Utility - All Perils
+583,SY36127,Utility - Collision
+584,KX55910,Utility - Liability
+585,ZY60545,Sedan - Collision
+586,VZ61940,Utility - Collision
+587,EZ78112,Sport - Liability
+588,FY30870,Sport - Liability
+589,QM61543,Utility - Collision
+590,HP46467,Utility - Collision
+591,JD10245,Utility - Collision
+592,RZ98310,Sport - Collision
+593,WG26617,Utility - All Perils
+594,IR62720,Sedan - Liability
+595,AR17553, Sedan - All Perils
+596,YU86594,Utility - Collision
+597,AM94127, Sedan - All Perils
+598,ZQ37164,Sport - Liability
+599,UI36597,Sport - Collision
+600,JD75068,Sedan - Collision
+601,SJ86522,Sport - Collision
+602,MS45259,Sedan - Liability
+603,PX72779,Utility - Collision
+604,UN63889,Sedan - Liability
+605,LQ16286,Sedan - Collision
+606,DL14445, Sedan - All Perils
+607,TH86528,Sport - Liability
+608,NL17964,Sedan - Collision
+609,DZ64604, Sedan - All Perils
+610,JD11661,Sedan - Liability
+611,MD86050, Sedan - All Perils
+612,CV29889,Utility - Collision
+613,HC20975,Utility - Collision
+614,IX10511, Sedan - All Perils
+615,PA38372,Sedan - Collision
+616,DK19711,Sedan - Liability
+617,IN17648,Sedan - Liability
+618,UF28233, Sedan - All Perils
+619,YW85018,Utility - All Perils
+620,IH54239,Sport - Liability
+621,SM73248,Sport - Liability
+622,SN36487,Utility - All Perils
+623,TQ82322,Sport - Collision
+624,OO92815,Sedan - Liability
+625,WA97671,Sport - All Perils
+626,SK93727,Sedan - Liability
+627,WK46492,Utility - Collision
+628,AM94127,Utility - All Perils
+629,UL96474,Utility - All Perils
+630,BV55733,Utility - All Perils
+631,Y167826,Sedan - Collision
+632,TP20456,Sport - Collision
+633,WD38315,Sedan - Liability
+634,QV89018, Sedan - All Perils
+635,QF74806,Sport - All Perils
+636,TS11219,Sport - Collision
+637,OB69153,Utility - Collision
+638,BZ33435,Sport - Collision
+639,AV25133,Sedan - Liability
+640,GT18396,Sedan - Liability
+641,NY90858,Sport - Collision
+642,HW85007,Sedan - Liability
+643,NC78961,Sedan - Collision
+644,YV67971,Sedan - Collision
+645,LZ34164,Utility - Liability
+646,SE15781,Utility - Liability
+647,JL71713,Sedan - Collision
+648,MS20849,Utility - Liability
+649,EJ67407,Utility - Collision
+650,KB15252,Sport - Liability
+651,ZK90062,Utility - All Perils
+652,AA34092,Sport - All Perils
+653,ZB23962,Utility - Liability
+654,EI17022,Sedan - Collision
+655,WM87004,Sport - All Perils
+656,FS84707,Utility - Collision
+657,WU62992,Sedan - Liability
+658,HT50748,Sedan - Liability
+659,OE88763,Sport - All Perils
+660,GC42314,Utility - Collision
+661,JP30654, Sedan - All Perils
+662,NF31087,Sport - Collision
+663,UR73910,Utility - All Perils
+664,ZH35315, Sedan - All Perils
+665,LJ88616,Utility - All Perils
+666,XO67536, Sedan - All Perils
+667,JH94846,Utility - All Perils
+668,OX87524,Sedan - Liability
+669,FJ57446,Utility - Collision
+670,RW66792,Utility - Collision
+671,UM44109,Sport - Collision
+672,HN54181,Sport - Collision
+673,DC37886,Sport - All Perils
+674,ZW32080,Sport - Liability
+675,CR40615,Utility - Liability
+676,QA78691,Sport - All Perils
+677,SI11249,Utility - All Perils
+678,FC70869,Sport - All Perils
+679,DZ35379,Utility - All Perils
+680,MG99229,Sport - Collision
+681,XH20787,Sport - All Perils
+682,FF93355,Sport - Collision
+683,KS12294, Sedan - All Perils
+684,XO42145,Sport - Liability
+685,IC78105,Sport - All Perils
+686,SE15781, Sedan - All Perils
+687,XR99310,Sedan - Liability
+688,EN60878,Sport - Liability
+689,BW52697,Sedan - Liability
+690,LY14687,Utility - Liability
+691,RN97635,Utility - Collision
+692,DQ19343,Sport - All Perils
+693,SD30853,Sedan - Liability
+694,PL44132, Sedan - All Perils
+695,DB26077,Sport - Liability
+696,HW19506,Sedan - Collision
+697,LH80781,Utility - All Perils
+698,XY66810,Sedan - Liability
+699,YP37291,Utility - Liability
+700,KQ30179,Sedan - Collision
+701,LK73198,Utility - Collision
+702,WT38706,Sport - All Perils
+703,RO89785,Sport - Collision
+704,QA71190,Sport - Liability
+705,VP84987,Sedan - Collision
+706,MA37431,Utility - All Perils
+707,ST96866,Sedan - Collision
+708,CN90378,Sedan - Liability
+709,VV81837,Sport - All Perils
+710,AW73065,Sport - Liability
+711,IN28584, Sedan - All Perils
+712,UF36353,Sedan - Liability
+713,ME37051,Sedan - Liability
+714,YQ98465,Sedan - Liability
+715,UH45301, Sedan - All Perils
+716,EZ71780,Sedan - Collision
+717,IX37561,Sport - All Perils
+718,ZG18090, Sedan - All Perils
+719,FQ46354,Sedan - Collision
+720,NY24020,Sport - Collision
+721,ET89070,Sedan - Liability
+722,OY32548,Sedan - Collision
+723,ZN86559,Sport - Liability
+724,EW13798,Utility - Liability
+725,XK99408,Sedan - Liability
+726,BX24569,Utility - All Perils
+727,GM63998,Sedan - Collision
+728,EP80820,Sedan - Collision
+729,NK91656,Utility - Liability
+730,LA60344,Utility - Collision
+731,MM67983,Sport - All Perils
+732,IF80474,Sport - Collision
+733,DQ98402,Sport - Liability
+734,ZT18953,Sedan - Collision
+735,SD94067,Utility - Collision
+736,PS69748,Sedan - Collision
+737,HF65914, Sedan - All Perils
+738,ZP80713,Utility - Collision
+739,EW35231,Sport - All Perils
+740,ZR11692,Sport - All Perils
+741,VY75186,Sedan - Liability
+742,BS13062, Sedan - All Perils
+743,UL96474,Utility - Liability
+744,HL40930, Sedan - All Perils
+745,SU44811,Sedan - Liability
+746,PZ47901,Utility - All Perils
+747,VZ59523,Utility - Collision
+748,AW84946, Sedan - All Perils
+749,LA72316,Utility - Liability
+750,QI63521,Utility - All Perils
+751,RC44077,Utility - Collision
+752,XX29952,Utility - Collision
+753,ID89933,Sedan - Liability
+754,FI61059,Utility - All Perils
+755,LH26563,Sedan - Liability
+756,IQ30108, Sedan - All Perils
+757,HN38084,Sport - All Perils
+758,EK87467, Sedan - All Perils
+759,EZ11341,Sport - Liability
+760,DO70918,Sedan - Liability
+761,JI80257, Sedan - All Perils
+762,MF83904,Utility - All Perils
+763,PW88443,Sport - Liability
+764,SM42781,Sedan - Liability
+765,PW98890,Sport - All Perils
+766,MN79082,Utility - Liability
+767,GR31499,Sport - Liability
+768,RR39751,Utility - All Perils
+769,CQ72935,Sport - Collision
+770,HZ68892,Sport - All Perils
+771,OS96036,Sedan - Collision
+772,YE88490,Utility - Liability
+773,VZ23007, Sedan - All Perils
+774,CN24514,Sedan - Collision
+775,BE78308,Sport - Collision
+776,MB90871,Sedan - Liability
+777,TV23956,Sedan - Liability
+778,XH71839,Utility - Collision
+779,JA26024,Utility - Liability
+780,VA30351, Sedan - All Perils
+781,ZX93551,Utility - All Perils
+782,UV99893,Utility - Liability
+783,CJ64468,Utility - Liability
+784,YN61339,Utility - All Perils
+785,NE16405,Utility - All Perils
+786,CZ96653,Utility - All Perils
+787,FD20455, Sedan - All Perils
+788,DK20428,Sedan - Collision
+789,HI71466, Sedan - All Perils
+790,AV76907,Utility - Collision
+791,AS17174,Sedan - Collision
+792,UH89141,Utility - Liability
+793,QW87316, Sedan - All Perils
+794,UO86707,Utility - Collision
+795,CJ31839, Sedan - All Perils
+796,NK40551,Sport - All Perils
+797,NB79936, Sedan - All Perils
+798,ED91989,Sport - Collision
+799,YI95574, Sedan - All Perils
+800,VL58402, Sedan - All Perils
+801,QX24179,Sedan - Liability
+802,VD51297,Utility - Liability
+803,MN32305,Utility - Liability
+804,LM79063,Utility - All Perils
+805,UD27331,Sedan - Liability
+806,TW11712,Utility - All Perils
+807,BE31382,Utility - Collision
+808,TF82172,Utility - Collision
+809,TN79487,Utility - Collision
+810,XZ45224,Sport - Collision
+811,BU27331, Sedan - All Perils
+812,RE46783,Sport - Liability
+813,SO57563,Utility - Collision
+814,YK32760,Sport - Collision
+815,KB20508,Sedan - Liability
+816,JG41490,Sedan - Collision
+817,SE78641,Utility - All Perils
+818,GE58317,Utility - All Perils
+819,SE30128,Sedan - Liability
+820,LG19551,Sport - All Perils
+821,SL71998, Sedan - All Perils
+822,QB26845,Utility - Collision
+823,GI25850,Sedan - Collision
+824,CW63533, Sedan - All Perils
+825,MF49636, Sedan - All Perils
+826,DP13082,Utility - Liability
+827,OJ84485,Sport - All Perils
+828,KJ87930,Sedan - Collision
+829,YY58769,Sedan - Collision
+830,OC50447,Sport - All Perils
+831,FX65946,Utility - Liability
+832,DL61016,Utility - All Perils
+833,FS97588,Sedan - Collision
+834,FU65756,Sport - Collision
+835,FB84409,Utility - Liability
+836,HA40978,Sport - All Perils
+837,OE19653,Utility - Collision
+838,GA46608,Sedan - Collision
+839,NR49426,Utility - Liability
+840,ZO20633,Sedan - Collision
+841,WP51328,Utility - Liability
+842,SC30127, Sedan - All Perils
+843,IK77998,Utility - Collision
+844,QW60568,Sport - Liability
+845,VR14881,Utility - Liability
+846,VG31922,Sport - Liability
+847,IG89777,Sport - All Perils
+848,MX80067,Sedan - Liability
+849,LF41085,Sport - Collision
+850,LO39834, Sedan - All Perils
+851,MI81870,Utility - Liability
+852,BK47926,Sport - Liability
+853,LL14393, Sedan - All Perils
+854,DP26592,Sport - Liability
+855,OD63728, Sedan - All Perils
+856,SJ71233,Utility - Liability
+857,HU75748,Utility - All Perils
+858,DM59806, Sedan - All Perils
+859,BP23267,Utility - All Perils
+860,DN92191,Utility - All Perils
+861,MS45259,Sedan - Liability
+862,MF49636, Sedan - All Perils
+863,FG91922,Sport - Collision
+864,CT74097,Sedan - Liability
+865,ZC32761,Sport - Liability
+866,ZT63368,Sedan - Collision
+867,ST59524,Utility - All Perils
+868,XB43625,Sport - Liability
+869,MM83308, Sedan - All Perils
+870,RZ50353,Utility - All Perils
+871,VC77127,Utility - Collision
+872,AU94279,Sport - Collision
+873,RJ90816, Sedan - All Perils
+874,BA87216,Sedan - Liability
+875,LR49580,Utility - Liability
+876,GY99495,Sport - All Perils
+877,HH80006,Sport - Liability
+878,JK13254,Utility - Liability
+879,PG14554,Sport - Liability
+880,ZO43755,Sedan - Collision
+881,WB38524,Sport - All Perils
+882,IP68868,Sedan - Liability
+883,NT36519,Utility - Collision
+884,PY98628,Utility - Collision
+885,DR32525, Sedan - All Perils
+886,VA77345,Sedan - Liability
+887,CF50291,Utility - All Perils
+888,BE69929,Sedan - Liability
+889,RA34556,Sport - All Perils
+890,FG63647,Sport - All Perils
+891,XR99310,Sport - Collision
+892,HS14476,Sedan - Liability
+893,SJ30138, Sedan - All Perils
+894,HB12866,Utility - All Perils
+895,EQ59908,Utility - Collision
+896,QJ31447, Sedan - All Perils
+897,YU72540,Utility - Liability
+898,QA41558, Sedan - All Perils
+899,GX29162,Sport - Collision
+900,YC43143, Sedan - All Perils
+901,AU94279,Sport - All Perils
+902,BZ92811,Utility - All Perils
+903,ZN86559,Utility - Liability
+904,CV86445, Sedan - All Perils
+905,JU64043,Sport - Collision
+906,SO18542,Utility - All Perils
+907,OU62604,Sport - All Perils
+908,XO75323,Sedan - Collision
+909,HW61722,Sedan - Liability
+910,ZY95807,Sedan - Liability
+911,PD19551,Sport - All Perils
+912,WT43034,Sedan - Liability
+913,CI24326,Sedan - Liability
+914,PP39078, Sedan - All Perils
+915,IG80910,Utility - All Perils
+916,CH97666, Sedan - All Perils
+917,QF59448,Sport - Collision
+918,VM58985,Utility - All Perils
+919,WE60408,Sport - All Perils
+920,OI68331,Utility - Collision
+921,QF55724,Utility - Liability
+922,KW52227,Utility - All Perils
+923,EM29359,Sedan - Collision
+924,YS49138,Utility - All Perils
+925,QW67581,Sedan - Liability
+926,QZ83992,Utility - Collision
+927,KL43280,Sport - Collision
+928,CK19789,Utility - Liability
+929,LZ35469,Sport - Liability
+930,PM63319, Sedan - All Perils
+931,HG64216,Sedan - Collision
+932,CZ56843,Sport - Collision
+933,PA84292,Sedan - Liability
+934,LL92275,Utility - Liability
+935,ZV17267,Sedan - Liability
+936,QJ31447,Utility - Liability
+937,BE75190,Sport - Liability
+938,QF91596, Sedan - All Perils
+939,XH20787, Sedan - All Perils
+940,KF80571,Sport - Collision
+941,TV97612,Sport - Collision
+942,PE63707, Sedan - All Perils
+943,SD38003,Sport - Collision
+944,SY46862,Sedan - Liability
+945,NF25863,Sport - Liability
+946,QE79527,Utility - Liability
+947,EP46328,Sedan - Collision
+948,BC47264,Utility - Liability
+949,GT14584, Sedan - All Perils
+950,OW33876,Sedan - Liability
+951,PT34656,Sport - All Perils
+952,ZZ22193,Sedan - Liability
+953,SJ74501,Sedan - Liability
+954,DR38127,Utility - Liability
+955,CC94413,Sport - Collision
+956,HH61461,Utility - Liability
+957,KZ26788,Sedan - Collision
+958,MC62068, Sedan - All Perils
+959,MN95006,Utility - All Perils
+960,JL93248,Sport - All Perils
+961,AD12500, Sedan - All Perils
+962,QX42433,Sport - Liability
+963,BX20846,Utility - Collision
+964,BH28530,Sport - Liability
+965,MP53132,Sport - Liability
+966,RT64920,Sport - Collision
+967,KL27677,Sport - All Perils
+968,KL27226,Sport - Collision
+969,PI96349,Sedan - Collision
+970,YA52900,Utility - Collision
+971,PK28821,Sport - Liability
+972,CT83377, Sedan - All Perils
+973,TW43626,Sedan - Collision
+974,UP90711,Utility - Liability
+975,AT93647,Sedan - Collision
+976,JN72184,Sedan - Collision
+977,BI33231, Sedan - All Perils
+978,XF99212,Sport - Collision
+979,II83628,Utility - Collision
+980,GS92994,Sport - Collision
+981,QW31435, Sedan - All Perils
+982,JP64518,Sedan - Liability
+983,UE52886,Sport - Liability
+984,VE47660,Utility - Liability
+985,OB66874,Sedan - Liability
+986,JZ54775,Sedan - Liability
+987,MX50302,Sport - Liability
+988,LY73893,Utility - Collision
+989,DH18269,Utility - Liability
+990,XC68458,Sport - All Perils
+991,GO14008,Sport - Liability
+992,GM98732,Sedan - Collision
+993,KI91500, Sedan - All Perils
+994,VW46878, Sedan - All Perils
+995,WL46620,Sport - Collision
+996,XK87182,Sedan - Liability
+997,CE78778, Sedan - All Perils
+998,AT89553,Utility - All Perils
+999,RB16360,Sedan - Collision
+1000,VF96109,Sport - Liability
+1001,KP96020,Sport - Liability
+1002,GV59387,Sport - Liability
+1003,OQ69520,Sport - All Perils
+1004,HV16877, Sedan - All Perils
+1005,CH97539,Sport - Liability
+1006,CP67787,Utility - Liability
+1007,VK94891,Sport - All Perils
+1008,IA52178,Sport - Collision
+1009,DR32525,Sport - Collision
+1010,DX70966,Sport - All Perils
+1011,AS18084,Sedan - Liability
+1012,LE26899, Sedan - All Perils
+1013,EZ41764,Sport - Liability
+1014,YC33550,Sport - All Perils
+1015,PA38372,Sedan - Collision
+1016,RM31359,Sport - Liability
+1017,AI85843,Sport - Collision
+1018,DO83789,Sedan - Collision
+1019,UH41125,Utility - Liability
+1020,ZZ41158,Utility - All Perils
+1021,ER51965,Sport - All Perils
+1022,RY38931,Sedan - Collision
+1023,DP92488,Utility - All Perils
+1024,KI58952,Sedan - Collision
+1025,GQ15613,Utility - All Perils
+1026,NE51159,Sport - Liability
+1027,ZQ94561,Utility - Liability
+1028,WT22392,Utility - All Perils
+1029,SB61617,Utility - Collision
+1030,KJ29915,Sedan - Collision
+1031,WJ55369,Utility - Liability
+1032,YF87007, Sedan - All Perils
+1033,CB64729, Sedan - All Perils
+1034,GI36262,Sedan - Liability
+1035,KR82385,Sedan - Collision
+1036,HQ15974,Utility - Liability
+1037,SL22297,Sedan - Liability
+1038,LX95134,Utility - Collision
+1039,SZ35936,Sport - Liability
+1040,DC91024,Sport - Collision
+1041,ZC32510,Utility - All Perils
+1042,NW23827,Sport - Liability
+1043,HZ39407,Utility - Collision
+1044,RQ99149, Sedan - All Perils
+1045,LS62045,Sedan - Liability
+1046,ZK21724,Sport - Collision
+1047,NT15165,Sport - All Perils
+1048,RY26286,Sport - Collision
+1049,BU72633, Sedan - All Perils
+1050,BR24590,Sport - Collision
+1051,IV84135,Sport - All Perils
+1052,FP78531,Utility - Liability
+1053,IL12516,Sedan - Liability
+1054,MN61620,Utility - Collision
+1055,OA46321,Sport - All Perils
+1056,KR25511,Sedan - Liability
+1057,TK40018, Sedan - All Perils
+1058,HF82396,Sedan - Liability
+1059,JC96695,Utility - Collision
+1060,AP32891,Sedan - Collision
+1061,OF77789,Sedan - Liability
+1062,JK68578, Sedan - All Perils
+1063,GE47180,Sedan - Liability
+1064,CM48429,Sedan - Collision
+1065,OY38576,Sport - Liability
+1066,ZT26848,Utility - Collision
+1067,TJ11671,Utility - All Perils
+1068,CO19402,Sport - Liability
+1069,MN32305,Sport - Collision
+1070,CF95802,Utility - Liability
+1071,QC89139,Utility - All Perils
+1072,EF84269,Utility - All Perils
+1073,VV68726,Utility - Collision
+1074,KQ49890,Sport - All Perils
+1075,AT62618, Sedan - All Perils
+1076,RN97635,Sedan - Liability
+1077,JO63462,Utility - All Perils
+1078,ZW51071,Utility - Liability
+1079,TP61305,Sedan - Collision
+1080,KW56110,Sedan - Collision
+1081,NT25078,Utility - Collision
+1082,LO68739,Utility - All Perils
+1083,MC62068,Sport - All Perils
+1084,WZ40465,Sport - Liability
+1085,EG12987,Utility - Liability
+1086,VY27019,Utility - Collision
+1087,RF73329,Utility - Liability
+1088,LO48126, Sedan - All Perils
+1089,DX70966,Sport - All Perils
+1090,WH81461,Sport - All Perils
+1091,LB97434,Utility - Collision
+1092,NJ54277,Utility - Collision
+1093,KZ26788,Utility - Collision
+1094,WV53830,Sport - All Perils
+1095,QF76244,Sport - Collision
+1096,ZD65365,Utility - Collision
+1097,JZ23377,Utility - Collision
+1098,CD86811,Utility - All Perils
+1099,OC88207,Sport - Liability
+1100,TM23514,Sport - Collision
+1101,TH96263, Sedan - All Perils
+1102,VP13613,Sport - Collision
+1103,MR77933,Utility - All Perils
+1104,VJ51327,Sport - Collision
+1105,LF36128,Sedan - Collision
+1106,XR52852,Sedan - Collision
+1107,FI17798,Sport - Liability
+1108,QV66305, Sedan - All Perils
+1109,SM88270,Sport - Collision
+1110,JI93499,Utility - All Perils
+1111,YD45065,Utility - All Perils
+1112,AN97123,Sport - All Perils
+1113,UZ60774,Utility - Liability
+1114,YU90693,Sport - Liability
+1115,WY43888,Utility - Liability
+1116,FS19862,Utility - All Perils
+1117,PD19551,Utility - Collision
+1118,NX32730,Sport - All Perils
+1119,XR84971,Utility - Collision
+1120,PI96349,Utility - All Perils
+1121,PS69748, Sedan - All Perils
+1122,WU63862,Sport - All Perils
+1123,EE57466,Utility - All Perils
+1124,GB75821,Utility - All Perils
+1125,LZ34046,Utility - Liability
+1126,GG61186,Sedan - Collision
+1127,BQ28323,Sedan - Collision
+1128,ZC97968, Sedan - All Perils
+1129,IN17648,Utility - Liability
+1130,QJ22057,Utility - Collision
+1131,NB10500,Utility - Collision
+1132,NB54665,Sport - Liability
+1133,AJ32539, Sedan - All Perils
+1134,OH23652,Sedan - Liability
+1135,FL55134,Sport - Liability
+1136,PU25891,Sport - Liability
+1137,NS14955,Utility - Liability
+1138,TM14491,Sport - Collision
+1139,TG95261,Sport - All Perils
+1140,UK76814,Sport - All Perils
+1141,SE15781,Sport - All Perils
+1142,VJ83206,Utility - Liability
+1143,QO59138,Utility - Collision
+1144,DA79098,Utility - Liability
+1145,VF36700,Utility - Collision
+1146,AA69265,Sedan - Collision
+1147,EB61889, Sedan - All Perils
+1148,KN15789,Utility - Liability
+1149,VY75186,Sport - Collision
+1150,GB45753,Utility - Liability
+1151,TD97297,Utility - Collision
+1152,HR64765,Utility - All Perils
+1153,WO94087,Sedan - Collision
+1154,TV53243,Utility - Collision
+1155,CE71123, Sedan - All Perils
+1156,CN16311,Sport - Liability
+1157,HU76577,Sedan - Liability
+1158,VI35467,Sedan - Liability
+1159,LL14393,Sedan - Liability
+1160,KD21661, Sedan - All Perils
+1161,CO44659, Sedan - All Perils
+1162,LQ45358,Sport - Liability
+1163,HF15113,Sedan - Liability
+1164,JC45487,Utility - Liability
+1165,LU79865,Sport - Liability
+1166,MU64306,Utility - Liability
+1167,AI14767, Sedan - All Perils
+1168,UW90223,Utility - Liability
+1169,PC80039, Sedan - All Perils
+1170,FR46645,Utility - Collision
+1171,HI16472,Sport - Liability
+1172,AB73565,Sport - All Perils
+1173,QY37300,Sport - All Perils
+1174,RD28560,Utility - Liability
+1175,RE12758,Sedan - Collision
+1176,YC54142,Sport - Liability
+1177,US78266,Utility - Collision
+1178,UI36597,Sport - Liability
+1179,GD17919,Sport - Collision
+1180,AK11719,Sport - Collision
+1181,DL20327,Sport - All Perils
+1182,QF74147, Sedan - All Perils
+1183,VA35421,Sport - All Perils
+1184,IQ15028,Utility - Collision
+1185,FY13480,Sport - Collision
+1186,EC44438,Sedan - Collision
+1187,WL92199,Sport - All Perils
+1188,KW99972,Utility - Liability
+1189,RS60249,Sport - Liability
+1190,UN52560,Sport - Collision
+1191,AK17025,Sport - Collision
+1192,OP47206,Utility - All Perils
+1193,VM69145,Utility - Collision
+1194,TW43626, Sedan - All Perils
+1195,EG10175, Sedan - All Perils
+1196,EW68125,Sedan - Liability
+1197,PD79570,Utility - Liability
+1198,PD69398,Sport - Liability
+1199,TY20016,Sedan - Collision
+1200,LB83807,Utility - All Perils
+1201,QW67581,Sport - Collision
+1202,CK24264,Sedan - Collision
+1203,CP87192,Utility - Collision
+1204,MM49431,Sport - Collision
+1205,ZE40223,Sport - Liability
+1206,NQ42020,Sedan - Liability
+1207,TO34442,Sedan - Collision
+1208,YC87263,Sport - Liability
+1209,PD32641,Utility - Liability
+1210,JJ97525,Sport - All Perils
+1211,TD90177,Sedan - Collision
+1212,KD16729,Sport - Collision
+1213,US82470,Sport - All Perils
+1214,TG70775,Utility - Liability
+1215,VV82891,Sport - Collision
+1216,CH97539,Sport - Collision
+1217,QG15661,Sedan - Liability
+1218,LC58452,Utility - Collision
+1219,NM77735,Sport - All Perils
+1220,WC28543,Sport - Collision
+1221,HQ32112,Utility - All Perils
+1222,NK73719,Sport - All Perils
+1223,SR74929,Sedan - Collision
+1224,PP48389,Sport - All Perils
+1225,NB54665,Sedan - Liability
+1226,OC50447,Sport - Liability
+1227,TA77711,Sedan - Liability
+1228,UF46533,Sport - Collision
+1229,GZ64473,Utility - All Perils
+1230,OO11531,Utility - Collision
+1231,KI58952,Utility - Collision
+1232,OH55411,Sedan - Liability
+1233,QT25383,Utility - All Perils
+1234,NN54114,Utility - All Perils
+1235,QV24282,Sport - All Perils
+1236,HT31871,Sport - All Perils
+1237,QD97878,Sedan - Liability
+1238,XB17553,Utility - Collision
+1239,NI66988,Utility - Collision
+1240,JA47688,Utility - All Perils
+1241,IC47914,Sedan - Collision
+1242,QJ89807,Utility - All Perils
+1243,GM54723,Utility - All Perils
+1244,MC73302,Sedan - Collision
+1245,UQ30615,Utility - Liability
+1246,BS29584,Utility - All Perils
+1247,RA29518,Sport - All Perils
+1248,QD46343,Utility - All Perils
+1249,AZ50087,Sport - Liability
+1250,JZ76788,Sedan - Liability
+1251,JB76199,Sedan - Collision
+1252,OF93412, Sedan - All Perils
+1253,LV14566,Sport - Liability
+1254,XX88364, Sedan - All Perils
+1255,ZJ65064,Utility - All Perils
+1256,UW98698,Sedan - Collision
+1257,XH20787,Utility - Liability
+1258,LE12086,Utility - Liability
+1259,BC64697,Sport - Liability
+1260,FS67856,Sedan - Liability
+1261,LM84166,Utility - Liability
+1262,RE46783,Sport - All Perils
+1263,LE12782,Sport - All Perils
+1264,BN87372,Utility - Liability
+1265,KR43119,Sport - All Perils
+1266,DQ31994,Sedan - Collision
+1267,WB68229,Sedan - Liability
+1268,IL32727,Sport - All Perils
+1269,IE36279, Sedan - All Perils
+1270,SM87252,Utility - Collision
+1271,DF66914,Sedan - Collision
+1272,DJ93289,Sport - Liability
+1273,JC80093, Sedan - All Perils
+1274,YG87460,Utility - All Perils
+1275,MR56401,Utility - Collision
+1276,LC47479,Utility - Liability
+1277,TH69908,Sport - Liability
+1278,RH70194,Utility - Collision
+1279,FU43761,Sedan - Collision
+1280,QI99143,Sedan - Liability
+1281,ZX64745,Utility - Liability
+1282,YB66933,Utility - Liability
+1283,SY36127,Utility - All Perils
+1284,KX55910,Sedan - Liability
+1285,ZY60545,Sport - Collision
+1286,VZ61940,Sedan - Liability
+1287,EZ78112,Utility - Collision
+1288,FY30870,Sport - All Perils
+1289,QM61543,Utility - All Perils
+1290,HP46467,Sport - Collision
+1291,JD10245,Utility - Liability
+1292,RZ98310,Utility - Liability
+1293,WG26617,Utility - All Perils
+1294,IR62720, Sedan - All Perils
+1295,AR17553, Sedan - All Perils
+1296,YU86594,Sport - Liability
+1297,AM94127, Sedan - All Perils
+1298,ZQ37164,Sedan - Liability
+1299,UI36597, Sedan - All Perils
+1300,JD75068,Sedan - Collision
+1301,SJ86522,Utility - Liability
+1302,MS45259, Sedan - All Perils
+1303,PX72779,Sport - Collision
+1304,UN63889,Sedan - Liability
+1305,LQ16286,Utility - Liability
+1306,DL14445,Sedan - Liability
+1307,TH86528,Sport - All Perils
+1308,NL17964,Sedan - Liability
+1309,DZ64604,Utility - Liability
+1310,JD11661,Utility - Collision
+1311,MD86050,Sport - All Perils
+1312,CV29889,Sedan - Collision
+1313,HC20975,Utility - All Perils
+1314,IX10511,Sport - Liability
+1315,PA38372,Utility - Liability
+1316,DK19711,Utility - Collision
+1317,IN17648,Utility - Liability
+1318,UF28233,Sport - Liability
+1319,YW85018,Sport - All Perils
+1320,IH54239,Sedan - Collision
+1321,SM73248,Sport - Collision
+1322,SN36487,Sport - Collision
+1323,TQ82322,Sport - Collision
+1324,OO92815, Sedan - All Perils
+1325,WA97671,Sport - All Perils
+1326,SK93727,Sedan - Collision
+1327,WK46492,Sport - All Perils
+1328,AM94127,Sport - All Perils
+1329,UL96474,Utility - All Perils
+1330,BV55733,Sedan - Liability
+1331,Y167826,Utility - Liability
+1332,TP20456,Utility - Liability
+1333,WD38315,Sport - Liability
+1334,QV89018,Utility - Collision
+1335,QF74806,Utility - All Perils
+1336,TS11219,Utility - Liability
+1337,OB69153,Utility - Collision
+1338,BZ33435,Sport - Liability
+1339,AV25133,Sport - Collision
+1340,GT18396,Utility - Liability
+1341,NY90858,Utility - Liability
+1342,HW85007,Sport - Collision
+1343,NC78961,Sport - Collision
+1344,YV67971,Sedan - Liability
+1345,LZ34164,Utility - Liability
+1346,SE15781,Utility - Liability
+1347,JL71713,Sport - All Perils
+1348,MS20849,Utility - All Perils
+1349,EJ67407,Sport - Liability
+1350,KB15252,Sedan - Liability
+1351,ZK90062,Sedan - Liability
+1352,AA34092,Sedan - Liability
+1353,ZB23962,Utility - Liability
+1354,EI17022,Utility - All Perils
+1355,WM87004,Sport - Liability
+1356,FS84707, Sedan - All Perils
+1357,WU62992,Sport - Collision
+1358,HT50748,Sport - All Perils
+1359,OE88763,Sport - All Perils
+1360,GC42314,Sedan - Collision
+1361,JP30654,Utility - Collision
+1362,NF31087, Sedan - All Perils
+1363,UR73910,Utility - Liability
+1364,ZH35315,Sport - All Perils
+1365,LJ88616,Sport - All Perils
+1366,XO67536,Sport - Collision
+1367,JH94846,Utility - All Perils
+1368,OX87524,Sport - Liability
+1369,FJ57446,Utility - All Perils
+1370,RW66792,Utility - Liability
+1371,UM44109,Sedan - Liability
+1372,HN54181,Sedan - Liability
+1373,DC37886,Utility - Collision
+1374,ZW32080,Sedan - Collision
+1375,CR40615,Sport - Collision
+1376,QA78691,Sport - Collision
+1377,SI11249,Utility - Collision
+1378,FC70869,Utility - Liability
+1379,DZ35379,Sport - Liability
+1380,MG99229,Sport - Collision
+1381,XH20787,Sport - Collision
+1382,FF93355,Utility - Liability
+1383,KS12294,Utility - Liability
+1384,XO42145,Utility - Collision
+1385,IC78105,Sport - Collision
+1386,SE15781,Sport - Collision
+1387,XR99310,Utility - Liability
+1388,EN60878,Sport - All Perils
+1389,BW52697,Sport - Collision
+1390,LY14687,Sport - Collision
+1391,RN97635,Utility - Liability
+1392,DQ19343, Sedan - All Perils
+1393,SD30853,Utility - Collision
+1394,PL44132,Sport - All Perils
+1395,DB26077,Sport - All Perils
+1396,HW19506,Utility - Liability
+1397,LH80781,Utility - Liability
+1398,XY66810,Sport - Liability
+1399,YP37291,Utility - Liability
+1400,KQ30179,Sedan - Liability
+1401,LK73198,Sport - All Perils
+1402,WT38706,Sport - Liability
+1403,RO89785,Sport - Liability
+1404,QA71190,Sport - All Perils
+1405,VP84987,Sport - All Perils
+1406,MA37431,Utility - All Perils
+1407,ST96866,Sport - Collision
+1408,CN90378,Utility - Liability
+1409,VV81837,Utility - Liability
+1410,AW73065,Utility - All Perils
+1411,IN28584,Utility - Liability
+1412,UF36353,Sedan - Collision
+1413,ME37051,Utility - Liability
+1414,YQ98465, Sedan - All Perils
+1415,UH45301,Sport - All Perils
+1416,EZ71780,Sport - Collision
+1417,IX37561,Utility - Liability
+1418,ZG18090,Sport - Collision
+1419,FQ46354,Sport - Collision
+1420,NY24020, Sedan - All Perils
+1421,ET89070,Utility - All Perils
+1422,OY32548,Sedan - Liability
+1423,ZN86559,Utility - Collision
+1424,EW13798,Sedan - Liability
+1425,XK99408,Sport - All Perils
+1426,BX24569,Sport - Collision
+1427,GM63998,Utility - Liability
+1428,EP80820,Utility - Liability
+1429,NK91656,Sedan - Liability
+1430,LA60344,Utility - Collision
+1431,MM67983, Sedan - All Perils
+1432,IF80474,Utility - Collision
+1433,DQ98402,Sport - Liability
+1434,ZT18953,Sport - Collision
+1435,SD94067,Sedan - Liability
+1436,PS69748,Sedan - Collision
+1437,HF65914,Sport - Collision
+1438,ZP80713,Sport - All Perils
+1439,EW35231,Utility - Collision
+1440,ZR11692, Sedan - All Perils
+1441,VY75186,Utility - All Perils
+1442,BS13062,Sport - All Perils
+1443,UL96474,Sport - All Perils
+1444,HL40930,Sport - Collision
+1445,SU44811,Utility - All Perils
+1446,PZ47901,Sedan - Liability
+1447,VZ59523,Sport - Liability
+1448,AW84946, Sedan - All Perils
+1449,LA72316,Utility - All Perils
+1450,QI63521, Sedan - All Perils
+1451,RC44077,Sport - Collision
+1452,XX29952,Sedan - Liability
+1453,ID89933,Sport - All Perils
+1454,FI61059,Utility - Liability
+1455,LH26563,Sport - Liability
+1456,IQ30108,Utility - Liability
+1457,HN38084,Utility - All Perils
+1458,EK87467,Sport - Liability
+1459,EZ11341,Sport - Collision
+1460,DO70918,Utility - Collision
+1461,JI80257,Sport - All Perils
+1462,MF83904,Sport - All Perils
+1463,PW88443,Utility - Liability
+1464,SM42781,Utility - Collision
+1465,PW98890,Sedan - Collision
+1466,MN79082,Utility - Liability
+1467,GR31499,Sport - All Perils
+1468,RR39751,Utility - Collision
+1469,CQ72935,Sport - All Perils
+1470,HZ68892,Sedan - Collision
+1471,OS96036,Utility - All Perils
+1472,YE88490,Sedan - Collision
+1473,VZ23007,Sport - Liability
+1474,CN24514,Sedan - Collision
+1475,BE78308,Utility - Liability
+1476,MB90871,Sport - Liability
+1477,TV23956,Sedan - Liability
+1478,XH71839,Utility - Liability
+1479,JA26024,Sport - All Perils
+1480,VA30351,Sedan - Liability
+1481,ZX93551,Sedan - Liability
+1482,UV99893,Utility - Liability
+1483,CJ64468,Sport - Liability
+1484,YN61339,Sedan - Collision
+1485,NE16405,Utility - All Perils
+1486,CZ96653,Sport - All Perils
+1487,FD20455,Sport - All Perils
+1488,DK20428,Sport - All Perils
+1489,HI71466,Sport - All Perils
+1490,AV76907,Sport - Collision
+1491,AS17174,Sedan - Collision
+1492,UH89141,Utility - Liability
+1493,QW87316,Utility - All Perils
+1494,UO86707,Utility - Liability
+1495,CJ31839,Sport - Collision
+1496,NK40551,Sport - All Perils
+1497,NB79936, Sedan - All Perils
+1498,ED91989,Sport - All Perils
+1499,YI95574,Utility - All Perils
+1500,VL58402,Utility - Collision
+1501,QX24179,Utility - All Perils
+1502,VD51297,Sedan - Liability
+1503,MN32305,Sedan - Liability
+1504,LM79063,Sport - Liability
+1505,UD27331,Sport - Collision
+1506,TW11712,Utility - All Perils
+1507,BE31382, Sedan - All Perils
+1508,TF82172,Utility - Liability
+1509,TN79487,Sedan - Liability
+1510,XZ45224,Sport - All Perils
+1511,BU27331,Sedan - Liability
+1512,RE46783,Sedan - Collision
+1513,SO57563,Sport - Liability
+1514,YK32760,Utility - Liability
+1515,KB20508,Sedan - Liability
+1516,JG41490, Sedan - All Perils
+1517,SE78641,Sport - Liability
+1518,GE58317, Sedan - All Perils
+1519,SE30128,Utility - Collision
+1520,LG19551,Sport - Liability
+1521,SL71998, Sedan - All Perils
+1522,QB26845,Utility - Collision
+1523,GI25850,Utility - Liability
+1524,CW63533,Utility - All Perils
+1525,MF49636,Utility - Collision
+1526,DP13082,Utility - Collision
+1527,OJ84485,Sport - Collision
+1528,KJ87930,Utility - Liability
+1529,YY58769,Sedan - Collision
+1530,OC50447,Sport - Collision
+1531,FX65946,Sedan - Collision
+1532,DL61016,Sport - Liability
+1533,FS97588,Sedan - Collision
+1534,FU65756,Sedan - Collision
+1535,FB84409,Sport - All Perils
+1536,HA40978,Utility - Collision
+1537,OE19653,Sport - Collision
+1538,GA46608,Utility - Collision
+1539,NR49426,Sedan - Liability
+1540,ZO20633,Utility - All Perils
+1541,WP51328,Utility - Liability
+1542,SC30127,Sedan - Collision
+1543,IK77998,Utility - Liability
+1544,QW60568, Sedan - All Perils
+1545,VR14881,Sedan - Collision
+1546,VG31922,Sedan - Collision
+1547,IG89777,Sport - Liability
+1548,MX80067, Sedan - All Perils
+1549,LF41085,Sport - Liability
+1550,LO39834,Sedan - Liability
+1551,MI81870,Sport - All Perils
+1552,BK47926,Utility - Collision
+1553,LL14393,Utility - Liability
+1554,DP26592,Sport - Liability
+1555,OD63728, Sedan - All Perils
+1556,SJ71233,Sport - Liability
+1557,HU75748,Utility - All Perils
+1558,DM59806,Utility - Liability
+1559,BP23267,Sedan - Collision
+1560,DN92191,Sport - Liability
+1561,MS45259,Sedan - Liability
+1562,MF49636,Sedan - Liability
+1563,FG91922,Sport - All Perils
+1564,CT74097,Utility - Liability
+1565,ZC32761,Utility - Liability
+1566,ZT63368,Sport - All Perils
+1567,ST59524,Sport - Collision
+1568,XB43625,Utility - Collision
+1569,MM83308,Utility - Collision
+1570,RZ50353,Utility - All Perils
+1571,VC77127,Sedan - Liability
+1572,AU94279,Utility - All Perils
+1573,RJ90816, Sedan - All Perils
+1574,BA87216,Utility - All Perils
+1575,LR49580,Sedan - Collision
+1576,GY99495,Utility - Collision
+1577,HH80006, Sedan - All Perils
+1578,JK13254, Sedan - All Perils
+1579,PG14554,Sport - Liability
+1580,ZO43755,Sport - All Perils
+1581,WB38524,Sedan - Liability
+1582,IP68868,Utility - Collision
+1583,NT36519, Sedan - All Perils
+1584,PY98628,Utility - All Perils
+1585,DR32525, Sedan - All Perils
+1586,VA77345,Sport - Collision
+1587,CF50291,Sport - All Perils
+1588,BE69929,Sport - Collision
+1589,RA34556,Sport - All Perils
+1590,FG63647,Sport - Collision
+1591,XR99310,Sport - Collision
+1592,HS14476,Sedan - Liability
+1593,SJ30138,Sport - Collision
+1594,HB12866,Sport - Liability
+1595,EQ59908, Sedan - All Perils
+1596,QJ31447,Utility - Collision
+1597,YU72540,Sport - All Perils
+1598,QA41558,Utility - Collision
+1599,GX29162,Sport - All Perils
+1600,YC43143,Sport - All Perils
+1601,AU94279,Sedan - Collision
+1602,BZ92811,Sport - All Perils
+1603,ZN86559, Sedan - All Perils
+1604,CV86445,Utility - Liability
+1605,JU64043, Sedan - All Perils
+1606,SO18542,Utility - Collision
+1607,OU62604,Utility - All Perils
+1608,XO75323,Sport - Collision
+1609,HW61722, Sedan - All Perils
+1610,ZY95807,Utility - Liability
+1611,PD19551,Sport - All Perils
+1612,WT43034,Utility - All Perils
+1613,CI24326,Sport - Collision
+1614,PP39078,Sport - Liability
+1615,IG80910,Utility - Collision
+1616,CH97666,Utility - All Perils
+1617,QF59448,Sport - All Perils
+1618,VM58985,Sport - Liability
+1619,WE60408,Utility - Liability
+1620,OI68331,Sport - Collision
+1621,QF55724,Sedan - Collision
+1622,KW52227,Sport - All Perils
+1623,EM29359,Sport - All Perils
+1624,YS49138,Utility - Liability
+1625,QW67581,Sport - Collision
+1626,QZ83992, Sedan - All Perils
+1627,KL43280,Sedan - Collision
+1628,CK19789,Sport - Collision
+1629,LZ35469,Sport - Liability
+1630,PM63319, Sedan - All Perils
+1631,HG64216,Sport - All Perils
+1632,CZ56843,Sport - Collision
+1633,PA84292,Sport - Liability
+1634,LL92275,Sport - Collision
+1635,ZV17267,Utility - Collision
+1636,QJ31447,Sport - All Perils
+1637,BE75190,Sedan - Liability
+1638,QF91596,Utility - Collision
+1639,XH20787,Utility - Liability
+1640,KF80571,Sport - All Perils
+1641,TV97612,Sedan - Liability
+1642,PE63707,Utility - All Perils
+1643,SD38003,Sport - All Perils
+1644,SY46862,Utility - Collision
+1645,NF25863,Sport - Liability
+1646,QE79527,Sedan - Liability
+1647,EP46328,Utility - Liability
+1648,BC47264,Utility - Liability
+1649,GT14584,Utility - All Perils
+1650,OW33876,Utility - Liability
+1651,PT34656,Sport - All Perils
+1652,ZZ22193,Sport - Liability
+1653,SJ74501,Utility - All Perils
+1654,DR38127,Sport - Liability
+1655,CC94413,Sport - All Perils
+1656,HH61461, Sedan - All Perils
+1657,KZ26788,Utility - Collision
+1658,MC62068,Utility - Liability
+1659,MN95006,Sport - All Perils
+1660,JL93248,Sedan - Collision
+1661,AD12500,Sport - All Perils
+1662,QX42433,Sedan - Liability
+1663,BX20846,Sport - Liability
+1664,BH28530,Utility - Liability
+1665,MP53132,Sport - Liability
+1666,RT64920,Sedan - Collision
+1667,KL27677,Sedan - Collision
+1668,KL27226,Sport - All Perils
+1669,PI96349,Utility - Collision
+1670,YA52900,Utility - All Perils
+1671,PK28821,Sport - All Perils
+1672,CT83377,Utility - All Perils
+1673,TW43626,Sedan - Liability
+1674,UP90711,Sport - Collision
+1675,AT93647,Sport - All Perils
+1676,JN72184,Sedan - Collision
+1677,BI33231,Sedan - Collision
+1678,XF99212,Sedan - Liability
+1679,II83628,Utility - All Perils
+1680,GS92994,Utility - Collision
+1681,QW31435, Sedan - All Perils
+1682,JP64518,Utility - Collision
+1683,UE52886,Utility - Collision
+1684,VE47660,Sedan - Liability
+1685,OB66874,Utility - Liability
+1686,JZ54775,Utility - Liability
+1687,MX50302,Utility - All Perils
+1688,LY73893,Utility - Collision
+1689,DH18269,Utility - All Perils
+1690,XC68458,Sedan - Liability
+1691,GO14008,Sport - Liability
+1692,GM98732,Sport - All Perils
+1693,KI91500,Sport - Liability
+1694,VW46878,Utility - Liability
+1695,WL46620,Sport - Collision
+1696,XK87182, Sedan - All Perils
+1697,CE78778,Sport - Collision
+1698,AT89553,Sedan - Collision
+1699,RB16360,Sport - Collision
+1700,VF96109,Sedan - Collision
+1701,KP96020,Sport - All Perils
+1702,GV59387,Sedan - Collision
+1703,OQ69520,Utility - Liability
+1704,HV16877,Sport - All Perils
+1705,CH97539,Sport - Collision
+1706,CP67787,Sport - Liability
+1707,VK94891,Utility - All Perils
+1708,IA52178,Utility - Collision
+1709,DR32525,Utility - Collision
+1710,DX70966,Utility - Collision
+1711,AS18084,Sport - All Perils
+1712,LE26899,Sedan - Collision
+1713,EZ41764,Sport - Liability
+1714,YC33550,Sport - Liability
+1715,PA38372,Utility - Collision
+1716,RM31359,Utility - All Perils
+1717,AI85843,Sport - Collision
+1718,DO83789,Sport - All Perils
+1719,UH41125,Sedan - Liability
+1720,ZZ41158,Sport - Collision
+1721,ER51965,Utility - Collision
+1722,RY38931,Sport - Liability
+1723,DP92488,Sedan - Liability
+1724,KI58952,Sedan - Collision
+1725,GQ15613,Utility - Liability
+1726,NE51159,Sport - Liability
+1727,ZQ94561,Utility - All Perils
+1728,WT22392,Sport - Collision
+1729,SB61617,Sport - Collision
+1730,KJ29915, Sedan - All Perils
+1731,WJ55369,Sedan - Liability
+1732,YF87007,Sedan - Liability
+1733,CB64729,Utility - All Perils
+1734,GI36262,Utility - Collision
+1735,KR82385,Utility - Liability
+1736,HQ15974,Utility - Collision
+1737,SL22297,Utility - Liability
+1738,LX95134,Utility - Collision
+1739,SZ35936, Sedan - All Perils
+1740,DC91024,Utility - All Perils
+1741,ZC32510,Sport - All Perils
+1742,NW23827,Sport - All Perils
+1743,HZ39407,Sport - Collision
+1744,RQ99149,Utility - Collision
+1745,LS62045,Sedan - Liability
+1746,ZK21724, Sedan - All Perils
+1747,NT15165,Sport - Collision
+1748,RY26286,Sedan - Collision
+1749,BU72633,Utility - Liability
+1750,BR24590,Sedan - Liability
+1751,IV84135,Sedan - Liability
+1752,FP78531,Sport - Collision
+1753,IL12516,Utility - Collision
+1754,MN61620,Utility - Collision
+1755,OA46321,Sedan - Liability
+1756,KR25511,Sport - Liability
+1757,TK40018,Sport - Liability
+1758,HF82396,Utility - Liability
+1759,JC96695,Sedan - Collision
+1760,AP32891,Utility - Collision
+1761,OF77789,Utility - Collision
+1762,JK68578,Sport - Liability
+1763,GE47180,Sport - All Perils
+1764,CM48429,Utility - All Perils
+1765,OY38576,Utility - All Perils
+1766,ZT26848,Utility - Liability
+1767,TJ11671, Sedan - All Perils
+1768,CO19402,Sedan - Liability
+1769,MN32305,Sport - Collision
+1770,CF95802,Utility - Collision
+1771,QC89139,Utility - Collision
+1772,EF84269,Utility - All Perils
+1773,VV68726,Utility - All Perils
+1774,KQ49890,Utility - Liability
+1775,AT62618,Sport - Collision
+1776,RN97635,Sport - All Perils
+1777,JO63462,Sport - Collision
+1778,ZW51071,Sport - All Perils
+1779,TP61305,Utility - Liability
+1780,KW56110,Utility - Collision
+1781,NT25078,Sport - Liability
+1782,LO68739,Sedan - Collision
+1783,MC62068,Sport - Collision
+1784,WZ40465,Utility - Collision
+1785,EG12987,Sport - All Perils
+1786,VY27019,Utility - Liability
+1787,RF73329,Utility - Collision
+1788,LO48126,Utility - Collision
+1789,DX70966,Utility - All Perils
+1790,WH81461,Sport - Collision
+1791,LB97434,Sedan - Collision
+1792,NJ54277,Sport - All Perils
+1793,KZ26788,Sport - All Perils
+1794,WV53830,Utility - Liability
+1795,QF76244,Sport - All Perils
+1796,ZD65365,Sport - Collision
+1797,JZ23377, Sedan - All Perils
+1798,CD86811,Sport - Collision
+1799,OC88207,Utility - Collision
+1800,TM23514,Utility - Liability
+1801,TH96263,Sedan - Liability
+1802,VP13613,Utility - All Perils
+1803,MR77933,Sport - All Perils
+1804,VJ51327, Sedan - All Perils
+1805,LF36128,Sport - All Perils
+1806,XR52852,Utility - Liability
+1807,FI17798,Utility - Collision
+1808,QV66305,Sedan - Liability
+1809,SM88270,Utility - Collision
+1810,JI93499,Utility - Liability
+1811,YD45065,Sedan - Liability
+1812,AN97123,Utility - Liability
+1813,UZ60774, Sedan - All Perils
+1814,YU90693,Sport - Liability
+1815,WY43888,Sedan - Liability
+1816,FS19862,Sedan - Liability
+1817,PD19551,Sport - Liability
+1818,NX32730, Sedan - All Perils
+1819,XR84971,Sport - Liability
+1820,PI96349,Sedan - Collision
+1821,PS69748,Utility - All Perils
+1822,WU63862, Sedan - All Perils
+1823,EE57466,Utility - Liability
+1824,GB75821,Utility - Collision
+1825,LZ34046,Sport - Collision
+1826,GG61186,Sedan - Liability
+1827,BQ28323,Utility - Liability
+1828,ZC97968,Sedan - Collision
+1829,IN17648,Utility - All Perils
+1830,QJ22057, Sedan - All Perils
+1831,NB10500,Sedan - Collision
+1832,NB54665,Sport - Collision
+1833,AJ32539, Sedan - All Perils
+1834,OH23652,Sedan - Collision
+1835,FL55134,Sport - Collision
+1836,PU25891, Sedan - All Perils
+1837,NS14955,Utility - All Perils
+1838,TM14491,Sedan - Collision
+1839,TG95261,Utility - Collision
+1840,UK76814,Sport - Liability
+1841,SE15781, Sedan - All Perils
+1842,VJ83206,Sedan - Collision
+1843,QO59138,Sedan - Liability
+1844,DA79098,Utility - Collision
+1845,VF36700,Sport - Liability
+1846,AA69265,Sport - All Perils
+1847,EB61889,Utility - All Perils
+1848,KN15789,Sedan - Collision
+1849,VY75186,Sedan - Liability
+1850,GB45753, Sedan - All Perils
+1851,TD97297,Sedan - Collision
+1852,HR64765,Utility - Collision
+1853,WO94087,Sport - All Perils
+1854,TV53243,Sport - Liability
+1855,CE71123, Sedan - All Perils
+1856,CN16311,Sedan - Liability
+1857,HU76577,Sport - Liability
+1858,VI35467,Utility - All Perils
+1859,LL14393,Utility - Collision
+1860,KD21661,Sedan - Collision
+1861,CO44659,Utility - Liability
+1862,LQ45358, Sedan - All Perils
+1863,HF15113,Utility - All Perils
+1864,JC45487,Sport - Liability
+1865,LU79865,Sedan - Liability
+1866,MU64306,Utility - Collision
+1867,AI14767, Sedan - All Perils
+1868,UW90223,Sport - Liability
+1869,PC80039,Utility - All Perils
+1870,FR46645,Utility - All Perils
+1871,HI16472,Utility - Collision
+1872,AB73565,Utility - All Perils
+1873,QY37300, Sedan - All Perils
+1874,RD28560,Sport - Liability
+1875,RE12758,Sport - Liability
+1876,YC54142,Utility - All Perils
+1877,US78266,Utility - Collision
+1878,UI36597,Sport - Liability
+1879,GD17919,Sport - Liability
+1880,AK11719,Utility - Collision
+1881,DL20327,Sedan - Liability
+1882,QF74147,Sport - Collision
+1883,VA35421,Utility - Liability
+1884,IQ15028, Sedan - All Perils
+1885,FY13480,Sport - Collision
+1886,EC44438,Utility - Liability
+1887,WL92199,Sport - All Perils
+1888,KW99972,Sport - Collision
+1889,RS60249, Sedan - All Perils
+1890,UN52560,Utility - Collision
+1891,AK17025,Utility - Collision
+1892,OP47206,Utility - All Perils
+1893,VM69145,Utility - Liability
+1894,TW43626,Sedan - Liability
+1895,EG10175,Sport - Liability
+1896,EW68125,Sport - Liability
+1897,PD79570,Sport - Collision
+1898,PD69398,Sedan - Collision
+1899,TY20016,Utility - Liability
+1900,LB83807,Utility - Liability
+1901,QW67581,Sport - All Perils
+1902,CK24264,Sedan - Liability
+1903,CP87192,Utility - Liability
+1904,MM49431,Sedan - Collision
+1905,ZE40223, Sedan - All Perils
+1906,NQ42020,Utility - All Perils
+1907,TO34442,Sedan - Liability
+1908,YC87263,Sedan - Liability
+1909,PD32641,Sedan - Liability
+1910,JJ97525,Utility - Liability
+1911,TD90177,Utility - Liability
+1912,KD16729,Sport - Collision
+1913,US82470,Sedan - Liability
+1914,TG70775,Utility - Collision
+1915,VV82891,Utility - Liability
+1916,CH97539,Utility - Collision
+1917,QG15661,Utility - All Perils
+1918,LC58452,Sedan - Collision
+1919,NM77735,Utility - All Perils
+1920,WC28543,Sedan - Collision
+1921,HQ32112,Sport - Liability
+1922,NK73719,Utility - Liability
+1923,SR74929,Sport - Liability
+1924,PP48389,Sedan - Liability
+1925,NB54665,Utility - Collision
+1926,OC50447,Utility - Collision
+1927,TA77711,Sedan - Collision
+1928,UF46533,Utility - All Perils
+1929,GZ64473,Utility - Liability
+1930,OO11531,Sport - All Perils
+1931,KI58952,Sedan - Liability
+1932,OH55411,Sport - Collision
+1933,QT25383,Utility - Liability
+1934,NN54114,Sport - Collision
+1935,QV24282,Utility - All Perils
+1936,HT31871,Utility - Collision
+1937,QD97878, Sedan - All Perils
+1938,XB17553,Utility - Collision
+1939,NI66988,Sport - All Perils
+1940,JA47688,Sedan - Collision
+1941,IC47914,Sport - Collision
+1942,QJ89807,Sedan - Liability
+1943,GM54723,Sport - Collision
+1944,MC73302,Sedan - Liability
+1945,UQ30615,Sport - All Perils
+1946,BS29584,Sport - Collision
+1947,RA29518,Sedan - Liability
+1948,QD46343, Sedan - All Perils
+1949,AZ50087,Sedan - Liability
+1950,JZ76788,Sport - All Perils
+1951,JB76199,Sedan - Liability
+1952,OF93412,Sedan - Liability
+1953,LV14566, Sedan - All Perils
+1954,XX88364,Utility - All Perils
+1955,ZJ65064,Sedan - Liability
+1956,UW98698,Utility - Liability
+1957,XH20787,Sport - Collision
+1958,LE12086,Utility - Collision
+1959,BC64697,Utility - All Perils
+1960,FS67856,Sedan - Collision
+1961,LM84166,Utility - Collision
+1962,RE46783,Sport - All Perils
+1963,LE12782,Sedan - Liability
+1964,BN87372,Sport - All Perils
+1965,KR43119,Sport - All Perils
+1966,DQ31994,Sedan - Liability
+1967,WB68229,Utility - Collision
+1968,IL32727,Sport - All Perils
+1969,IE36279,Utility - Liability
+1970,SM87252,Sport - Collision
+1971,DF66914,Sport - Collision
+1972,DJ93289,Sport - Liability
+1973,JC80093,Utility - Liability
+1974,YG87460,Utility - Collision
+1975,MR56401,Sport - Liability
+1976,LC47479, Sedan - All Perils
+1977,TH69908,Sport - Liability
+1978,RH70194,Sedan - Collision
+1979,FU43761,Utility - Liability
+1980,QI99143,Utility - Liability
+1981,ZX64745,Sport - All Perils
+1982,YB66933,Sport - Liability
+1983,SY36127,Utility - All Perils
+1984,KX55910,Utility - Collision
+1985,ZY60545,Sport - Collision
+1986,VZ61940,Sedan - Liability
+1987,EZ78112,Sport - All Perils
+1988,FY30870,Utility - All Perils
+1989,QM61543,Sport - Collision
+1990,HP46467,Sedan - Collision
+1991,JD10245,Sedan - Collision
+1992,RZ98310,Sport - All Perils
+1993,WG26617,Sedan - Collision
+1994,IR62720,Sport - Collision
+1995,AR17553,Sedan - Liability
+1996,YU86594,Sedan - Liability
+1997,AM94127, Sedan - All Perils
+1998,ZQ37164,Utility - Collision
+1999,UI36597,Utility - All Perils
+2000,JD75068,Sedan - Liability
+2001,SJ86522,Sport - Collision
+2002,MS45259,Sport - All Perils
+2003,PX72779, Sedan - All Perils
+2004,UN63889,Utility - All Perils
+2005,LQ16286,Sedan - Liability
+2006,DL14445, Sedan - All Perils
+2007,TH86528,Sedan - Collision
+2008,NL17964,Utility - All Perils
+2009,DZ64604,Sport - Liability
+2010,JD11661,Sport - Collision
+2011,MD86050,Utility - All Perils
+2012,CV29889,Sport - Collision
+2013,HC20975,Sedan - Collision
+2014,IX10511,Utility - Liability
+2015,PA38372,Sedan - Collision
+2016,DK19711,Sedan - Liability
+2017,IN17648,Utility - Liability
+2018,UF28233,Sedan - Collision
+2019,YW85018,Sedan - Collision
+2020,IH54239, Sedan - All Perils
+2021,SM73248,Sport - Liability
+2022,SN36487,Sport - Collision
+2023,TQ82322,Sport - Collision
+2024,OO92815,Sedan - Liability
+2025,WA97671,Sport - Collision
+2026,SK93727,Utility - Collision
+2027,WK46492, Sedan - All Perils
+2028,AM94127, Sedan - All Perils
+2029,UL96474,Sport - Liability
+2030,BV55733,Utility - Collision
+2031,Y167826,Utility - All Perils
+2032,TP20456,Sport - Collision
+2033,WD38315,Utility - Collision
+2034,QV89018,Utility - All Perils
+2035,QF74806,Sedan - Liability
+2036,TS11219,Sport - Liability
+2037,OB69153,Utility - Liability
+2038,BZ33435,Sport - Collision
+2039,AV25133,Sedan - Liability
+2040,GT18396,Utility - Collision
+2041,NY90858,Sport - All Perils
+2042,HW85007,Utility - Liability
+2043,NC78961,Utility - Liability
+2044,YV67971,Sedan - Liability
+2045,LZ34164,Sport - Collision
+2046,SE15781,Utility - All Perils
+2047,JL71713,Utility - All Perils
+2048,MS20849,Sedan - Collision
+2049,EJ67407,Utility - Liability
+2050,KB15252,Sport - Liability
+2051,ZK90062,Sport - Collision
+2052,AA34092,Sport - Liability
+2053,ZB23962,Sedan - Liability
+2054,EI17022,Utility - Liability
+2055,WM87004,Sedan - Liability
+2056,FS84707,Utility - All Perils
+2057,WU62992,Utility - All Perils
+2058,HT50748,Utility - Collision
+2059,OE88763,Sport - Collision
+2060,GC42314,Utility - All Perils
+2061,JP30654,Sedan - Liability
+2062,NF31087,Utility - Collision
+2063,UR73910,Sport - All Perils
+2064,ZH35315,Sedan - Collision
+2065,LJ88616,Sedan - Collision
+2066,XO67536,Utility - Liability
+2067,JH94846,Sedan - Liability
+2068,OX87524,Sport - Liability
+2069,FJ57446,Sedan - Collision
+2070,RW66792,Sedan - Liability
+2071,UM44109, Sedan - All Perils
+2072,HN54181, Sedan - All Perils
+2073,DC37886,Utility - All Perils
+2074,ZW32080,Sport - All Perils
+2075,CR40615, Sedan - All Perils
+2076,QA78691,Utility - Collision
+2077,SI11249,Utility - All Perils
+2078,FC70869, Sedan - All Perils
+2079,DZ35379,Utility - Collision
+2080,MG99229,Sedan - Liability
+2081,XH20787,Sedan - Liability
+2082,FF93355, Sedan - All Perils
+2083,KS12294, Sedan - All Perils
+2084,XO42145,Sedan - Liability
+2085,IC78105, Sedan - All Perils
+2086,SE15781,Utility - All Perils
+2087,XR99310,Sedan - Liability
+2088,EN60878,Sport - All Perils
+2089,BW52697,Sport - Liability
+2090,LY14687,Utility - Liability
+2091,RN97635,Sedan - Liability
+2092,DQ19343,Utility - Collision
+2093,SD30853,Sport - Liability
+2094,PL44132,Utility - Liability
+2095,DB26077,Sport - All Perils
+2096,HW19506,Sport - All Perils
+2097,LH80781,Sport - Collision
+2098,XY66810,Sport - All Perils
+2099,YP37291,Utility - Collision
+2100,KQ30179,Sedan - Liability
+2101,LK73198,Sport - Collision
+2102,WT38706,Utility - All Perils
+2103,RO89785,Sport - Liability
+2104,QA71190, Sedan - All Perils
+2105,VP84987,Utility - All Perils
+2106,MA37431,Sedan - Liability
+2107,ST96866,Sport - Collision
+2108,CN90378,Sedan - Liability
+2109,VV81837,Utility - All Perils
+2110,AW73065,Utility - All Perils
+2111,IN28584,Utility - Liability
+2112,UF36353,Sedan - Liability
+2113,ME37051,Utility - All Perils
+2114,YQ98465,Utility - Collision
+2115,UH45301,Sport - All Perils
+2116,EZ71780, Sedan - All Perils
+2117,IX37561, Sedan - All Perils
+2118,ZG18090,Sport - All Perils
+2119,FQ46354,Sport - All Perils
+2120,NY24020,Utility - Collision
+2121,ET89070,Utility - All Perils
+2122,OY32548,Sport - Collision
+2123,ZN86559,Utility - Liability
+2124,EW13798, Sedan - All Perils
+2125,XK99408, Sedan - All Perils
+2126,BX24569,Utility - All Perils
+2127,GM63998,Utility - Liability
+2128,EP80820,Sport - Collision
+2129,NK91656,Sport - All Perils
+2130,LA60344,Sport - Collision
+2131,MM67983,Sport - Collision
+2132,IF80474,Sedan - Liability
+2133,DQ98402, Sedan - All Perils
+2134,ZT18953,Sport - All Perils
+2135,SD94067,Sport - Collision
+2136,PS69748,Utility - All Perils
+2137,HF65914,Sport - Collision
+2138,ZP80713, Sedan - All Perils
+2139,EW35231,Sedan - Liability
+2140,ZR11692,Utility - Liability
+2141,VY75186,Sedan - Collision
+2142,BS13062,Utility - All Perils
+2143,UL96474,Utility - Collision
+2144,HL40930,Utility - All Perils
+2145,SU44811,Sedan - Collision
+2146,PZ47901,Sport - Liability
+2147,VZ59523,Utility - All Perils
+2148,AW84946,Sport - Liability
+2149,LA72316,Sport - Liability
+2150,QI63521,Sedan - Collision
+2151,RC44077,Utility - All Perils
+2152,XX29952,Sedan - Collision
+2153,ID89933,Sport - Liability
+2154,FI61059,Utility - Collision
+2155,LH26563,Utility - Liability
+2156,IQ30108,Sedan - Liability
+2157,HN38084,Sport - Collision
+2158,EK87467, Sedan - All Perils
+2159,EZ11341,Sedan - Collision
+2160,DO70918,Utility - Liability
+2161,JI80257, Sedan - All Perils
+2162,MF83904,Utility - Collision
+2163,PW88443,Utility - Collision
+2164,SM42781,Sport - Collision
+2165,PW98890,Sedan - Liability
+2166,MN79082,Sport - All Perils
+2167,GR31499,Sedan - Liability
+2168,RR39751,Utility - Collision
+2169,CQ72935,Sedan - Liability
+2170,HZ68892,Sport - All Perils
+2171,OS96036,Sport - Collision
+2172,YE88490,Sedan - Liability
+2173,VZ23007,Sedan - Liability
+2174,CN24514,Sport - All Perils
+2175,BE78308,Utility - Collision
+2176,MB90871,Utility - Liability
+2177,TV23956,Sedan - Collision
+2178,XH71839,Utility - Collision
+2179,JA26024,Utility - Collision
+2180,VA30351,Sport - Collision
+2181,ZX93551,Sport - All Perils
+2182,UV99893,Sedan - Liability
+2183,CJ64468,Sport - All Perils
+2184,YN61339,Sedan - Liability
+2185,NE16405,Utility - Liability
+2186,CZ96653,Sedan - Collision
+2187,FD20455,Sport - Collision
+2188,DK20428,Utility - Collision
+2189,HI71466,Sport - Collision
+2190,AV76907,Utility - Collision
+2191,AS17174,Utility - Liability
+2192,UH89141,Utility - Liability
+2193,QW87316,Sedan - Liability
+2194,UO86707,Sport - Liability
+2195,CJ31839,Sport - Collision
+2196,NK40551,Sport - All Perils
+2197,NB79936,Sport - Collision
+2198,ED91989,Utility - Liability
+2199,YI95574,Sedan - Collision
+2200,VL58402,Sedan - Liability
+2201,QX24179,Utility - All Perils
+2202,VD51297,Sedan - Collision
+2203,MN32305,Utility - All Perils
+2204,LM79063,Sedan - Liability
+2205,UD27331,Sedan - Liability
+2206,TW11712,Sport - Liability
+2207,BE31382,Sport - All Perils
+2208,TF82172,Sport - Collision
+2209,TN79487,Sport - Liability
+2210,XZ45224,Utility - All Perils
+2211,BU27331,Utility - Liability
+2212,RE46783,Utility - All Perils
+2213,SO57563,Utility - Collision
+2214,YK32760,Sport - Liability
+2215,KB20508,Sedan - Liability
+2216,JG41490,Utility - Collision
+2217,SE78641,Sedan - Collision
+2218,GE58317,Sport - Collision
+2219,SE30128,Sedan - Liability
+2220,LG19551,Sport - All Perils
+2221,SL71998,Sport - Liability
+2222,QB26845,Utility - Collision
+2223,GI25850,Sport - Collision
+2224,CW63533,Sedan - Collision
+2225,MF49636,Utility - Collision
+2226,DP13082,Sedan - Liability
+2227,OJ84485,Sport - Collision
+2228,KJ87930, Sedan - All Perils
+2229,YY58769,Sport - Collision
+2230,OC50447,Utility - All Perils
+2231,FX65946,Utility - Liability
+2232,DL61016, Sedan - All Perils
+2233,FS97588,Utility - Collision
+2234,FU65756,Sport - Collision
+2235,FB84409,Utility - Collision
+2236,HA40978,Sedan - Collision
+2237,OE19653, Sedan - All Perils
+2238,GA46608,Utility - Liability
+2239,NR49426,Sport - All Perils
+2240,ZO20633,Utility - All Perils
+2241,WP51328,Utility - Collision
+2242,SC30127,Utility - Liability
+2243,IK77998,Sport - Collision
+2244,QW60568,Utility - Liability
+2245,VR14881,Utility - All Perils
+2246,VG31922,Sedan - Liability
+2247,IG89777,Utility - Collision
+2248,MX80067,Utility - All Perils
+2249,LF41085,Utility - All Perils
+2250,LO39834,Sedan - Liability
+2251,MI81870,Sport - Liability
+2252,BK47926,Utility - Liability
+2253,LL14393,Sport - Collision
+2254,DP26592,Utility - All Perils
+2255,OD63728,Utility - All Perils
+2256,SJ71233,Sedan - Liability
+2257,HU75748, Sedan - All Perils
+2258,DM59806, Sedan - All Perils
+2259,BP23267,Sport - Collision
+2260,DN92191,Sport - Liability
+2261,MS45259,Utility - Liability
+2262,MF49636,Utility - Collision
+2263,FG91922,Sport - Collision
+2264,CT74097,Sport - All Perils
+2265,ZC32761,Sport - Collision
+2266,ZT63368,Sport - Collision
+2267,ST59524,Sport - Liability
+2268,XB43625,Sport - All Perils
+2269,MM83308,Utility - Collision
+2270,RZ50353,Utility - Liability
+2271,VC77127,Sport - All Perils
+2272,AU94279,Sedan - Collision
+2273,RJ90816,Utility - Liability
+2274,BA87216,Utility - Liability
+2275,LR49580,Sedan - Liability
+2276,GY99495,Sport - Liability
+2277,HH80006,Sedan - Collision
+2278,JK13254,Sedan - Collision
+2279,PG14554,Sedan - Collision
+2280,ZO43755,Utility - Collision
+2281,WB38524,Sport - All Perils
+2282,IP68868,Sedan - Liability
+2283,NT36519,Utility - All Perils
+2284,PY98628,Sport - Collision
+2285,DR32525, Sedan - All Perils
+2286,VA77345,Sport - Collision
+2287,CF50291,Sport - Liability
+2288,BE69929,Sport - Collision
+2289,RA34556,Sedan - Liability
+2290,FG63647,Sport - Collision
+2291,XR99310,Sport - Liability
+2292,HS14476,Sedan - Collision
+2293,SJ30138,Utility - Collision
+2294,HB12866,Sedan - Collision
+2295,EQ59908, Sedan - All Perils
+2296,QJ31447,Sport - Collision
+2297,YU72540, Sedan - All Perils
+2298,QA41558,Sedan - Liability
+2299,GX29162,Sport - Collision
+2300,YC43143,Utility - All Perils
+2301,AU94279,Sedan - Liability
+2302,BZ92811,Sport - All Perils
+2303,ZN86559, Sedan - All Perils
+2304,CV86445,Utility - Collision
+2305,JU64043,Utility - Collision
+2306,SO18542,Utility - Liability
+2307,OU62604,Sport - Liability
+2308,XO75323,Sport - All Perils
+2309,HW61722,Sedan - Liability
+2310,ZY95807,Sedan - Collision
+2311,PD19551,Sport - Collision
+2312,WT43034,Sport - All Perils
+2313,CI24326,Utility - Liability
+2314,PP39078,Sedan - Liability
+2315,IG80910,Sport - All Perils
+2316,CH97666,Sport - Collision
+2317,QF59448,Utility - All Perils
+2318,VM58985,Sport - All Perils
+2319,WE60408,Utility - All Perils
+2320,OI68331,Sedan - Liability
+2321,QF55724,Utility - Collision
+2322,KW52227,Utility - Liability
+2323,EM29359,Utility - Liability
+2324,YS49138,Sport - Liability
+2325,QW67581,Utility - All Perils
+2326,QZ83992,Sport - Collision
+2327,KL43280,Sport - Liability
+2328,CK19789,Sport - Collision
+2329,LZ35469, Sedan - All Perils
+2330,PM63319,Utility - Collision
+2331,HG64216,Sport - Liability
+2332,CZ56843,Utility - Collision
+2333,PA84292,Sedan - Collision
+2334,LL92275,Sport - All Perils
+2335,ZV17267,Sport - Liability
+2336,QJ31447, Sedan - All Perils
+2337,BE75190,Sport - Liability
+2338,QF91596,Utility - All Perils
+2339,XH20787,Sport - Liability
+2340,KF80571,Sedan - Liability
+2341,TV97612,Utility - Collision
+2342,PE63707,Sedan - Collision
+2343,SD38003,Utility - Liability
+2344,SY46862,Sport - All Perils
+2345,NF25863,Sport - Collision
+2346,QE79527,Sedan - Collision
+2347,EP46328,Sedan - Liability
+2348,BC47264, Sedan - All Perils
+2349,GT14584, Sedan - All Perils
+2350,OW33876,Sport - Liability
+2351,PT34656,Sport - All Perils
+2352,ZZ22193,Sedan - Collision
+2353,SJ74501,Utility - Liability
+2354,DR38127,Sport - Collision
+2355,CC94413, Sedan - All Perils
+2356,HH61461, Sedan - All Perils
+2357,KZ26788,Sedan - Liability
+2358,MC62068, Sedan - All Perils
+2359,MN95006,Utility - Liability
+2360,JL93248, Sedan - All Perils
+2361,AD12500,Utility - Collision
+2362,QX42433,Sport - Liability
+2363,BX20846,Sport - Liability
+2364,BH28530,Sedan - Collision
+2365,MP53132,Utility - All Perils
+2366,RT64920,Sport - Collision
+2367,KL27677, Sedan - All Perils
+2368,KL27226,Utility - All Perils
+2369,PI96349,Sedan - Collision
+2370,YA52900,Sport - Liability
+2371,PK28821,Utility - Liability
+2372,CT83377,Sport - All Perils
+2373,TW43626,Utility - Collision
+2374,UP90711,Utility - Liability
+2375,AT93647,Utility - Liability
+2376,JN72184,Sedan - Liability
+2377,BI33231,Sport - Liability
+2378,XF99212,Sport - All Perils
+2379,II83628,Sport - All Perils
+2380,GS92994,Sport - Liability
+2381,QW31435,Utility - Collision
+2382,JP64518,Sport - Collision
+2383,UE52886,Sedan - Collision
+2384,VE47660,Sedan - Collision
+2385,OB66874,Utility - Liability
+2386,JZ54775, Sedan - All Perils
+2387,MX50302,Sedan - Liability
+2388,LY73893,Sport - All Perils
+2389,DH18269,Utility - Liability
+2390,XC68458,Sedan - Collision
+2391,GO14008,Utility - Collision
+2392,GM98732,Utility - Liability
+2393,KI91500,Utility - Collision
+2394,VW46878,Utility - Collision
+2395,WL46620,Utility - All Perils
+2396,XK87182,Sport - Collision
+2397,CE78778,Sedan - Collision
+2398,AT89553,Sedan - Collision
+2399,RB16360,Utility - Liability
+2400,VF96109,Utility - All Perils
+2401,KP96020,Sport - All Perils
+2402,GV59387,Sedan - Collision
+2403,OQ69520,Sedan - Liability
+2404,HV16877,Sedan - Liability
+2405,CH97539,Utility - Liability
+2406,CP67787,Sport - Liability
+2407,VK94891,Sedan - Collision
+2408,IA52178,Utility - All Perils
+2409,DR32525,Utility - Liability
+2410,DX70966,Sedan - Liability
+2411,AS18084,Sport - Liability
+2412,LE26899,Sport - All Perils
+2413,EZ41764,Sedan - Liability
+2414,YC33550,Sedan - Collision
+2415,PA38372,Sedan - Liability
+2416,RM31359,Utility - Collision
+2417,AI85843,Sport - Collision
+2418,DO83789,Utility - Liability
+2419,UH41125,Utility - Liability
+2420,ZZ41158,Sport - All Perils
+2421,ER51965,Utility - Liability
+2422,RY38931,Utility - Liability
+2423,DP92488,Sport - Liability
+2424,KI58952, Sedan - All Perils
+2425,GQ15613, Sedan - All Perils
+2426,NE51159,Sport - Liability
+2427,ZQ94561,Sedan - Liability
+2428,WT22392,Sedan - Liability
+2429,SB61617,Sport - Liability
+2430,KJ29915,Utility - All Perils
+2431,WJ55369,Sport - Liability
+2432,YF87007,Utility - All Perils
+2433,CB64729, Sedan - All Perils
+2434,GI36262,Utility - All Perils
+2435,KR82385,Sport - All Perils
+2436,HQ15974,Sedan - Collision
+2437,SL22297, Sedan - All Perils
+2438,LX95134,Sport - All Perils
+2439,SZ35936,Utility - Collision
+2440,DC91024,Sport - All Perils
+2441,ZC32510,Sedan - Collision
+2442,NW23827,Sport - All Perils
+2443,HZ39407, Sedan - All Perils
+2444,RQ99149,Utility - All Perils
+2445,LS62045,Utility - Liability
+2446,ZK21724,Sport - Collision
+2447,NT15165,Sedan - Collision
+2448,RY26286,Sport - Liability
+2449,BU72633,Sport - Liability
+2450,BR24590,Utility - All Perils
+2451,IV84135,Sport - Collision
+2452,FP78531,Sport - Collision
+2453,IL12516,Sport - All Perils
+2454,MN61620,Sedan - Liability
+2455,OA46321,Utility - All Perils
+2456,KR25511,Utility - All Perils
+2457,TK40018,Sport - All Perils
+2458,HF82396, Sedan - All Perils
+2459,JC96695,Sedan - Liability
+2460,AP32891,Sport - Liability
+2461,OF77789,Sport - All Perils
+2462,JK68578,Sport - Collision
+2463,GE47180,Utility - Collision
+2464,CM48429,Sport - Collision
+2465,OY38576,Utility - All Perils
+2466,ZT26848,Utility - All Perils
+2467,TJ11671,Utility - Liability
+2468,CO19402,Sport - All Perils
+2469,MN32305,Sport - Collision
+2470,CF95802,Sport - All Perils
+2471,QC89139,Utility - Collision
+2472,EF84269,Sedan - Liability
+2473,VV68726,Sport - Collision
+2474,KQ49890,Sport - Collision
+2475,AT62618,Sport - Collision
+2476,RN97635,Utility - All Perils
+2477,JO63462,Sport - All Perils
+2478,ZW51071,Sport - Liability
+2479,TP61305,Sport - All Perils
+2480,KW56110,Sedan - Collision
+2481,NT25078,Sport - Collision
+2482,LO68739,Sedan - Collision
+2483,MC62068,Sport - Liability
+2484,WZ40465,Sport - Collision
+2485,EG12987,Sport - All Perils
+2486,VY27019,Utility - Collision
+2487,RF73329, Sedan - All Perils
+2488,LO48126,Sport - Collision
+2489,DX70966,Sport - Collision
+2490,WH81461,Utility - Liability
+2491,LB97434, Sedan - All Perils
+2492,NJ54277,Sedan - Collision
+2493,KZ26788,Sport - Collision
+2494,WV53830,Utility - Collision
+2495,QF76244,Sport - Liability
+2496,ZD65365,Utility - All Perils
+2497,JZ23377, Sedan - All Perils
+2498,CD86811,Sport - Liability
+2499,OC88207,Utility - All Perils
+2500,TM23514,Utility - Collision
+2501,TH96263,Utility - Collision
+2502,VP13613,Utility - All Perils
+2503,MR77933,Sport - Liability
+2504,VJ51327,Sport - Liability
+2505,LF36128,Sedan - Collision
+2506,XR52852,Sport - Liability
+2507,FI17798,Sedan - Liability
+2508,QV66305, Sedan - All Perils
+2509,SM88270,Sedan - Liability
+2510,JI93499,Sedan - Collision
+2511,YD45065,Utility - All Perils
+2512,AN97123,Utility - Collision
+2513,UZ60774,Sport - All Perils
+2514,YU90693,Utility - Liability
+2515,WY43888,Sport - Collision
+2516,FS19862,Utility - Collision
+2517,PD19551,Utility - All Perils
+2518,NX32730, Sedan - All Perils
+2519,XR84971,Sport - Liability
+2520,PI96349,Sedan - Liability
+2521,PS69748,Sport - Collision
+2522,WU63862,Sport - All Perils
+2523,EE57466,Sedan - Liability
+2524,GB75821,Sedan - Collision
+2525,LZ34046,Utility - Collision
+2526,GG61186,Sport - All Perils
+2527,BQ28323,Utility - Collision
+2528,ZC97968,Sport - Collision
+2529,IN17648,Sedan - Collision
+2530,QJ22057,Utility - All Perils
+2531,NB10500,Sport - Collision
+2532,NB54665,Sedan - Liability
+2533,AJ32539,Utility - Liability
+2534,OH23652,Utility - Liability
+2535,FL55134,Sport - All Perils
+2536,PU25891,Sport - All Perils
+2537,NS14955,Sport - Liability
+2538,TM14491,Utility - All Perils
+2539,TG95261,Sedan - Liability
+2540,UK76814,Utility - All Perils
+2541,SE15781, Sedan - All Perils
+2542,VJ83206,Utility - Liability
+2543,QO59138,Sedan - Collision
+2544,DA79098,Utility - All Perils
+2545,VF36700,Utility - Liability
+2546,AA69265,Utility - All Perils
+2547,EB61889,Sport - Collision
+2548,KN15789,Sedan - Liability
+2549,VY75186,Utility - All Perils
+2550,GB45753,Sedan - Liability
+2551,TD97297,Sedan - Liability
+2552,HR64765,Sport - All Perils
+2553,WO94087,Sedan - Collision
+2554,TV53243,Sedan - Liability
+2555,CE71123,Sport - Collision
+2556,CN16311,Utility - All Perils
+2557,HU76577,Utility - Collision
+2558,VI35467,Sport - Liability
+2559,LL14393,Sport - All Perils
+2560,KD21661,Sport - All Perils
+2561,CO44659,Sedan - Collision
+2562,LQ45358,Sedan - Collision
+2563,HF15113,Utility - All Perils
+2564,JC45487,Sport - All Perils
+2565,LU79865,Sedan - Collision
+2566,MU64306,Sport - Collision
+2567,AI14767,Sedan - Liability
+2568,UW90223,Utility - Liability
+2569,PC80039,Sedan - Collision
+2570,FR46645,Sedan - Collision
+2571,HI16472,Utility - All Perils
+2572,AB73565,Sport - Liability
+2573,QY37300,Utility - Collision
+2574,RD28560,Sport - Liability
+2575,RE12758,Sport - All Perils
+2576,YC54142,Utility - Collision
+2577,US78266,Utility - Liability
+2578,UI36597,Sedan - Collision
+2579,GD17919,Sport - Liability
+2580,AK11719,Utility - Collision
+2581,DL20327,Sport - Liability
+2582,QF74147, Sedan - All Perils
+2583,VA35421,Utility - Liability
+2584,IQ15028, Sedan - All Perils
+2585,FY13480,Sport - All Perils
+2586,EC44438,Sedan - Collision
+2587,WL92199,Sport - All Perils
+2588,KW99972,Utility - Collision
+2589,RS60249,Sport - Collision
+2590,UN52560,Sedan - Liability
+2591,AK17025,Sedan - Collision
+2592,OP47206,Sedan - Collision
+2593,VM69145,Sport - Collision
+2594,TW43626,Sport - All Perils
+2595,EG10175,Sedan - Liability
+2596,EW68125,Utility - All Perils
+2597,PD79570,Sport - Liability
+2598,PD69398,Sport - Collision
+2599,TY20016,Sedan - Liability
+2600,LB83807,Utility - All Perils
+2601,QW67581,Utility - Liability
+2602,CK24264,Utility - Liability
+2603,CP87192,Sedan - Liability
+2604,MM49431,Sport - Liability
+2605,ZE40223,Sport - All Perils
+2606,NQ42020,Sport - Liability
+2607,TO34442,Utility - Liability
+2608,YC87263,Utility - Liability
+2609,PD32641,Sedan - Liability
+2610,JJ97525,Utility - Liability
+2611,TD90177, Sedan - All Perils
+2612,KD16729,Utility - Collision
+2613,US82470,Sport - Collision
+2614,TG70775,Utility - Liability
+2615,VV82891,Sedan - Liability
+2616,CH97539,Utility - Collision
+2617,QG15661,Utility - Liability
+2618,LC58452,Utility - Liability
+2619,NM77735,Utility - Collision
+2620,WC28543,Sedan - Liability
+2621,HQ32112,Utility - Collision
+2622,NK73719,Sedan - Liability
+2623,SR74929,Sedan - Liability
+2624,PP48389,Utility - Liability
+2625,NB54665,Sedan - Liability
+2626,OC50447,Sport - Liability
+2627,TA77711,Utility - Collision
+2628,UF46533,Utility - Liability
+2629,GZ64473, Sedan - All Perils
+2630,OO11531,Sedan - Liability
+2631,KI58952,Utility - Liability
+2632,OH55411,Utility - Liability
+2633,QT25383,Utility - All Perils
+2634,NN54114,Sedan - Collision
+2635,QV24282,Sedan - Collision
+2636,HT31871,Sport - Collision
+2637,QD97878, Sedan - All Perils
+2638,XB17553, Sedan - All Perils
+2639,NI66988, Sedan - All Perils
+2640,JA47688,Utility - Liability
+2641,IC47914,Sport - Collision
+2642,QJ89807, Sedan - All Perils
+2643,GM54723,Sedan - Collision
+2644,MC73302,Sport - Collision
+2645,UQ30615,Sport - Collision
+2646,BS29584, Sedan - All Perils
+2647,RA29518,Sedan - Liability
+2648,QD46343, Sedan - All Perils
+2649,AZ50087,Sedan - Liability
+2650,JZ76788,Sedan - Collision
+2651,JB76199, Sedan - All Perils
+2652,OF93412,Utility - All Perils
+2653,LV14566,Sport - Collision
+2654,XX88364,Utility - Liability
+2655,ZJ65064,Sedan - Liability
+2656,UW98698,Sport - Collision
+2657,XH20787,Sport - Collision
+2658,LE12086,Utility - All Perils
+2659,BC64697,Sport - Collision
+2660,FS67856,Utility - Liability
+2661,LM84166,Sedan - Collision
+2662,RE46783,Utility - Collision
+2663,LE12782,Utility - Liability
+2664,BN87372,Sport - Liability
+2665,KR43119,Sedan - Collision
+2666,DQ31994,Sedan - Collision
+2667,WB68229,Sport - Liability
+2668,IL32727,Sport - All Perils
+2669,IE36279,Sedan - Collision
+2670,SM87252,Sedan - Liability
+2671,DF66914,Sport - Liability
+2672,DJ93289,Utility - All Perils
+2673,JC80093,Sport - Liability
+2674,YG87460,Sport - Collision
+2675,MR56401,Sport - Collision
+2676,LC47479,Sport - Collision
+2677,TH69908, Sedan - All Perils
+2678,RH70194,Sedan - Liability
+2679,FU43761,Utility - Collision
+2680,QI99143,Sedan - Collision
+2681,ZX64745, Sedan - All Perils
+2682,YB66933,Sedan - Collision
+2683,SY36127,Sedan - Liability
+2684,KX55910,Utility - All Perils
+2685,ZY60545,Sport - Liability
+2686,VZ61940,Utility - All Perils
+2687,EZ78112,Sport - Liability
+2688,FY30870, Sedan - All Perils
+2689,QM61543,Sedan - Collision
+2690,HP46467,Sport - Collision
+2691,JD10245,Sport - Liability
+2692,RZ98310,Sedan - Liability
+2693,WG26617,Sport - Collision
+2694,IR62720,Utility - All Perils
+2695,AR17553, Sedan - All Perils
+2696,YU86594,Sport - Liability
+2697,AM94127, Sedan - All Perils
+2698,ZQ37164, Sedan - All Perils
+2699,UI36597,Sport - All Perils
+2700,JD75068,Sport - Liability
+2701,SJ86522,Sedan - Collision
+2702,MS45259,Utility - Liability
+2703,PX72779,Sport - Liability
+2704,UN63889,Sport - All Perils
+2705,LQ16286,Utility - All Perils
+2706,DL14445,Sport - Collision
+2707,TH86528,Sedan - Liability
+2708,NL17964, Sedan - All Perils
+2709,DZ64604,Utility - Liability
+2710,JD11661,Sport - All Perils
+2711,MD86050,Utility - Collision
+2712,CV29889,Utility - Liability
+2713,HC20975,Sport - All Perils
+2714,IX10511,Sport - All Perils
+2715,PA38372,Utility - Liability
+2716,DK19711,Sport - All Perils
+2717,IN17648,Sedan - Liability
+2718,UF28233,Sedan - Liability
+2719,YW85018,Utility - Liability
+2720,IH54239,Utility - Collision
+2721,SM73248,Utility - Liability
+2722,SN36487,Sedan - Liability
+2723,TQ82322,Utility - Collision
+2724,OO92815,Utility - Collision
+2725,WA97671,Sport - All Perils
+2726,SK93727,Utility - Liability
+2727,WK46492,Utility - All Perils
+2728,AM94127,Sedan - Liability
+2729,UL96474,Sport - Collision
+2730,BV55733,Utility - Collision
+2731,Y167826,Sport - Collision
+2732,TP20456,Utility - Liability
+2733,WD38315,Sport - Collision
+2734,QV89018,Sport - Collision
+2735,QF74806,Utility - Collision
+2736,TS11219,Sport - Liability
+2737,OB69153, Sedan - All Perils
+2738,BZ33435,Utility - Collision
+2739,AV25133,Sedan - Liability
+2740,GT18396,Sedan - Collision
+2741,NY90858,Utility - Liability
+2742,HW85007,Sport - All Perils
+2743,NC78961,Utility - Liability
+2744,YV67971, Sedan - All Perils
+2745,LZ34164,Sport - Collision
+2746,SE15781,Sedan - Liability
+2747,JL71713,Sport - Collision
+2748,MS20849, Sedan - All Perils
+2749,EJ67407,Sport - All Perils
+2750,KB15252,Sport - Collision
+2751,ZK90062,Sport - Collision
+2752,AA34092,Sedan - Liability
+2753,ZB23962,Sedan - Liability
+2754,EI17022,Sedan - Collision
+2755,WM87004,Sedan - Liability
+2756,FS84707,Sedan - Liability
+2757,WU62992,Utility - All Perils
+2758,HT50748,Sport - All Perils
+2759,OE88763,Utility - All Perils
+2760,GC42314,Sedan - Liability
+2761,JP30654,Sport - Liability
+2762,NF31087,Sedan - Collision
+2763,UR73910,Sport - Collision
+2764,ZH35315,Utility - Collision
+2765,LJ88616,Sport - Collision
+2766,XO67536,Sport - All Perils
+2767,JH94846,Utility - Collision
+2768,OX87524,Utility - Liability
+2769,FJ57446,Sedan - Liability
+2770,RW66792,Sedan - Collision
+2771,UM44109,Sedan - Liability
+2772,HN54181,Sport - All Perils
+2773,DC37886,Utility - All Perils
+2774,ZW32080,Sedan - Collision
+2775,CR40615,Sport - Liability
+2776,QA78691, Sedan - All Perils
+2777,SI11249,Sport - All Perils
+2778,FC70869,Utility - Liability
+2779,DZ35379, Sedan - All Perils
+2780,MG99229,Utility - All Perils
+2781,XH20787,Sport - Liability
+2782,FF93355,Sedan - Collision
+2783,KS12294,Sport - Collision
+2784,XO42145,Sport - All Perils
+2785,IC78105,Sport - All Perils
+2786,SE15781,Sport - Liability
+2787,XR99310,Sport - All Perils
+2788,EN60878,Sport - Liability
+2789,BW52697,Sport - Liability
+2790,LY14687,Utility - Liability
+2791,RN97635,Utility - All Perils
+2792,DQ19343,Utility - All Perils
+2793,SD30853,Sport - All Perils
+2794,PL44132,Utility - All Perils
+2795,DB26077,Sedan - Collision
+2796,HW19506,Utility - Collision
+2797,LH80781,Sedan - Collision
+2798,XY66810,Sedan - Collision
+2799,YP37291,Utility - Collision
+2800,KQ30179,Sport - Liability
+2801,LK73198,Sedan - Liability
+2802,WT38706,Sport - Collision
+2803,RO89785,Sport - Liability
+2804,QA71190,Utility - Liability
+2805,VP84987,Utility - All Perils
+2806,MA37431,Sport - Liability
+2807,ST96866,Utility - Liability
+2808,CN90378,Utility - All Perils
+2809,VV81837,Utility - Liability
+2810,AW73065,Sedan - Liability
+2811,IN28584,Utility - All Perils
+2812,UF36353,Sedan - Collision
+2813,ME37051,Sport - Collision
+2814,YQ98465,Sport - Liability
+2815,UH45301,Sedan - Collision
+2816,EZ71780,Sport - Liability
+2817,IX37561,Sedan - Collision
+2818,ZG18090,Utility - All Perils
+2819,FQ46354,Sedan - Collision
+2820,NY24020,Sedan - Collision
+2821,ET89070, Sedan - All Perils
+2822,OY32548, Sedan - All Perils
+2823,ZN86559,Utility - Collision
+2824,EW13798,Sport - All Perils
+2825,XK99408, Sedan - All Perils
+2826,BX24569,Sport - Collision
+2827,GM63998,Sedan - Liability
+2828,EP80820,Sedan - Liability
+2829,NK91656,Sport - Collision
+2830,LA60344, Sedan - All Perils
+2831,MM67983,Sedan - Liability
+2832,IF80474, Sedan - All Perils
+2833,DQ98402,Sport - Collision
+2834,ZT18953,Utility - Liability
+2835,SD94067,Sport - All Perils
+2836,PS69748,Sedan - Liability
+2837,HF65914,Utility - Collision
+2838,ZP80713,Utility - Liability
+2839,EW35231,Utility - Collision
+2840,ZR11692,Sedan - Liability
+2841,VY75186,Utility - All Perils
+2842,BS13062,Sport - Collision
+2843,UL96474,Utility - All Perils
+2844,HL40930, Sedan - All Perils
+2845,SU44811,Sport - All Perils
+2846,PZ47901,Sedan - Collision
+2847,VZ59523,Utility - Collision
+2848,AW84946,Sedan - Liability
+2849,LA72316,Utility - Liability
+2850,QI63521, Sedan - All Perils
+2851,RC44077,Sedan - Liability
+2852,XX29952,Utility - All Perils
+2853,ID89933,Utility - Collision
+2854,FI61059,Utility - Collision
+2855,LH26563,Sedan - Liability
+2856,IQ30108, Sedan - All Perils
+2857,HN38084,Sedan - Liability
+2858,EK87467,Sport - Collision
+2859,EZ11341,Sedan - Liability
+2860,DO70918,Sedan - Liability
+2861,JI80257,Utility - Liability
+2862,MF83904,Sedan - Liability
+2863,PW88443, Sedan - All Perils
+2864,SM42781,Utility - All Perils
+2865,PW98890,Utility - Liability
+2866,MN79082, Sedan - All Perils
+2867,GR31499,Sport - Liability
+2868,RR39751,Utility - All Perils
+2869,CQ72935,Sedan - Liability
+2870,HZ68892, Sedan - All Perils
+2871,OS96036,Sport - All Perils
+2872,YE88490,Sedan - Liability
+2873,VZ23007,Sport - All Perils
+2874,CN24514,Utility - Collision
+2875,BE78308,Sport - All Perils
+2876,MB90871, Sedan - All Perils
+2877,TV23956, Sedan - All Perils
+2878,XH71839,Utility - Collision
+2879,JA26024,Sedan - Collision
+2880,VA30351,Utility - Liability
+2881,ZX93551,Utility - Collision
+2882,UV99893, Sedan - All Perils
+2883,CJ64468,Sport - All Perils
+2884,YN61339,Utility - All Perils
+2885,NE16405,Utility - All Perils
+2886,CZ96653, Sedan - All Perils
+2887,FD20455,Utility - Collision
+2888,DK20428,Sport - Liability
+2889,HI71466,Sedan - Collision
+2890,AV76907,Sedan - Liability
+2891,AS17174,Sport - Liability
+2892,UH89141,Utility - All Perils
+2893,QW87316,Sport - Collision
+2894,UO86707,Sedan - Collision
+2895,CJ31839,Sport - All Perils
+2896,NK40551,Sport - Liability
+2897,NB79936,Sport - Liability
+2898,ED91989,Utility - All Perils
+2899,YI95574,Utility - Collision
+2900,VL58402,Utility - Collision
+2901,QX24179, Sedan - All Perils
+2902,VD51297,Sport - Liability
+2903,MN32305,Utility - Collision
+2904,LM79063,Sedan - Liability
+2905,UD27331,Sedan - Liability
+2906,TW11712,Utility - Liability
+2907,BE31382,Utility - Liability
+2908,TF82172,Sedan - Collision
+2909,TN79487,Sport - Collision
+2910,XZ45224,Utility - All Perils
+2911,BU27331,Sport - All Perils
+2912,RE46783,Utility - Collision
+2913,SO57563,Sedan - Liability
+2914,YK32760,Sport - Liability
+2915,KB20508,Utility - All Perils
+2916,JG41490,Sport - Liability
+2917,SE78641,Utility - Collision
+2918,GE58317,Sedan - Liability
+2919,SE30128,Utility - All Perils
+2920,LG19551, Sedan - All Perils
+2921,SL71998,Sport - All Perils
+2922,QB26845,Utility - All Perils
+2923,GI25850,Sport - Collision
+2924,CW63533,Utility - Liability
+2925,MF49636,Sport - All Perils
+2926,DP13082,Sport - All Perils
+2927,OJ84485,Sport - All Perils
+2928,KJ87930,Sedan - Liability
+2929,YY58769, Sedan - All Perils
+2930,OC50447,Sport - Collision
+2931,FX65946,Utility - Liability
+2932,DL61016,Utility - Liability
+2933,FS97588,Utility - Liability
+2934,FU65756,Utility - All Perils
+2935,FB84409,Sedan - Liability
+2936,HA40978,Utility - Liability
+2937,OE19653,Sedan - Liability
+2938,GA46608,Utility - All Perils
+2939,NR49426,Sport - All Perils
+2940,ZO20633,Utility - Liability
+2941,WP51328,Sport - Collision
+2942,SC30127,Sedan - Liability
+2943,IK77998,Utility - Collision
+2944,QW60568,Sedan - Liability
+2945,VR14881,Sport - All Perils
+2946,VG31922, Sedan - All Perils
+2947,IG89777,Sport - Collision
+2948,MX80067,Sedan - Liability
+2949,LF41085, Sedan - All Perils
+2950,LO39834,Utility - Liability
+2951,MI81870,Utility - Liability
+2952,BK47926,Utility - All Perils
+2953,LL14393,Sport - Collision
+2954,DP26592, Sedan - All Perils
+2955,OD63728, Sedan - All Perils
+2956,SJ71233,Utility - Liability
+2957,HU75748,Utility - Liability
+2958,DM59806,Sport - All Perils
+2959,BP23267,Utility - Collision
+2960,DN92191, Sedan - All Perils
+2961,MS45259,Sedan - Collision
+2962,MF49636,Sedan - Collision
+2963,FG91922,Utility - All Perils
+2964,CT74097,Utility - All Perils
+2965,ZC32761,Sport - Collision
+2966,ZT63368,Utility - All Perils
+2967,ST59524,Sedan - Collision
+2968,XB43625,Utility - Collision
+2969,MM83308,Utility - All Perils
+2970,RZ50353,Sport - Collision
+2971,VC77127,Sport - Liability
+2972,AU94279,Utility - Collision
+2973,RJ90816,Sport - Collision
+2974,BA87216,Sport - All Perils
+2975,LR49580, Sedan - All Perils
+2976,GY99495,Utility - All Perils
+2977,HH80006,Sport - Liability
+2978,JK13254,Utility - Collision
+2979,PG14554,Sport - Liability
+2980,ZO43755,Utility - All Perils
+2981,WB38524,Sport - Liability
+2982,IP68868,Sedan - Liability
+2983,NT36519,Utility - All Perils
+2984,PY98628,Sedan - Collision
+2985,DR32525,Sport - All Perils
+2986,VA77345, Sedan - All Perils
+2987,CF50291,Sport - Collision
+2988,BE69929,Sedan - Collision
+2989,RA34556,Utility - Liability
+2990,FG63647, Sedan - All Perils
+2991,XR99310, Sedan - All Perils
+2992,HS14476,Sedan - Liability
+2993,SJ30138,Utility - Liability
+2994,HB12866,Sport - Liability
+2995,EQ59908, Sedan - All Perils
+2996,QJ31447,Sedan - Collision
+2997,YU72540,Utility - All Perils
+2998,QA41558,Sport - All Perils
+2999,GX29162,Sedan - Liability
+3000,YC43143,Sport - Collision
+3001,AU94279,Utility - Liability
+3002,BZ92811,Sedan - Liability
+3003,ZN86559,Sedan - Collision
+3004,CV86445,Sport - Collision
+3005,JU64043,Utility - All Perils
+3006,SO18542, Sedan - All Perils
+3007,OU62604,Utility - All Perils
+3008,XO75323,Sedan - Collision
+3009,HW61722,Utility - All Perils
+3010,ZY95807,Sedan - Liability
+3011,PD19551,Utility - All Perils
+3012,WT43034,Sport - Collision
+3013,CI24326,Utility - Collision
+3014,PP39078,Sedan - Collision
+3015,IG80910,Utility - All Perils
+3016,CH97666,Sport - All Perils
+3017,QF59448,Sport - Liability
+3018,VM58985,Sedan - Liability
+3019,WE60408,Sport - Collision
+3020,OI68331,Sedan - Collision
+3021,QF55724,Utility - Liability
+3022,KW52227,Sport - Liability
+3023,EM29359,Sport - Liability
+3024,YS49138,Sport - All Perils
+3025,QW67581,Utility - Collision
+3026,QZ83992,Utility - Collision
+3027,KL43280,Sport - All Perils
+3028,CK19789,Utility - All Perils
+3029,LZ35469,Sedan - Liability
+3030,PM63319,Utility - All Perils
+3031,HG64216, Sedan - All Perils
+3032,CZ56843,Sport - Collision
+3033,PA84292,Utility - Collision
+3034,LL92275,Sport - All Perils
+3035,ZV17267,Sport - All Perils
+3036,QJ31447,Sport - Collision
+3037,BE75190, Sedan - All Perils
+3038,QF91596,Utility - Collision
+3039,XH20787,Utility - Liability
+3040,KF80571,Sport - All Perils
+3041,TV97612,Sedan - Liability
+3042,PE63707,Utility - Liability
+3043,SD38003,Utility - All Perils
+3044,SY46862,Utility - Liability
+3045,NF25863,Utility - All Perils
+3046,QE79527,Sedan - Collision
+3047,EP46328,Utility - Collision
+3048,BC47264,Utility - Liability
+3049,GT14584,Sport - Liability
+3050,OW33876,Sedan - Collision
+3051,PT34656, Sedan - All Perils
+3052,ZZ22193,Utility - Collision
+3053,SJ74501,Sedan - Collision
+3054,DR38127,Sedan - Liability
+3055,CC94413,Utility - All Perils
+3056,HH61461,Sedan - Liability
+3057,KZ26788,Sport - Liability
+3058,MC62068,Sport - Liability
+3059,MN95006,Sedan - Collision
+3060,JL93248, Sedan - All Perils
+3061,AD12500,Sport - Collision
+3062,QX42433,Utility - Collision
+3063,BX20846,Utility - Collision
+3064,BH28530,Sedan - Liability
+3065,MP53132,Sport - Liability
+3066,RT64920,Sport - All Perils
+3067,KL27677,Sedan - Liability
+3068,KL27226,Sport - Liability
+3069,PI96349,Sport - All Perils
+3070,YA52900,Sedan - Liability
+3071,PK28821, Sedan - All Perils
+3072,CT83377, Sedan - All Perils
+3073,TW43626, Sedan - All Perils
+3074,UP90711,Sport - Liability
+3075,AT93647,Sedan - Liability
+3076,JN72184, Sedan - All Perils
+3077,BI33231,Utility - All Perils
+3078,XF99212,Sport - Collision
+3079,II83628,Sedan - Collision
+3080,GS92994,Sport - All Perils
+3081,QW31435,Sport - All Perils
+3082,JP64518,Sport - All Perils
+3083,UE52886,Utility - Collision
+3084,VE47660,Utility - Liability
+3085,OB66874,Sedan - Collision
+3086,JZ54775, Sedan - All Perils
+3087,MX50302,Sedan - Liability
+3088,LY73893,Utility - Collision
+3089,DH18269,Sedan - Liability
+3090,XC68458,Utility - Collision
+3091,GO14008,Sport - Liability
+3092,GM98732,Utility - Collision
+3093,KI91500,Sport - Collision
+3094,VW46878,Utility - All Perils
+3095,WL46620,Utility - Collision
+3096,XK87182, Sedan - All Perils
+3097,CE78778,Utility - Collision
+3098,AT89553,Sport - All Perils
+3099,RB16360,Sedan - Liability
+3100,VF96109,Utility - Liability
+3101,KP96020,Sport - Liability
+3102,GV59387,Sport - All Perils
+3103,OQ69520,Utility - Collision
+3104,HV16877,Sedan - Liability
+3105,CH97539,Sport - All Perils
+3106,CP67787, Sedan - All Perils
+3107,VK94891,Utility - Collision
+3108,IA52178,Utility - Liability
+3109,DR32525,Utility - Liability
+3110,DX70966,Sport - All Perils
+3111,AS18084,Utility - Collision
+3112,LE26899, Sedan - All Perils
+3113,EZ41764,Utility - All Perils
+3114,YC33550,Sedan - Collision
+3115,PA38372,Utility - Liability
+3116,RM31359,Sedan - Collision
+3117,AI85843,Sport - Liability
+3118,DO83789, Sedan - All Perils
+3119,UH41125,Utility - Collision
+3120,ZZ41158,Utility - All Perils
+3121,ER51965,Utility - Liability
+3122,RY38931,Sport - Collision
+3123,DP92488,Utility - Collision
+3124,KI58952,Utility - Collision
+3125,GQ15613, Sedan - All Perils
+3126,NE51159,Sport - Collision
+3127,ZQ94561,Sport - Liability
+3128,WT22392,Sport - Liability
+3129,SB61617,Utility - Collision
+3130,KJ29915,Sedan - Collision
+3131,WJ55369,Sport - Liability
+3132,YF87007,Sport - Collision
+3133,CB64729,Utility - Collision
+3134,GI36262,Sedan - Collision
+3135,KR82385, Sedan - All Perils
+3136,HQ15974,Utility - Collision
+3137,SL22297,Sedan - Collision
+3138,LX95134,Utility - All Perils
+3139,SZ35936,Sport - All Perils
+3140,DC91024,Utility - Liability
+3141,ZC32510,Sedan - Collision
+3142,NW23827,Sport - Collision
+3143,HZ39407,Sedan - Collision
+3144,RQ99149, Sedan - All Perils
+3145,LS62045, Sedan - All Perils
+3146,ZK21724,Sport - Liability
+3147,NT15165, Sedan - All Perils
+3148,RY26286,Sedan - Liability
+3149,BU72633,Utility - Liability
+3150,BR24590,Utility - Collision
+3151,IV84135,Sport - Liability
+3152,FP78531,Utility - All Perils
+3153,IL12516,Sport - All Perils
+3154,MN61620,Utility - Liability
+3155,OA46321,Sedan - Collision
+3156,KR25511,Sedan - Collision
+3157,TK40018,Sport - All Perils
+3158,HF82396,Sedan - Liability
+3159,JC96695, Sedan - All Perils
+3160,AP32891,Sport - Collision
+3161,OF77789,Sedan - Collision
+3162,JK68578,Utility - Liability
+3163,GE47180,Sport - All Perils
+3164,CM48429,Sport - Liability
+3165,OY38576,Utility - Collision
+3166,ZT26848,Utility - Liability
+3167,TJ11671,Utility - Liability
+3168,CO19402,Utility - Liability
+3169,MN32305, Sedan - All Perils
+3170,CF95802,Sport - Collision
+3171,QC89139,Sedan - Liability
+3172,EF84269,Utility - All Perils
+3173,VV68726,Sport - All Perils
+3174,KQ49890,Sport - Liability
+3175,AT62618,Sport - Collision
+3176,RN97635,Sport - Liability
+3177,JO63462,Utility - Liability
+3178,ZW51071,Sport - All Perils
+3179,TP61305,Sport - All Perils
+3180,KW56110, Sedan - All Perils
+3181,NT25078,Sport - All Perils
+3182,LO68739,Sport - Collision
+3183,MC62068,Sport - All Perils
+3184,WZ40465,Sedan - Collision
+3185,EG12987,Utility - Collision
+3186,VY27019, Sedan - All Perils
+3187,RF73329,Sport - Collision
+3188,LO48126,Utility - All Perils
+3189,DX70966,Sedan - Collision
+3190,WH81461,Utility - All Perils
+3191,LB97434, Sedan - All Perils
+3192,NJ54277, Sedan - All Perils
+3193,KZ26788,Sport - All Perils
+3194,WV53830,Sport - Liability
+3195,QF76244,Utility - All Perils
+3196,ZD65365,Utility - All Perils
+3197,JZ23377,Utility - Liability
+3198,CD86811, Sedan - All Perils
+3199,OC88207, Sedan - All Perils
+3200,TM23514,Utility - Liability
+3201,TH96263,Sedan - Collision
+3202,VP13613,Utility - All Perils
+3203,MR77933,Sport - All Perils
+3204,VJ51327, Sedan - All Perils
+3205,LF36128, Sedan - All Perils
+3206,XR52852,Sport - All Perils
+3207,FI17798,Sport - All Perils
+3208,QV66305,Utility - Collision
+3209,SM88270,Sport - All Perils
+3210,JI93499,Utility - Collision
+3211,YD45065,Utility - Collision
+3212,AN97123,Sport - Collision
+3213,UZ60774,Sport - Collision
+3214,YU90693,Sport - Liability
+3215,WY43888, Sedan - All Perils
+3216,FS19862,Sport - Collision
+3217,PD19551,Utility - All Perils
+3218,NX32730,Utility - All Perils
+3219,XR84971,Sedan - Collision
+3220,PI96349,Sport - Collision
+3221,PS69748,Utility - All Perils
+3222,WU63862,Utility - Collision
+3223,EE57466, Sedan - All Perils
+3224,GB75821,Utility - Liability
+3225,LZ34046,Sport - All Perils
+3226,GG61186,Sedan - Collision
+3227,BQ28323,Sedan - Collision
+3228,ZC97968,Utility - Liability
+3229,IN17648,Utility - Liability
+3230,QJ22057,Sedan - Collision
+3231,NB10500,Sedan - Collision
+3232,NB54665,Sport - Liability
+3233,AJ32539,Utility - All Perils
+3234,OH23652,Sport - Collision
+3235,FL55134,Sport - Collision
+3236,PU25891,Sport - Collision
+3237,NS14955,Utility - Liability
+3238,TM14491,Sedan - Collision
+3239,TG95261,Sedan - Collision
+3240,UK76814, Sedan - All Perils
+3241,SE15781,Sport - Liability
+3242,VJ83206,Sedan - Collision
+3243,QO59138,Sport - Collision
+3244,DA79098,Sport - Liability
+3245,VF36700,Utility - Liability
+3246,AA69265,Sedan - Collision
+3247,EB61889, Sedan - All Perils
+3248,KN15789,Sport - All Perils
+3249,VY75186,Utility - Collision
+3250,GB45753,Sport - Liability
+3251,TD97297, Sedan - All Perils
+3252,HR64765,Utility - All Perils
+3253,WO94087,Utility - Collision
+3254,TV53243,Sedan - Liability
+3255,CE71123, Sedan - All Perils
+3256,CN16311,Sport - Liability
+3257,HU76577,Sport - Collision
+3258,VI35467,Sport - All Perils
+3259,LL14393,Utility - All Perils
+3260,KD21661,Utility - Collision
+3261,CO44659,Sedan - Liability
+3262,LQ45358,Utility - Liability
+3263,HF15113,Sport - All Perils
+3264,JC45487,Sedan - Liability
+3265,LU79865,Sport - All Perils
+3266,MU64306,Utility - Collision
+3267,AI14767,Sedan - Liability
+3268,UW90223,Sedan - Collision
+3269,PC80039,Sport - Collision
+3270,FR46645,Utility - Liability
+3271,HI16472,Sport - Collision
+3272,AB73565,Sedan - Collision
+3273,QY37300,Utility - Collision
+3274,RD28560,Sport - Liability
+3275,RE12758,Sedan - Collision
+3276,YC54142,Sedan - Collision
+3277,US78266, Sedan - All Perils
+3278,UI36597,Sport - All Perils
+3279,GD17919,Sport - Liability
+3280,AK11719,Utility - Collision
+3281,DL20327,Utility - Collision
+3282,QF74147,Sport - Liability
+3283,VA35421,Sport - Liability
+3284,IQ15028,Sport - Liability
+3285,FY13480,Sport - All Perils
+3286,EC44438,Utility - All Perils
+3287,WL92199,Sport - All Perils
+3288,KW99972,Utility - All Perils
+3289,RS60249,Sport - Collision
+3290,UN52560,Sport - Liability
+3291,AK17025,Sport - Collision
+3292,OP47206,Utility - Liability
+3293,VM69145,Utility - Collision
+3294,TW43626, Sedan - All Perils
+3295,EG10175,Sedan - Liability
+3296,EW68125,Sedan - Liability
+3297,PD79570,Sport - Collision
+3298,PD69398,Sport - Liability
+3299,TY20016,Sedan - Liability
+3300,LB83807,Utility - Collision
+3301,QW67581,Utility - All Perils
+3302,CK24264,Utility - All Perils
+3303,CP87192,Utility - Collision
+3304,MM49431,Sport - All Perils
+3305,ZE40223,Sport - All Perils
+3306,NQ42020,Sport - Collision
+3307,TO34442,Utility - Collision
+3308,YC87263,Sedan - Collision
+3309,PD32641,Sedan - Collision
+3310,JJ97525, Sedan - All Perils
+3311,TD90177,Sport - Collision
+3312,KD16729,Utility - Liability
+3313,US82470,Sedan - Liability
+3314,TG70775,Utility - Collision
+3315,VV82891,Sport - All Perils
+3316,CH97539,Sport - Collision
+3317,QG15661,Sport - Liability
+3318,LC58452,Sedan - Liability
+3319,NM77735,Sedan - Liability
+3320,WC28543,Sport - Liability
+3321,HQ32112,Sport - All Perils
+3322,NK73719, Sedan - All Perils
+3323,SR74929,Sedan - Liability
+3324,PP48389,Sport - Liability
+3325,NB54665,Sport - Collision
+3326,OC50447,Utility - Collision
+3327,TA77711,Sedan - Liability
+3328,UF46533,Utility - Collision
+3329,GZ64473,Sport - All Perils
+3330,OO11531,Sport - All Perils
+3331,KI58952,Utility - Collision
+3332,OH55411,Sedan - Liability
+3333,QT25383, Sedan - All Perils
+3334,NN54114,Sport - All Perils
+3335,QV24282, Sedan - All Perils
+3336,HT31871, Sedan - All Perils
+3337,QD97878,Sport - Liability
+3338,XB17553,Utility - Collision
+3339,NI66988,Sedan - Collision
+3340,JA47688,Utility - All Perils
+3341,IC47914,Sedan - Liability
+3342,QJ89807,Sport - All Perils
+3343,GM54723,Sedan - Liability
+3344,MC73302,Sedan - Liability
+3345,UQ30615,Sedan - Liability
+3346,BS29584, Sedan - All Perils
+3347,RA29518,Utility - Liability
+3348,QD46343,Sport - Collision
+3349,AZ50087, Sedan - All Perils
+3350,JZ76788,Utility - All Perils
+3351,JB76199,Utility - All Perils
+3352,OF93412,Utility - Liability
+3353,LV14566,Sport - Liability
+3354,XX88364,Utility - Liability
+3355,ZJ65064,Utility - Liability
+3356,UW98698,Utility - Collision
+3357,XH20787,Utility - Collision
+3358,LE12086,Sport - Collision
+3359,BC64697,Sedan - Liability
+3360,FS67856,Sedan - Liability
+3361,LM84166,Utility - Liability
+3362,RE46783,Sport - All Perils
+3363,LE12782,Utility - Liability
+3364,BN87372,Utility - All Perils
+3365,KR43119,Utility - Collision
+3366,DQ31994,Sedan - Collision
+3367,WB68229,Sport - All Perils
+3368,IL32727,Sedan - Collision
+3369,IE36279,Sport - Liability
+3370,SM87252,Utility - All Perils
+3371,DF66914,Utility - Collision
+3372,DJ93289,Utility - Liability
+3373,JC80093,Utility - Liability
+3374,YG87460,Utility - Collision
+3375,MR56401,Sport - All Perils
+3376,LC47479,Sport - Liability
+3377,TH69908, Sedan - All Perils
+3378,RH70194,Sedan - Liability
+3379,FU43761,Sport - All Perils
+3380,QI99143,Sedan - Collision
+3381,ZX64745,Utility - Collision
+3382,YB66933,Sport - Collision
+3383,SY36127,Utility - Liability
+3384,KX55910,Sport - All Perils
+3385,ZY60545, Sedan - All Perils
+3386,VZ61940,Utility - Collision
+3387,EZ78112,Utility - All Perils
+3388,FY30870, Sedan - All Perils
+3389,QM61543,Utility - Liability
+3390,HP46467,Sport - Collision
+3391,JD10245,Sport - Liability
+3392,RZ98310,Sport - Collision
+3393,WG26617,Utility - Collision
+3394,IR62720,Utility - Liability
+3395,AR17553,Sport - All Perils
+3396,YU86594,Utility - Collision
+3397,AM94127,Sport - Liability
+3398,ZQ37164, Sedan - All Perils
+3399,UI36597,Sedan - Collision
+3400,JD75068,Sedan - Collision
+3401,SJ86522,Sport - Liability
+3402,MS45259,Sedan - Liability
+3403,PX72779,Utility - All Perils
+3404,UN63889,Sport - Collision
+3405,LQ16286,Sport - Collision
+3406,DL14445,Utility - Collision
+3407,TH86528,Sport - Collision
+3408,NL17964,Sport - All Perils
+3409,DZ64604,Utility - Collision
+3410,JD11661,Utility - Collision
+3411,MD86050,Sedan - Collision
+3412,CV29889,Utility - All Perils
+3413,HC20975,Utility - All Perils
+3414,IX10511,Utility - Collision
+3415,PA38372,Sport - Liability
+3416,DK19711,Sport - All Perils
+3417,IN17648,Utility - Collision
+3418,UF28233,Sport - Liability
+3419,YW85018,Sport - Collision
+3420,IH54239, Sedan - All Perils
+3421,SM73248,Sedan - Liability
+3422,SN36487,Sedan - Collision
+3423,TQ82322,Utility - Liability
+3424,OO92815,Sport - Collision
+3425,WA97671,Utility - Collision
+3426,SK93727,Sedan - Collision
+3427,WK46492, Sedan - All Perils
+3428,AM94127,Sport - Collision
+3429,UL96474,Sedan - Liability
+3430,BV55733,Utility - All Perils
+3431,Y167826,Utility - Collision
+3432,TP20456,Sedan - Collision
+3433,WD38315,Utility - All Perils
+3434,QV89018, Sedan - All Perils
+3435,QF74806, Sedan - All Perils
+3436,TS11219,Sport - All Perils
+3437,OB69153,Sport - All Perils
+3438,BZ33435,Sedan - Liability
+3439,AV25133,Sport - Liability
+3440,GT18396,Utility - All Perils
+3441,NY90858,Sedan - Liability
+3442,HW85007,Utility - Liability
+3443,NC78961,Utility - Collision
+3444,YV67971,Sport - All Perils
+3445,LZ34164,Sedan - Liability
+3446,SE15781,Utility - Liability
+3447,JL71713,Sedan - Collision
+3448,MS20849,Utility - Liability
+3449,EJ67407,Utility - All Perils
+3450,KB15252,Sedan - Collision
+3451,ZK90062,Utility - Collision
+3452,AA34092,Utility - All Perils
+3453,ZB23962,Sedan - Collision
+3454,EI17022,Utility - Liability
+3455,WM87004, Sedan - All Perils
+3456,FS84707,Sedan - Liability
+3457,WU62992,Utility - Liability
+3458,HT50748,Sport - Collision
+3459,OE88763,Sport - Collision
+3460,GC42314,Sport - Collision
+3461,JP30654,Sedan - Liability
+3462,NF31087,Utility - Liability
+3463,UR73910, Sedan - All Perils
+3464,ZH35315,Utility - Collision
+3465,LJ88616,Sport - Collision
+3466,XO67536,Sedan - Liability
+3467,JH94846,Sport - Liability
+3468,OX87524,Utility - Collision
+3469,FJ57446, Sedan - All Perils
+3470,RW66792,Utility - Collision
+3471,UM44109,Utility - Collision
+3472,HN54181,Sedan - Collision
+3473,DC37886, Sedan - All Perils
+3474,ZW32080,Sedan - Liability
+3475,CR40615,Sport - Collision
+3476,QA78691,Utility - Collision
+3477,SI11249,Sport - Liability
+3478,FC70869,Sport - All Perils
+3479,DZ35379,Sedan - Collision
+3480,MG99229,Utility - All Perils
+3481,XH20787,Utility - All Perils
+3482,FF93355,Utility - All Perils
+3483,KS12294,Utility - Liability
+3484,XO42145, Sedan - All Perils
+3485,IC78105,Sport - Collision
+3486,SE15781,Sedan - Collision
+3487,XR99310,Utility - All Perils
+3488,EN60878,Sedan - Collision
+3489,BW52697,Utility - Collision
+3490,LY14687,Sport - Collision
+3491,RN97635,Utility - Collision
+3492,DQ19343,Sport - All Perils
+3493,SD30853,Sport - Liability
+3494,PL44132,Sedan - Liability
+3495,DB26077,Sport - Collision
+3496,HW19506,Utility - Liability
+3497,LH80781,Sedan - Collision
+3498,XY66810,Utility - All Perils
+3499,YP37291,Sport - Collision
+3500,KQ30179, Sedan - All Perils
+3501,LK73198,Sport - All Perils
+3502,WT38706,Sport - Collision
+3503,RO89785,Sport - Liability
+3504,QA71190,Sport - Liability
+3505,VP84987,Sport - Collision
+3506,MA37431,Utility - Liability
+3507,ST96866,Utility - Liability
+3508,CN90378,Sport - Collision
+3509,VV81837,Utility - Liability
+3510,AW73065,Sport - Liability
+3511,IN28584,Utility - All Perils
+3512,UF36353, Sedan - All Perils
+3513,ME37051,Utility - Collision
+3514,YQ98465,Sport - All Perils
+3515,UH45301,Sport - All Perils
+3516,EZ71780,Utility - All Perils
+3517,IX37561,Utility - Liability
+3518,ZG18090,Sport - Liability
+3519,FQ46354,Utility - All Perils
+3520,NY24020,Sport - Liability
+3521,ET89070,Sedan - Liability
+3522,OY32548,Sedan - Liability
+3523,ZN86559,Sport - All Perils
+3524,EW13798, Sedan - All Perils
+3525,XK99408,Utility - Liability
+3526,BX24569,Sport - All Perils
+3527,GM63998,Utility - All Perils
+3528,EP80820,Sport - All Perils
+3529,NK91656,Sport - All Perils
+3530,LA60344,Utility - All Perils
+3531,MM67983,Sport - Collision
+3532,IF80474,Utility - Collision
+3533,DQ98402,Sport - Collision
+3534,ZT18953,Sedan - Collision
+3535,SD94067,Utility - All Perils
+3536,PS69748,Sport - All Perils
+3537,HF65914,Utility - All Perils
+3538,ZP80713, Sedan - All Perils
+3539,EW35231,Utility - All Perils
+3540,ZR11692,Sedan - Collision
+3541,VY75186,Sport - All Perils
+3542,BS13062,Sport - Collision
+3543,UL96474,Sedan - Liability
+3544,HL40930,Sport - Liability
+3545,SU44811,Sedan - Liability
+3546,PZ47901,Utility - All Perils
+3547,VZ59523,Utility - Liability
+3548,AW84946,Sedan - Collision
+3549,LA72316, Sedan - All Perils
+3550,QI63521,Utility - All Perils
+3551,RC44077,Utility - Liability
+3552,XX29952,Utility - All Perils
+3553,ID89933,Sedan - Collision
+3554,FI61059,Sport - Collision
+3555,LH26563,Sport - Collision
+3556,IQ30108,Sedan - Collision
+3557,HN38084,Utility - Liability
+3558,EK87467,Utility - Collision
+3559,EZ11341,Sport - Collision
+3560,DO70918, Sedan - All Perils
+3561,JI80257,Sedan - Liability
+3562,MF83904,Sport - Liability
+3563,PW88443,Sport - Collision
+3564,SM42781,Sedan - Liability
+3565,PW98890,Sedan - Liability
+3566,MN79082,Sedan - Collision
+3567,GR31499,Utility - All Perils
+3568,RR39751,Sport - All Perils
+3569,CQ72935, Sedan - All Perils
+3570,HZ68892,Utility - Liability
+3571,OS96036,Utility - All Perils
+3572,YE88490, Sedan - All Perils
+3573,VZ23007,Sport - Collision
+3574,CN24514,Utility - Liability
+3575,BE78308,Sport - Liability
+3576,MB90871,Sedan - Collision
+3577,TV23956,Sedan - Liability
+3578,XH71839,Sport - All Perils
+3579,JA26024,Sport - Collision
+3580,VA30351,Sedan - Liability
+3581,ZX93551,Sport - Collision
+3582,UV99893,Utility - Liability
+3583,CJ64468,Sedan - Liability
+3584,YN61339,Sport - Collision
+3585,NE16405,Sport - Collision
+3586,CZ96653,Sedan - Liability
+3587,FD20455, Sedan - All Perils
+3588,DK20428, Sedan - All Perils
+3589,HI71466,Sedan - Collision
+3590,AV76907,Utility - Liability
+3591,AS17174,Utility - Liability
+3592,UH89141,Sedan - Liability
+3593,QW87316,Sport - All Perils
+3594,UO86707,Sport - Liability
+3595,CJ31839,Utility - Collision
+3596,NK40551,Sport - Liability
+3597,NB79936,Sport - Liability
+3598,ED91989,Sport - Liability
+3599,YI95574,Utility - Liability
+3600,VL58402,Sedan - Liability
+3601,QX24179,Sport - All Perils
+3602,VD51297,Utility - Liability
+3603,MN32305,Sport - Liability
+3604,LM79063,Sport - Collision
+3605,UD27331, Sedan - All Perils
+3606,TW11712,Sport - All Perils
+3607,BE31382,Sport - Liability
+3608,TF82172,Utility - All Perils
+3609,TN79487,Utility - Liability
+3610,XZ45224,Sport - All Perils
+3611,BU27331,Sport - All Perils
+3612,RE46783, Sedan - All Perils
+3613,SO57563,Utility - Collision
+3614,YK32760,Utility - Liability
+3615,KB20508, Sedan - All Perils
+3616,JG41490,Utility - Collision
+3617,SE78641,Sport - Liability
+3618,GE58317, Sedan - All Perils
+3619,SE30128,Sport - All Perils
+3620,LG19551,Sedan - Liability
+3621,SL71998,Utility - All Perils
+3622,QB26845, Sedan - All Perils
+3623,GI25850,Sport - Collision
+3624,CW63533,Sport - All Perils
+3625,MF49636,Sedan - Liability
+3626,DP13082,Utility - Collision
+3627,OJ84485,Sport - Liability
+3628,KJ87930,Sport - All Perils
+3629,YY58769,Sport - Liability
+3630,OC50447,Sedan - Collision
+3631,FX65946,Utility - All Perils
+3632,DL61016,Utility - Liability
+3633,FS97588,Sport - Liability
+3634,FU65756,Sport - Liability
+3635,FB84409,Sport - Liability
+3636,HA40978,Utility - All Perils
+3637,OE19653,Sedan - Collision
+3638,GA46608,Utility - Collision
+3639,NR49426,Utility - Collision
+3640,ZO20633,Utility - All Perils
+3641,WP51328,Sedan - Liability
+3642,SC30127,Utility - Collision
+3643,IK77998,Sport - Liability
+3644,QW60568, Sedan - All Perils
+3645,VR14881,Sedan - Collision
+3646,VG31922,Utility - Liability
+3647,IG89777,Sedan - Liability
+3648,MX80067,Sedan - Collision
+3649,LF41085,Sedan - Collision
+3650,LO39834,Sport - Liability
+3651,MI81870,Sport - All Perils
+3652,BK47926,Sport - Liability
+3653,LL14393,Sedan - Liability
+3654,DP26592,Utility - Collision
+3655,OD63728,Sport - Liability
+3656,SJ71233,Sport - Liability
+3657,HU75748,Sedan - Liability
+3658,DM59806,Sedan - Liability
+3659,BP23267,Sport - Liability
+3660,DN92191,Sport - All Perils
+3661,MS45259,Utility - Liability
+3662,MF49636,Utility - All Perils
+3663,FG91922,Utility - Liability
+3664,CT74097,Utility - All Perils
+3665,ZC32761,Sedan - Collision
+3666,ZT63368,Sport - Collision
+3667,ST59524,Sport - All Perils
+3668,XB43625,Sedan - Liability
+3669,MM83308,Utility - Collision
+3670,RZ50353,Sedan - Liability
+3671,VC77127,Utility - Collision
+3672,AU94279,Sedan - Liability
+3673,RJ90816,Sedan - Liability
+3674,BA87216,Utility - Liability
+3675,LR49580,Sport - Collision
+3676,GY99495,Sedan - Liability
+3677,HH80006,Utility - Liability
+3678,JK13254,Utility - Collision
+3679,PG14554,Sedan - Liability
+3680,ZO43755,Sport - Collision
+3681,WB38524,Utility - Collision
+3682,IP68868,Sport - Collision
+3683,NT36519,Sport - Collision
+3684,PY98628,Utility - Liability
+3685,DR32525,Sedan - Collision
+3686,VA77345,Sedan - Liability
+3687,CF50291, Sedan - All Perils
+3688,BE69929, Sedan - All Perils
+3689,RA34556,Utility - Liability
+3690,FG63647,Sport - All Perils
+3691,XR99310,Sport - Liability
+3692,HS14476, Sedan - All Perils
+3693,SJ30138,Sport - All Perils
+3694,HB12866,Sedan - Collision
+3695,EQ59908,Utility - All Perils
+3696,QJ31447,Sport - Liability
+3697,YU72540,Sport - Collision
+3698,QA41558,Sport - Liability
+3699,GX29162,Utility - Liability
+3700,YC43143,Sport - Liability
+3701,AU94279,Sedan - Liability
+3702,BZ92811, Sedan - All Perils
+3703,ZN86559, Sedan - All Perils
+3704,CV86445, Sedan - All Perils
+3705,JU64043,Utility - Liability
+3706,SO18542,Utility - All Perils
+3707,OU62604,Sport - Collision
+3708,XO75323,Utility - Collision
+3709,HW61722,Utility - Liability
+3710,ZY95807,Utility - All Perils
+3711,PD19551,Utility - All Perils
+3712,WT43034,Utility - Collision
+3713,CI24326,Sport - Liability
+3714,PP39078, Sedan - All Perils
+3715,IG80910,Sport - Collision
+3716,CH97666,Sport - Liability
+3717,QF59448, Sedan - All Perils
+3718,VM58985,Sedan - Collision
+3719,WE60408,Utility - Liability
+3720,OI68331,Sedan - Liability
+3721,QF55724,Sport - All Perils
+3722,KW52227,Utility - All Perils
+3723,EM29359,Sport - All Perils
+3724,YS49138,Sedan - Collision
+3725,QW67581,Utility - All Perils
+3726,QZ83992,Sport - Collision
+3727,KL43280,Utility - Liability
+3728,CK19789,Utility - Collision
+3729,LZ35469,Sport - All Perils
+3730,PM63319,Sport - Collision
+3731,HG64216, Sedan - All Perils
+3732,CZ56843,Utility - Collision
+3733,PA84292,Sedan - Liability
+3734,LL92275,Sedan - Liability
+3735,ZV17267,Sport - Liability
+3736,QJ31447,Utility - Liability
+3737,BE75190,Utility - Liability
+3738,QF91596,Sport - All Perils
+3739,XH20787,Sport - All Perils
+3740,KF80571,Sport - Liability
+3741,TV97612,Sport - All Perils
+3742,PE63707,Utility - Collision
+3743,SD38003,Sport - Liability
+3744,SY46862,Utility - Liability
+3745,NF25863,Utility - Liability
+3746,QE79527,Sedan - Collision
+3747,EP46328,Sport - Liability
+3748,BC47264,Sport - All Perils
+3749,GT14584,Sedan - Collision
+3750,OW33876,Sedan - Collision
+3751,PT34656,Utility - Collision
+3752,ZZ22193,Sport - All Perils
+3753,SJ74501,Utility - Liability
+3754,DR38127,Utility - All Perils
+3755,CC94413,Utility - All Perils
+3756,HH61461,Sport - Liability
+3757,KZ26788,Utility - All Perils
+3758,MC62068,Sedan - Liability
+3759,MN95006,Sedan - Liability
+3760,JL93248,Sport - Liability
+3761,AD12500,Sport - All Perils
+3762,QX42433,Utility - Collision
+3763,BX20846, Sedan - All Perils
+3764,BH28530,Sport - Collision
+3765,MP53132,Sport - Collision
+3766,RT64920,Sedan - Collision
+3767,KL27677,Sport - Collision
+3768,KL27226,Sedan - Collision
+3769,PI96349,Sedan - Liability
+3770,YA52900,Sedan - Collision
+3771,PK28821,Sedan - Collision
+3772,CT83377,Utility - Liability
+3773,TW43626, Sedan - All Perils
+3774,UP90711,Utility - Collision
+3775,AT93647,Sport - Collision
+3776,JN72184,Sedan - Liability
+3777,BI33231,Sport - All Perils
+3778,XF99212,Utility - Liability
+3779,II83628,Sport - Collision
+3780,GS92994,Sport - Liability
+3781,QW31435,Sport - Collision
+3782,JP64518,Utility - Collision
+3783,UE52886,Sedan - Collision
+3784,VE47660,Utility - All Perils
+3785,OB66874, Sedan - All Perils
+3786,JZ54775, Sedan - All Perils
+3787,MX50302,Sport - All Perils
+3788,LY73893,Sport - Collision
+3789,DH18269,Utility - Liability
+3790,XC68458,Utility - Collision
+3791,GO14008, Sedan - All Perils
+3792,GM98732,Utility - Collision
+3793,KI91500,Sport - All Perils
+3794,VW46878,Sedan - Liability
+3795,WL46620,Utility - Liability
+3796,XK87182,Sedan - Collision
+3797,CE78778,Sport - All Perils
+3798,AT89553,Sedan - Collision
+3799,RB16360,Utility - Collision
+3800,VF96109,Sedan - Collision
+3801,KP96020,Sport - Collision
+3802,GV59387,Utility - Collision
+3803,OQ69520,Sedan - Liability
+3804,HV16877,Sport - Collision
+3805,CH97539,Utility - Liability
+3806,CP67787,Sport - All Perils
+3807,VK94891,Utility - Liability
+3808,IA52178,Utility - All Perils
+3809,DR32525,Sedan - Collision
+3810,DX70966,Sedan - Collision
+3811,AS18084,Utility - Liability
+3812,LE26899, Sedan - All Perils
+3813,EZ41764,Sedan - Collision
+3814,YC33550,Utility - Collision
+3815,PA38372, Sedan - All Perils
+3816,RM31359,Sport - Liability
+3817,AI85843,Sport - Collision
+3818,DO83789,Sport - Collision
+3819,UH41125,Utility - Collision
+3820,ZZ41158,Utility - Liability
+3821,ER51965,Sport - Liability
+3822,RY38931, Sedan - All Perils
+3823,DP92488,Sport - Liability
+3824,KI58952,Utility - Collision
+3825,GQ15613,Utility - All Perils
+3826,NE51159,Utility - Liability
+3827,ZQ94561,Utility - Collision
+3828,WT22392,Sedan - Liability
+3829,SB61617,Sport - All Perils
+3830,KJ29915,Utility - Collision
+3831,WJ55369,Utility - Collision
+3832,YF87007,Utility - All Perils
+3833,CB64729,Utility - Liability
+3834,GI36262,Utility - Liability
+3835,KR82385, Sedan - All Perils
+3836,HQ15974,Sport - Collision
+3837,SL22297,Utility - Liability
+3838,LX95134,Sedan - Collision
+3839,SZ35936,Utility - Collision
+3840,DC91024,Utility - Collision
+3841,ZC32510,Utility - Liability
+3842,NW23827,Sedan - Collision
+3843,HZ39407,Sport - All Perils
+3844,RQ99149, Sedan - All Perils
+3845,LS62045,Sedan - Collision
+3846,ZK21724,Sedan - Collision
+3847,NT15165,Utility - All Perils
+3848,RY26286,Sedan - Collision
+3849,BU72633,Sport - Liability
+3850,BR24590, Sedan - All Perils
+3851,IV84135,Utility - All Perils
+3852,FP78531,Utility - Collision
+3853,IL12516,Sedan - Liability
+3854,MN61620,Sedan - Collision
+3855,OA46321,Sport - Liability
+3856,KR25511,Sport - Liability
+3857,TK40018,Utility - Liability
+3858,HF82396,Sedan - Collision
+3859,JC96695,Sport - Collision
+3860,AP32891,Sport - Liability
+3861,OF77789,Sedan - Collision
+3862,JK68578, Sedan - All Perils
+3863,GE47180,Sport - All Perils
+3864,CM48429,Sport - Collision
+3865,OY38576,Utility - All Perils
+3866,ZT26848, Sedan - All Perils
+3867,TJ11671,Utility - Liability
+3868,CO19402, Sedan - All Perils
+3869,MN32305,Sport - Liability
+3870,CF95802,Utility - All Perils
+3871,QC89139,Sedan - Collision
+3872,EF84269, Sedan - All Perils
+3873,VV68726, Sedan - All Perils
+3874,KQ49890,Sport - All Perils
+3875,AT62618,Utility - All Perils
+3876,RN97635,Utility - All Perils
+3877,JO63462, Sedan - All Perils
+3878,ZW51071,Sport - All Perils
+3879,TP61305,Sport - Liability
+3880,KW56110, Sedan - All Perils
+3881,NT25078,Sedan - Collision
+3882,LO68739,Utility - All Perils
+3883,MC62068,Sedan - Liability
+3884,WZ40465,Sport - All Perils
+3885,EG12987,Utility - All Perils
+3886,VY27019,Sedan - Liability
+3887,RF73329,Sedan - Liability
+3888,LO48126,Sport - Collision
+3889,DX70966,Utility - All Perils
+3890,WH81461,Utility - Liability
+3891,LB97434,Sedan - Collision
+3892,NJ54277,Sedan - Liability
+3893,KZ26788,Sport - All Perils
+3894,WV53830,Sedan - Collision
+3895,QF76244,Sedan - Liability
+3896,ZD65365, Sedan - All Perils
+3897,JZ23377,Sedan - Liability
+3898,CD86811,Utility - Liability
+3899,OC88207,Sedan - Collision
+3900,TM23514,Sport - Liability
+3901,TH96263, Sedan - All Perils
+3902,VP13613,Utility - Liability
+3903,MR77933,Sedan - Collision
+3904,VJ51327,Sport - Liability
+3905,LF36128,Sport - Collision
+3906,XR52852,Sport - All Perils
+3907,FI17798,Utility - All Perils
+3908,QV66305,Utility - Collision
+3909,SM88270,Sport - All Perils
+3910,JI93499,Sport - Liability
+3911,YD45065,Sport - Liability
+3912,AN97123,Utility - Liability
+3913,UZ60774,Utility - Liability
+3914,YU90693,Sport - Collision
+3915,WY43888,Sedan - Collision
+3916,FS19862,Sport - All Perils
+3917,PD19551, Sedan - All Perils
+3918,NX32730,Sedan - Liability
+3919,XR84971, Sedan - All Perils
+3920,PI96349,Utility - All Perils
+3921,PS69748,Utility - Liability
+3922,WU63862,Sport - All Perils
+3923,EE57466,Utility - Liability
+3924,GB75821,Utility - Collision
+3925,LZ34046,Sedan - Collision
+3926,GG61186,Utility - All Perils
+3927,BQ28323,Sedan - Liability
+3928,ZC97968,Sedan - Liability
+3929,IN17648,Sedan - Liability
+3930,QJ22057,Utility - Collision
+3931,NB10500,Sedan - Liability
+3932,NB54665,Utility - Liability
+3933,AJ32539, Sedan - All Perils
+3934,OH23652,Sport - Collision
+3935,FL55134,Utility - Liability
+3936,PU25891,Utility - Liability
+3937,NS14955,Utility - Collision
+3938,TM14491,Sedan - Liability
+3939,TG95261,Sedan - Liability
+3940,UK76814,Sport - Liability
+3941,SE15781,Sedan - Liability
+3942,VJ83206,Sedan - Collision
+3943,QO59138,Utility - Liability
+3944,DA79098,Sport - Liability
+3945,VF36700,Sedan - Collision
+3946,AA69265, Sedan - All Perils
+3947,EB61889,Sedan - Liability
+3948,KN15789, Sedan - All Perils
+3949,VY75186,Utility - All Perils
+3950,GB45753,Sedan - Collision
+3951,TD97297,Utility - Liability
+3952,HR64765,Utility - Liability
+3953,WO94087,Sedan - Collision
+3954,TV53243,Sedan - Collision
+3955,CE71123,Sedan - Liability
+3956,CN16311,Utility - Collision
+3957,HU76577,Sedan - Liability
+3958,VI35467,Sedan - Liability
+3959,LL14393,Sport - Collision
+3960,KD21661,Sport - Collision
+3961,CO44659,Sedan - Collision
+3962,LQ45358,Utility - Liability
+3963,HF15113,Utility - All Perils
+3964,JC45487,Sport - All Perils
+3965,LU79865,Utility - Liability
+3966,MU64306,Utility - Liability
+3967,AI14767,Utility - All Perils
+3968,UW90223,Utility - Collision
+3969,PC80039,Utility - Collision
+3970,FR46645,Utility - Liability
+3971,HI16472,Sedan - Collision
+3972,AB73565,Utility - Liability
+3973,QY37300,Sedan - Collision
+3974,RD28560,Utility - Liability
+3975,RE12758,Sedan - Liability
+3976,YC54142,Sport - All Perils
+3977,US78266,Utility - Collision
+3978,UI36597,Utility - Collision
+3979,GD17919,Sedan - Collision
+3980,AK11719,Sport - Liability
+3981,DL20327,Sedan - Liability
+3982,QF74147,Sedan - Liability
+3983,VA35421,Sport - All Perils
+3984,IQ15028,Utility - All Perils
+3985,FY13480, Sedan - All Perils
+3986,EC44438,Sport - Collision
+3987,WL92199,Utility - All Perils
+3988,KW99972,Utility - Liability
+3989,RS60249,Sport - Collision
+3990,UN52560,Utility - All Perils
+3991,AK17025,Sport - All Perils
+3992,OP47206,Sport - All Perils
+3993,VM69145,Sport - Liability
+3994,TW43626,Sedan - Collision
+3995,EG10175,Sedan - Liability
+3996,EW68125,Sport - Collision
+3997,PD79570,Sport - All Perils
+3998,PD69398,Utility - Collision
+3999,TY20016,Sport - All Perils
+4000,LB83807,Sport - Liability
+4001,QW67581,Utility - All Perils
+4002,CK24264,Utility - All Perils
+4003,CP87192,Sedan - Liability
+4004,MM49431,Utility - Collision
+4005,ZE40223,Sedan - Liability
+4006,NQ42020, Sedan - All Perils
+4007,TO34442,Sedan - Liability
+4008,YC87263,Sedan - Liability
+4009,PD32641,Utility - Liability
+4010,JJ97525,Sport - Collision
+4011,TD90177,Sedan - Collision
+4012,KD16729,Utility - Liability
+4013,US82470,Utility - Liability
+4014,TG70775,Sport - Collision
+4015,VV82891, Sedan - All Perils
+4016,CH97539,Utility - Liability
+4017,QG15661,Utility - Collision
+4018,LC58452,Sport - Liability
+4019,NM77735,Utility - Collision
+4020,WC28543,Utility - Liability
+4021,HQ32112,Utility - All Perils
+4022,NK73719,Utility - All Perils
+4023,SR74929,Sedan - Collision
+4024,PP48389, Sedan - All Perils
+4025,NB54665,Sedan - Liability
+4026,OC50447, Sedan - All Perils
+4027,TA77711,Sport - All Perils
+4028,UF46533, Sedan - All Perils
+4029,GZ64473, Sedan - All Perils
+4030,OO11531,Sport - Collision
+4031,KI58952,Sport - Liability
+4032,OH55411,Sedan - Liability
+4033,QT25383,Sport - Liability
+4034,NN54114, Sedan - All Perils
+4035,QV24282,Sport - All Perils
+4036,HT31871,Sedan - Collision
+4037,QD97878, Sedan - All Perils
+4038,XB17553,Sport - Collision
+4039,NI66988,Utility - Liability
+4040,JA47688,Utility - All Perils
+4041,IC47914,Sport - All Perils
+4042,QJ89807,Sedan - Collision
+4043,GM54723,Sport - Collision
+4044,MC73302,Sedan - Collision
+4045,UQ30615,Sport - All Perils
+4046,BS29584,Sedan - Collision
+4047,RA29518,Sport - Liability
+4048,QD46343,Sedan - Liability
+4049,AZ50087,Sedan - Collision
+4050,JZ76788,Sport - Liability
+4051,JB76199,Sport - Collision
+4052,OF93412,Utility - Collision
+4053,LV14566,Sedan - Liability
+4054,XX88364,Utility - Liability
+4055,ZJ65064,Utility - Liability
+4056,UW98698,Sport - All Perils
+4057,XH20787,Utility - All Perils
+4058,LE12086,Sport - All Perils
+4059,BC64697,Sport - Liability
+4060,FS67856,Utility - Liability
+4061,LM84166,Sport - All Perils
+4062,RE46783, Sedan - All Perils
+4063,LE12782,Sport - Liability
+4064,BN87372, Sedan - All Perils
+4065,KR43119,Utility - All Perils
+4066,DQ31994,Sport - All Perils
+4067,WB68229,Sedan - Collision
+4068,IL32727, Sedan - All Perils
+4069,IE36279,Sedan - Liability
+4070,SM87252,Utility - All Perils
+4071,DF66914,Utility - All Perils
+4072,DJ93289,Sport - Liability
+4073,JC80093,Sedan - Collision
+4074,YG87460, Sedan - All Perils
+4075,MR56401,Sedan - Liability
+4076,LC47479,Utility - Liability
+4077,TH69908,Sedan - Collision
+4078,RH70194, Sedan - All Perils
+4079,FU43761,Utility - Liability
+4080,QI99143, Sedan - All Perils
+4081,ZX64745,Utility - Liability
+4082,YB66933,Sport - Collision
+4083,SY36127,Sport - Liability
+4084,KX55910,Sedan - Liability
+4085,ZY60545,Sport - Collision
+4086,VZ61940,Sport - Collision
+4087,EZ78112, Sedan - All Perils
+4088,FY30870,Sport - Collision
+4089,QM61543,Utility - Liability
+4090,HP46467,Sport - Liability
+4091,JD10245,Utility - Liability
+4092,RZ98310,Sedan - Collision
+4093,WG26617, Sedan - All Perils
+4094,IR62720, Sedan - All Perils
+4095,AR17553,Sport - Liability
+4096,YU86594,Utility - Liability
+4097,AM94127,Sport - All Perils
+4098,ZQ37164,Sport - Collision
+4099,UI36597,Sedan - Collision
+4100,JD75068,Sport - All Perils
+4101,SJ86522,Sport - Liability
+4102,MS45259,Utility - Collision
+4103,PX72779,Sedan - Collision
+4104,UN63889,Sport - Collision
+4105,LQ16286, Sedan - All Perils
+4106,DL14445,Utility - Liability
+4107,TH86528,Sport - Liability
+4108,NL17964,Sedan - Collision
+4109,DZ64604,Sport - All Perils
+4110,JD11661,Sport - All Perils
+4111,MD86050,Sport - Collision
+4112,CV29889,Utility - All Perils
+4113,HC20975,Sedan - Collision
+4114,IX10511,Sedan - Liability
+4115,PA38372,Utility - Collision
+4116,DK19711,Sedan - Liability
+4117,IN17648, Sedan - All Perils
+4118,UF28233,Utility - All Perils
+4119,YW85018,Sedan - Liability
+4120,IH54239,Sport - Collision
+4121,SM73248,Sedan - Liability
+4122,SN36487, Sedan - All Perils
+4123,TQ82322, Sedan - All Perils
+4124,OO92815,Sport - Collision
+4125,WA97671,Sedan - Collision
+4126,SK93727,Sport - Collision
+4127,WK46492,Sport - Liability
+4128,AM94127,Utility - Collision
+4129,UL96474,Sedan - Liability
+4130,BV55733,Utility - Collision
+4131,Y167826,Utility - Liability
+4132,TP20456,Utility - Collision
+4133,WD38315,Utility - Liability
+4134,QV89018,Utility - Collision
+4135,QF74806,Utility - Liability
+4136,TS11219,Sport - All Perils
+4137,OB69153,Sport - All Perils
+4138,BZ33435,Sport - Collision
+4139,AV25133,Sport - Collision
+4140,GT18396,Sport - Liability
+4141,NY90858,Utility - Collision
+4142,HW85007,Sport - All Perils
+4143,NC78961,Sedan - Liability
+4144,YV67971,Sedan - Liability
+4145,LZ34164, Sedan - All Perils
+4146,SE15781,Sport - Collision
+4147,JL71713,Sport - Collision
+4148,MS20849,Utility - Liability
+4149,EJ67407,Sport - Collision
+4150,KB15252,Sedan - Liability
+4151,ZK90062,Sedan - Liability
+4152,AA34092,Utility - Collision
+4153,ZB23962,Utility - Collision
+4154,EI17022, Sedan - All Perils
+4155,WM87004,Utility - Liability
+4156,FS84707,Sport - All Perils
+4157,WU62992,Sedan - Collision
+4158,HT50748,Utility - Liability
+4159,OE88763,Sedan - Liability
+4160,GC42314,Sedan - Collision
+4161,JP30654, Sedan - All Perils
+4162,NF31087,Sport - All Perils
+4163,UR73910, Sedan - All Perils
+4164,ZH35315,Sport - Liability
+4165,LJ88616,Utility - All Perils
+4166,XO67536,Sport - Collision
+4167,JH94846,Utility - Collision
+4168,OX87524,Sport - All Perils
+4169,FJ57446,Sport - Collision
+4170,RW66792, Sedan - All Perils
+4171,UM44109,Utility - Collision
+4172,HN54181,Utility - Collision
+4173,DC37886,Sedan - Liability
+4174,ZW32080,Utility - All Perils
+4175,CR40615,Sport - Collision
+4176,QA78691,Sport - All Perils
+4177,SI11249,Sedan - Liability
+4178,FC70869,Sport - Liability
+4179,DZ35379,Sedan - Collision
+4180,MG99229,Sport - Liability
+4181,XH20787,Utility - Liability
+4182,FF93355,Utility - Collision
+4183,KS12294,Sedan - Collision
+4184,XO42145, Sedan - All Perils
+4185,IC78105, Sedan - All Perils
+4186,SE15781,Utility - Liability
+4187,XR99310,Sport - Liability
+4188,EN60878,Utility - Liability
+4189,BW52697,Utility - Collision
+4190,LY14687,Utility - All Perils
+4191,RN97635,Sport - Collision
+4192,DQ19343, Sedan - All Perils
+4193,SD30853,Sport - Collision
+4194,PL44132,Sport - Collision
+4195,DB26077,Sport - Liability
+4196,HW19506,Sedan - Liability
+4197,LH80781,Sedan - Collision
+4198,XY66810,Utility - Collision
+4199,YP37291,Sport - Liability
+4200,KQ30179,Utility - Collision
+4201,LK73198, Sedan - All Perils
+4202,WT38706,Utility - Liability
+4203,RO89785,Sport - Collision
+4204,QA71190,Utility - Liability
+4205,VP84987,Utility - All Perils
+4206,MA37431,Sport - All Perils
+4207,ST96866,Utility - Collision
+4208,CN90378,Utility - Liability
+4209,VV81837,Sport - Liability
+4210,AW73065,Sport - All Perils
+4211,IN28584,Utility - All Perils
+4212,UF36353,Sedan - Collision
+4213,ME37051,Sedan - Collision
+4214,YQ98465,Sedan - Liability
+4215,UH45301, Sedan - All Perils
+4216,EZ71780,Sport - All Perils
+4217,IX37561,Utility - Liability
+4218,ZG18090,Sport - All Perils
+4219,FQ46354, Sedan - All Perils
+4220,NY24020,Utility - Liability
+4221,ET89070,Sport - Collision
+4222,OY32548,Sedan - Collision
+4223,ZN86559,Utility - All Perils
+4224,EW13798,Sport - All Perils
+4225,XK99408, Sedan - All Perils
+4226,BX24569,Sport - All Perils
+4227,GM63998,Sport - Liability
+4228,EP80820, Sedan - All Perils
+4229,NK91656,Sport - All Perils
+4230,LA60344,Sport - Liability
+4231,MM67983,Sport - Liability
+4232,IF80474,Sedan - Liability
+4233,DQ98402,Utility - Collision
+4234,ZT18953,Sport - All Perils
+4235,SD94067,Utility - Liability
+4236,PS69748,Sport - Collision
+4237,HF65914,Sedan - Liability
+4238,ZP80713,Sport - Liability
+4239,EW35231,Sport - Collision
+4240,ZR11692, Sedan - All Perils
+4241,VY75186,Sport - Liability
+4242,BS13062,Utility - All Perils
+4243,UL96474,Sport - Collision
+4244,HL40930,Utility - Liability
+4245,SU44811, Sedan - All Perils
+4246,PZ47901,Sport - Liability
+4247,VZ59523,Utility - Collision
+4248,AW84946, Sedan - All Perils
+4249,LA72316,Sport - All Perils
+4250,QI63521,Utility - Liability
+4251,RC44077,Sedan - Liability
+4252,XX29952,Sedan - Collision
+4253,ID89933,Sport - All Perils
+4254,FI61059,Sport - Collision
+4255,LH26563, Sedan - All Perils
+4256,IQ30108,Sport - Collision
+4257,HN38084,Sport - Liability
+4258,EK87467,Utility - All Perils
+4259,EZ11341,Sedan - Liability
+4260,DO70918,Sedan - Liability
+4261,JI80257,Utility - Collision
+4262,MF83904,Sedan - Collision
+4263,PW88443,Sedan - Collision
+4264,SM42781,Sedan - Collision
+4265,PW98890,Sedan - Liability
+4266,MN79082,Sport - Collision
+4267,GR31499,Utility - All Perils
+4268,RR39751,Sedan - Collision
+4269,CQ72935,Utility - Liability
+4270,HZ68892,Utility - All Perils
+4271,OS96036,Utility - All Perils
+4272,YE88490,Sport - Liability
+4273,VZ23007,Sport - All Perils
+4274,CN24514,Sport - All Perils
+4275,BE78308,Utility - Liability
+4276,MB90871,Sport - Collision
+4277,TV23956,Utility - Liability
+4278,XH71839,Utility - Collision
+4279,JA26024,Sport - Collision
+4280,VA30351,Utility - All Perils
+4281,ZX93551,Utility - Collision
+4282,UV99893,Sport - Collision
+4283,CJ64468,Utility - All Perils
+4284,YN61339,Sport - Liability
+4285,NE16405,Utility - Collision
+4286,CZ96653,Sedan - Collision
+4287,FD20455,Utility - Collision
+4288,DK20428, Sedan - All Perils
+4289,HI71466,Sport - All Perils
+4290,AV76907,Sport - Liability
+4291,AS17174,Sedan - Collision
+4292,UH89141,Sedan - Liability
+4293,QW87316,Sport - Liability
+4294,UO86707,Sport - All Perils
+4295,CJ31839,Utility - Collision
+4296,NK40551, Sedan - All Perils
+4297,NB79936,Sport - All Perils
+4298,ED91989,Utility - All Perils
+4299,YI95574,Utility - Liability
+4300,VL58402,Sport - All Perils
+4301,QX24179,Sedan - Liability
+4302,VD51297,Sport - Liability
+4303,MN32305,Sedan - Collision
+4304,LM79063,Sport - All Perils
+4305,UD27331,Sedan - Liability
+4306,TW11712,Sport - All Perils
+4307,BE31382,Utility - All Perils
+4308,TF82172,Utility - Liability
+4309,TN79487,Utility - Collision
+4310,XZ45224,Utility - All Perils
+4311,BU27331,Sport - Collision
+4312,RE46783,Sport - Collision
+4313,SO57563,Sport - All Perils
+4314,YK32760,Sport - All Perils
+4315,KB20508,Utility - All Perils
+4316,JG41490,Sport - Collision
+4317,SE78641,Sport - Liability
+4318,GE58317,Sedan - Collision
+4319,SE30128,Utility - Liability
+4320,LG19551,Utility - Liability
+4321,SL71998,Sport - Collision
+4322,QB26845,Utility - Collision
+4323,GI25850,Utility - All Perils
+4324,CW63533,Sedan - Collision
+4325,MF49636,Sport - All Perils
+4326,DP13082,Sport - Liability
+4327,OJ84485,Utility - Collision
+4328,KJ87930,Sport - Liability
+4329,YY58769,Sport - Liability
+4330,OC50447,Sedan - Collision
+4331,FX65946,Sedan - Collision
+4332,DL61016,Utility - All Perils
+4333,FS97588,Utility - Liability
+4334,FU65756,Sedan - Liability
+4335,FB84409,Sport - Liability
+4336,HA40978,Utility - Collision
+4337,OE19653,Sport - All Perils
+4338,GA46608,Utility - Liability
+4339,NR49426,Utility - Liability
+4340,ZO20633,Sedan - Liability
+4341,WP51328,Sedan - Collision
+4342,SC30127,Sedan - Collision
+4343,IK77998,Sport - Liability
+4344,QW60568,Utility - Collision
+4345,VR14881,Utility - Collision
+4346,VG31922,Utility - Collision
+4347,IG89777,Utility - All Perils
+4348,MX80067,Sport - All Perils
+4349,LF41085,Sedan - Collision
+4350,LO39834,Sedan - Collision
+4351,MI81870,Utility - Liability
+4352,BK47926,Sedan - Collision
+4353,LL14393,Utility - All Perils
+4354,DP26592,Sport - Collision
+4355,OD63728,Sedan - Collision
+4356,SJ71233,Sport - All Perils
+4357,HU75748,Sport - Liability
+4358,DM59806,Sedan - Liability
+4359,BP23267,Sedan - Liability
+4360,DN92191,Utility - Collision
+4361,MS45259,Utility - Liability
+4362,MF49636, Sedan - All Perils
+4363,FG91922,Sedan - Liability
+4364,CT74097,Sport - All Perils
+4365,ZC32761,Utility - Liability
+4366,ZT63368,Sport - Collision
+4367,ST59524,Utility - Collision
+4368,XB43625,Sport - Liability
+4369,MM83308,Utility - Collision
+4370,RZ50353,Sport - All Perils
+4371,VC77127,Utility - All Perils
+4372,AU94279,Utility - Collision
+4373,RJ90816,Utility - Collision
+4374,BA87216,Utility - All Perils
+4375,LR49580,Utility - All Perils
+4376,GY99495,Utility - Liability
+4377,HH80006,Sedan - Liability
+4378,JK13254,Sport - Liability
+4379,PG14554,Utility - All Perils
+4380,ZO43755,Sport - Collision
+4381,WB38524, Sedan - All Perils
+4382,IP68868,Utility - All Perils
+4383,NT36519,Sedan - Liability
+4384,PY98628,Sedan - Liability
+4385,DR32525,Utility - Collision
+4386,VA77345,Sedan - Collision
+4387,CF50291,Sport - Collision
+4388,BE69929,Sedan - Liability
+4389,RA34556,Sport - Liability
+4390,FG63647,Utility - Liability
+4391,XR99310,Sedan - Liability
+4392,HS14476,Sedan - Collision
+4393,SJ30138,Utility - Collision
+4394,HB12866,Sport - Collision
+4395,EQ59908,Sport - Collision
+4396,QJ31447,Sport - Liability
+4397,YU72540,Sport - All Perils
+4398,QA41558,Utility - Liability
+4399,GX29162,Sedan - Liability
+4400,YC43143,Utility - All Perils
+4401,AU94279,Sport - Liability
+4402,BZ92811,Utility - Collision
+4403,ZN86559,Utility - All Perils
+4404,CV86445,Sport - Collision
+4405,JU64043,Sedan - Liability
+4406,SO18542,Utility - Liability
+4407,OU62604,Sport - Collision
+4408,XO75323,Utility - All Perils
+4409,HW61722,Utility - All Perils
+4410,ZY95807,Utility - Liability
+4411,PD19551,Sport - All Perils
+4412,WT43034,Utility - Liability
+4413,CI24326,Sport - Collision
+4414,PP39078,Utility - All Perils
+4415,IG80910,Sport - Liability
+4416,CH97666,Sport - Collision
+4417,QF59448,Utility - Collision
+4418,VM58985,Sedan - Collision
+4419,WE60408,Sport - Collision
+4420,OI68331,Sport - Collision
+4421,QF55724,Sedan - Liability
+4422,KW52227, Sedan - All Perils
+4423,EM29359,Sedan - Collision
+4424,YS49138,Utility - Liability
+4425,QW67581,Utility - Collision
+4426,QZ83992,Sport - Collision
+4427,KL43280,Sport - Collision
+4428,CK19789,Utility - Collision
+4429,LZ35469,Sport - Liability
+4430,PM63319,Sport - Collision
+4431,HG64216,Sport - All Perils
+4432,CZ56843,Sedan - Collision
+4433,PA84292,Sedan - Collision
+4434,LL92275,Utility - Collision
+4435,ZV17267,Sedan - Collision
+4436,QJ31447,Sport - Liability
+4437,BE75190, Sedan - All Perils
+4438,QF91596,Utility - Liability
+4439,XH20787,Utility - Liability
+4440,KF80571,Sedan - Collision
+4441,TV97612,Sport - All Perils
+4442,PE63707,Utility - Liability
+4443,SD38003,Utility - Collision
+4444,SY46862,Sport - Liability
+4445,NF25863,Sedan - Liability
+4446,QE79527,Sport - Liability
+4447,EP46328,Sedan - Collision
+4448,BC47264,Sport - Collision
+4449,GT14584,Utility - Liability
+4450,OW33876,Sport - Liability
+4451,PT34656,Sedan - Liability
+4452,ZZ22193,Sport - All Perils
+4453,SJ74501,Sedan - Collision
+4454,DR38127,Sedan - Liability
+4455,CC94413,Sedan - Collision
+4456,HH61461,Utility - Collision
+4457,KZ26788,Sedan - Liability
+4458,MC62068,Sport - All Perils
+4459,MN95006,Utility - Liability
+4460,JL93248,Utility - Collision
+4461,AD12500,Sedan - Collision
+4462,QX42433, Sedan - All Perils
+4463,BX20846,Sport - All Perils
+4464,BH28530,Sport - All Perils
+4465,MP53132,Utility - Liability
+4466,RT64920,Utility - All Perils
+4467,KL27677,Sedan - Collision
+4468,KL27226,Sedan - Collision
+4469,PI96349,Sport - Collision
+4470,YA52900,Sedan - Liability
+4471,PK28821,Sedan - Collision
+4472,CT83377,Utility - All Perils
+4473,TW43626, Sedan - All Perils
+4474,UP90711, Sedan - All Perils
+4475,AT93647,Sedan - Liability
+4476,JN72184,Sedan - Liability
+4477,BI33231,Sport - All Perils
+4478,XF99212,Sport - Collision
+4479,II83628,Utility - All Perils
+4480,GS92994,Utility - Liability
+4481,QW31435,Sport - Collision
+4482,JP64518,Sedan - Liability
+4483,UE52886,Sedan - Collision
+4484,VE47660,Sport - Liability
+4485,OB66874,Sport - Liability
+4486,JZ54775,Utility - All Perils
+4487,MX50302,Sedan - Collision
+4488,LY73893,Sport - Collision
+4489,DH18269,Utility - Liability
+4490,XC68458,Utility - All Perils
+4491,GO14008,Sport - All Perils
+4492,GM98732, Sedan - All Perils
+4493,KI91500,Sport - All Perils
+4494,VW46878,Utility - Collision
+4495,WL46620,Sport - All Perils
+4496,XK87182,Utility - All Perils
+4497,CE78778, Sedan - All Perils
+4498,AT89553,Sedan - Collision
+4499,RB16360,Utility - Collision
+4500,VF96109,Sport - All Perils
+4501,KP96020,Sport - All Perils
+4502,GV59387,Sedan - Collision
+4503,OQ69520,Utility - All Perils
+4504,HV16877,Sedan - Collision
+4505,CH97539, Sedan - All Perils
+4506,CP67787,Utility - All Perils
+4507,VK94891, Sedan - All Perils
+4508,IA52178,Utility - All Perils
+4509,DR32525, Sedan - All Perils
+4510,DX70966,Sport - All Perils
+4511,AS18084,Sedan - Collision
+4512,LE26899,Sport - Liability
+4513,EZ41764,Utility - Liability
+4514,YC33550,Sport - Liability
+4515,PA38372,Utility - Liability
+4516,RM31359,Utility - Liability
+4517,AI85843,Sedan - Liability
+4518,DO83789,Utility - Collision
+4519,UH41125,Utility - All Perils
+4520,ZZ41158,Sport - All Perils
+4521,ER51965,Utility - Liability
+4522,RY38931,Sedan - Liability
+4523,DP92488,Sedan - Liability
+4524,KI58952,Sedan - Collision
+4525,GQ15613,Utility - All Perils
+4526,NE51159,Sport - Liability
+4527,ZQ94561,Sedan - Collision
+4528,WT22392,Utility - Collision
+4529,SB61617,Utility - Liability
+4530,KJ29915,Utility - Collision
+4531,WJ55369,Sedan - Collision
+4532,YF87007,Sport - Liability
+4533,CB64729,Sedan - Collision
+4534,GI36262,Sport - Collision
+4535,KR82385, Sedan - All Perils
+4536,HQ15974,Sport - Liability
+4537,SL22297,Sport - Liability
+4538,LX95134,Sedan - Liability
+4539,SZ35936,Utility - Liability
+4540,DC91024, Sedan - All Perils
+4541,ZC32510,Utility - Collision
+4542,NW23827, Sedan - All Perils
+4543,HZ39407,Sport - Liability
+4544,RQ99149,Utility - Liability
+4545,LS62045,Utility - All Perils
+4546,ZK21724,Sedan - Collision
+4547,NT15165,Utility - Collision
+4548,RY26286,Sedan - Collision
+4549,BU72633,Sport - All Perils
+4550,BR24590,Sport - Collision
+4551,IV84135,Sport - All Perils
+4552,FP78531,Utility - Liability
+4553,IL12516,Sport - All Perils
+4554,MN61620,Sedan - Collision
+4555,OA46321, Sedan - All Perils
+4556,KR25511, Sedan - All Perils
+4557,TK40018,Sport - Collision
+4558,HF82396,Utility - Collision
+4559,JC96695,Sedan - Liability
+4560,AP32891,Utility - Collision
+4561,OF77789,Sedan - Liability
+4562,JK68578,Utility - Liability
+4563,GE47180,Sedan - Liability
+4564,CM48429,Utility - All Perils
+4565,OY38576,Utility - Liability
+4566,ZT26848, Sedan - All Perils
+4567,TJ11671,Utility - Liability
+4568,CO19402,Sedan - Liability
+4569,MN32305,Sport - Collision
+4570,CF95802,Sport - Collision
+4571,QC89139,Sport - Liability
+4572,EF84269,Sedan - Collision
+4573,VV68726,Sedan - Collision
+4574,KQ49890,Sport - All Perils
+4575,AT62618,Utility - Liability
+4576,RN97635,Utility - Liability
+4577,JO63462,Sport - All Perils
+4578,ZW51071,Sport - All Perils
+4579,TP61305,Utility - Liability
+4580,KW56110,Utility - Collision
+4581,NT25078, Sedan - All Perils
+4582,LO68739,Sport - Liability
+4583,MC62068,Utility - Liability
+4584,WZ40465,Utility - Liability
+4585,EG12987,Sedan - Liability
+4586,VY27019,Sedan - Liability
+4587,RF73329,Sport - All Perils
+4588,LO48126,Sport - Liability
+4589,DX70966,Utility - All Perils
+4590,WH81461,Sedan - Liability
+4591,LB97434,Sport - All Perils
+4592,NJ54277,Utility - Collision
+4593,KZ26788, Sedan - All Perils
+4594,WV53830,Sedan - Collision
+4595,QF76244,Sedan - Liability
+4596,ZD65365,Sport - All Perils
+4597,JZ23377, Sedan - All Perils
+4598,CD86811,Sedan - Liability
+4599,OC88207,Sedan - Collision
+4600,TM23514,Sedan - Liability
+4601,TH96263,Utility - Liability
+4602,VP13613,Utility - All Perils
+4603,MR77933,Utility - All Perils
+4604,VJ51327,Utility - All Perils
+4605,LF36128,Utility - Liability
+4606,XR52852,Utility - Liability
+4607,FI17798,Sport - Liability
+4608,QV66305,Sport - Liability
+4609,SM88270,Sedan - Collision
+4610,JI93499, Sedan - All Perils
+4611,YD45065,Utility - All Perils
+4612,AN97123,Sport - Liability
+4613,UZ60774,Sport - All Perils
+4614,YU90693,Sport - Collision
+4615,WY43888,Sport - Collision
+4616,FS19862,Sport - Liability
+4617,PD19551,Sport - Collision
+4618,NX32730,Sedan - Collision
+4619,XR84971,Sedan - Collision
+4620,PI96349,Utility - Collision
+4621,PS69748,Utility - All Perils
+4622,WU63862,Utility - All Perils
+4623,EE57466,Sport - Liability
+4624,GB75821,Utility - Collision
+4625,LZ34046,Sport - Collision
+4626,GG61186,Utility - Liability
+4627,BQ28323,Sport - Liability
+4628,ZC97968,Sedan - Collision
+4629,IN17648,Sport - All Perils
+4630,QJ22057,Utility - All Perils
+4631,NB10500, Sedan - All Perils
+4632,NB54665,Sport - All Perils
+4633,AJ32539,Utility - Liability
+4634,OH23652,Utility - Collision
+4635,FL55134,Sedan - Collision
+4636,PU25891,Sport - Liability
+4637,NS14955,Sport - Collision
+4638,TM14491,Sedan - Collision
+4639,TG95261,Utility - Liability
+4640,UK76814,Utility - Collision
+4641,SE15781,Sport - All Perils
+4642,VJ83206,Sport - Collision
+4643,QO59138,Sedan - Liability
+4644,DA79098,Utility - All Perils
+4645,VF36700,Utility - Collision
+4646,AA69265,Sedan - Collision
+4647,EB61889,Utility - Collision
+4648,KN15789,Sedan - Collision
+4649,VY75186,Sport - Liability
+4650,GB45753,Sport - Liability
+4651,TD97297,Sport - Collision
+4652,HR64765,Sport - Liability
+4653,WO94087,Sport - Liability
+4654,TV53243,Sport - Collision
+4655,CE71123, Sedan - All Perils
+4656,CN16311,Utility - All Perils
+4657,HU76577,Sport - All Perils
+4658,VI35467,Sport - All Perils
+4659,LL14393,Utility - Liability
+4660,KD21661, Sedan - All Perils
+4661,CO44659,Sport - Collision
+4662,LQ45358,Sport - Collision
+4663,HF15113,Sedan - Collision
+4664,JC45487, Sedan - All Perils
+4665,LU79865,Sport - Collision
+4666,MU64306,Sedan - Collision
+4667,AI14767,Utility - All Perils
+4668,UW90223,Sport - All Perils
+4669,PC80039,Sedan - Liability
+4670,FR46645,Sedan - Liability
+4671,HI16472,Utility - Liability
+4672,AB73565,Utility - All Perils
+4673,QY37300,Sport - Liability
+4674,RD28560,Sport - All Perils
+4675,RE12758,Utility - Liability
+4676,YC54142,Utility - Liability
+4677,US78266,Sport - Collision
+4678,UI36597,Sedan - Liability
+4679,GD17919,Utility - All Perils
+4680,AK11719,Sedan - Liability
+4681,DL20327,Sport - Liability
+4682,QF74147,Utility - Liability
+4683,VA35421,Utility - Liability
+4684,IQ15028,Sedan - Collision
+4685,FY13480,Utility - Liability
+4686,EC44438,Sedan - Collision
+4687,WL92199,Sport - All Perils
+4688,KW99972,Sedan - Liability
+4689,RS60249,Utility - Liability
+4690,UN52560,Utility - Liability
+4691,AK17025,Sport - Collision
+4692,OP47206,Utility - Liability
+4693,VM69145,Sedan - Liability
+4694,TW43626,Utility - All Perils
+4695,EG10175,Sport - All Perils
+4696,EW68125,Sedan - Liability
+4697,PD79570,Utility - Liability
+4698,PD69398, Sedan - All Perils
+4699,TY20016,Utility - All Perils
+4700,LB83807,Sport - Collision
+4701,QW67581,Sedan - Collision
+4702,CK24264,Sport - Liability
+4703,CP87192, Sedan - All Perils
+4704,MM49431,Sport - All Perils
+4705,ZE40223,Utility - Collision
+4706,NQ42020, Sedan - All Perils
+4707,TO34442,Sport - Collision
+4708,YC87263,Sport - Liability
+4709,PD32641,Utility - Collision
+4710,JJ97525,Sedan - Collision
+4711,TD90177,Sport - Collision
+4712,KD16729,Sedan - Liability
+4713,US82470,Utility - Collision
+4714,TG70775,Utility - Liability
+4715,VV82891,Sport - All Perils
+4716,CH97539,Sport - Liability
+4717,QG15661,Sport - All Perils
+4718,LC58452,Utility - Liability
+4719,NM77735,Utility - All Perils
+4720,WC28543,Sedan - Liability
+4721,HQ32112, Sedan - All Perils
+4722,NK73719,Sedan - Liability
+4723,SR74929,Sedan - Collision
+4724,PP48389, Sedan - All Perils
+4725,NB54665,Sport - Liability
+4726,OC50447,Sedan - Collision
+4727,TA77711,Sport - All Perils
+4728,UF46533,Sport - All Perils
+4729,GZ64473,Sport - All Perils
+4730,OO11531,Sedan - Liability
+4731,KI58952,Sedan - Collision
+4732,OH55411,Sport - All Perils
+4733,QT25383,Sport - Collision
+4734,NN54114,Sport - Liability
+4735,QV24282,Sedan - Liability
+4736,HT31871,Sedan - Liability
+4737,QD97878, Sedan - All Perils
+4738,XB17553,Sedan - Liability
+4739,NI66988,Utility - Collision
+4740,JA47688,Sedan - Collision
+4741,IC47914,Sport - Collision
+4742,QJ89807,Utility - Collision
+4743,GM54723,Utility - Liability
+4744,MC73302,Utility - Collision
+4745,UQ30615,Sport - Liability
+4746,BS29584,Utility - Liability
+4747,RA29518,Sport - Collision
+4748,QD46343,Sedan - Liability
+4749,AZ50087,Sedan - Liability
+4750,JZ76788, Sedan - All Perils
+4751,JB76199,Utility - Liability
+4752,OF93412,Sedan - Liability
+4753,LV14566,Utility - All Perils
+4754,XX88364,Sport - Collision
+4755,ZJ65064,Utility - Collision
+4756,UW98698, Sedan - All Perils
+4757,XH20787,Utility - All Perils
+4758,LE12086, Sedan - All Perils
+4759,BC64697,Sedan - Collision
+4760,FS67856,Utility - Liability
+4761,LM84166,Utility - Liability
+4762,RE46783,Sedan - Collision
+4763,LE12782,Sedan - Liability
+4764,BN87372,Utility - Liability
+4765,KR43119, Sedan - All Perils
+4766,DQ31994,Utility - Liability
+4767,WB68229, Sedan - All Perils
+4768,IL32727,Utility - Liability
+4769,IE36279,Utility - Liability
+4770,SM87252,Sport - All Perils
+4771,DF66914,Utility - Liability
+4772,DJ93289,Utility - Liability
+4773,JC80093,Utility - Collision
+4774,YG87460,Utility - Liability
+4775,MR56401,Sedan - Collision
+4776,LC47479,Utility - All Perils
+4777,TH69908,Sedan - Liability
+4778,RH70194,Sport - Liability
+4779,FU43761,Sport - Liability
+4780,QI99143,Utility - Liability
+4781,ZX64745,Utility - Liability
+4782,YB66933,Sedan - Collision
+4783,SY36127,Sedan - Collision
+4784,KX55910,Sedan - Collision
+4785,ZY60545,Sedan - Liability
+4786,VZ61940,Sport - Liability
+4787,EZ78112, Sedan - All Perils
+4788,FY30870,Utility - Collision
+4789,QM61543,Sedan - Collision
+4790,HP46467,Sedan - Liability
+4791,JD10245,Utility - Liability
+4792,RZ98310,Utility - Liability
+4793,WG26617,Sport - Collision
+4794,IR62720,Utility - Liability
+4795,AR17553,Utility - Liability
+4796,YU86594,Utility - Collision
+4797,AM94127,Sport - Collision
+4798,ZQ37164,Sedan - Liability
+4799,UI36597,Sport - All Perils
+4800,JD75068,Sport - Liability
+4801,SJ86522,Utility - Collision
+4802,MS45259,Utility - Liability
+4803,PX72779,Sedan - Collision
+4804,UN63889, Sedan - All Perils
+4805,LQ16286, Sedan - All Perils
+4806,DL14445,Utility - Collision
+4807,TH86528,Utility - All Perils
+4808,NL17964,Sedan - Collision
+4809,DZ64604,Utility - Collision
+4810,JD11661,Sedan - Liability
+4811,MD86050,Sport - All Perils
+4812,CV29889,Utility - Liability
+4813,HC20975,Utility - Collision
+4814,IX10511,Sport - Liability
+4815,PA38372,Utility - All Perils
+4816,DK19711,Utility - All Perils
+4817,IN17648,Sport - Collision
+4818,UF28233,Utility - Liability
+4819,YW85018,Sport - Collision
+4820,IH54239,Sedan - Collision
+4821,SM73248,Sport - All Perils
+4822,SN36487,Sport - All Perils
+4823,TQ82322,Utility - Liability
+4824,OO92815,Sport - Liability
+4825,WA97671,Sport - All Perils
+4826,SK93727,Sport - All Perils
+4827,WK46492,Utility - All Perils
+4828,AM94127, Sedan - All Perils
+4829,UL96474,Utility - Collision
+4830,BV55733,Sport - Liability
+4831,Y167826,Utility - Liability
+4832,TP20456,Sedan - Collision
+4833,WD38315,Sedan - Liability
+4834,QV89018,Utility - Liability
+4835,QF74806,Sport - Liability
+4836,TS11219,Sport - Liability
+4837,OB69153,Sport - Liability
+4838,BZ33435,Utility - Collision
+4839,AV25133,Utility - Collision
+4840,GT18396,Sport - Liability
+4841,NY90858,Utility - Collision
+4842,HW85007,Sport - Liability
+4843,NC78961,Sedan - Collision
+4844,YV67971,Sport - Liability
+4845,LZ34164, Sedan - All Perils
+4846,SE15781,Utility - All Perils
+4847,JL71713, Sedan - All Perils
+4848,MS20849,Sport - Collision
+4849,EJ67407,Sedan - Liability
+4850,KB15252,Utility - Collision
+4851,ZK90062,Sport - Collision
+4852,AA34092,Sedan - Liability
+4853,ZB23962,Utility - All Perils
+4854,EI17022,Sport - Liability
+4855,WM87004,Sport - Collision
+4856,FS84707, Sedan - All Perils
+4857,WU62992, Sedan - All Perils
+4858,HT50748,Sport - All Perils
+4859,OE88763,Sport - Collision
+4860,GC42314,Sedan - Collision
+4861,JP30654,Utility - All Perils
+4862,NF31087,Utility - Collision
+4863,UR73910,Sport - Collision
+4864,ZH35315,Sport - Liability
+4865,LJ88616,Sport - Collision
+4866,XO67536,Utility - Liability
+4867,JH94846,Sport - All Perils
+4868,OX87524,Utility - Collision
+4869,FJ57446,Utility - Collision
+4870,RW66792,Utility - Collision
+4871,UM44109,Utility - All Perils
+4872,HN54181,Utility - All Perils
+4873,DC37886, Sedan - All Perils
+4874,ZW32080,Sport - Collision
+4875,CR40615,Sedan - Collision
+4876,QA78691,Utility - Collision
+4877,SI11249,Sport - Collision
+4878,FC70869,Sport - Collision
+4879,DZ35379,Sedan - Liability
+4880,MG99229,Utility - All Perils
+4881,XH20787,Sport - Collision
+4882,FF93355,Sedan - Liability
+4883,KS12294,Utility - All Perils
+4884,XO42145,Sport - All Perils
+4885,IC78105, Sedan - All Perils
+4886,SE15781,Sedan - Collision
+4887,XR99310, Sedan - All Perils
+4888,EN60878,Utility - Liability
+4889,BW52697,Sport - All Perils
+4890,LY14687,Sport - Collision
+4891,RN97635,Utility - Collision
+4892,DQ19343,Utility - All Perils
+4893,SD30853,Sport - Collision
+4894,PL44132,Utility - Liability
+4895,DB26077,Sport - Collision
+4896,HW19506,Sport - Liability
+4897,LH80781, Sedan - All Perils
+4898,XY66810,Sport - Collision
+4899,YP37291,Sedan - Collision
+4900,KQ30179,Utility - All Perils
+4901,LK73198,Utility - Collision
+4902,WT38706,Sedan - Collision
+4903,RO89785,Sport - Collision
+4904,QA71190,Sport - Liability
+4905,VP84987,Utility - All Perils
+4906,MA37431,Utility - Collision
+4907,ST96866,Sport - All Perils
+4908,CN90378,Sport - All Perils
+4909,VV81837,Utility - Collision
+4910,AW73065, Sedan - All Perils
+4911,IN28584, Sedan - All Perils
+4912,UF36353,Sport - Liability
+4913,ME37051,Sport - All Perils
+4914,YQ98465,Utility - Collision
+4915,UH45301,Sport - Collision
+4916,EZ71780,Utility - All Perils
+4917,IX37561,Sport - All Perils
+4918,ZG18090,Sport - Liability
+4919,FQ46354,Utility - Liability
+4920,NY24020,Sedan - Collision
+4921,ET89070,Sport - Collision
+4922,OY32548,Sport - All Perils
+4923,ZN86559,Utility - Liability
+4924,EW13798,Utility - All Perils
+4925,XK99408,Sport - Liability
+4926,BX24569,Utility - All Perils
+4927,GM63998,Utility - Collision
+4928,EP80820,Sport - Collision
+4929,NK91656,Sport - Collision
+4930,LA60344,Utility - Liability
+4931,MM67983, Sedan - All Perils
+4932,IF80474,Sedan - Collision
+4933,DQ98402,Utility - Collision
+4934,ZT18953,Sedan - Collision
+4935,SD94067, Sedan - All Perils
+4936,PS69748,Utility - Liability
+4937,HF65914,Sport - All Perils
+4938,ZP80713,Sport - All Perils
+4939,EW35231,Sport - Liability
+4940,ZR11692,Sport - Collision
+4941,VY75186, Sedan - All Perils
+4942,BS13062,Sport - Collision
+4943,UL96474,Sport - Collision
+4944,HL40930,Sport - All Perils
+4945,SU44811,Utility - Liability
+4946,PZ47901,Sedan - Liability
+4947,VZ59523,Utility - Liability
+4948,AW84946,Utility - All Perils
+4949,LA72316,Utility - Liability
+4950,QI63521,Sport - All Perils
+4951,RC44077,Sport - Collision
+4952,XX29952,Sedan - Liability
+4953,ID89933,Sport - All Perils
+4954,FI61059,Utility - Liability
+4955,LH26563,Sedan - Liability
+4956,IQ30108,Utility - Collision
+4957,HN38084,Sedan - Liability
+4958,EK87467,Utility - Collision
+4959,EZ11341,Sport - All Perils
+4960,DO70918,Sport - Collision
+4961,JI80257,Sedan - Collision
+4962,MF83904,Sedan - Collision
+4963,PW88443,Sport - Collision
+4964,SM42781,Utility - All Perils
+4965,PW98890,Utility - Liability
+4966,MN79082,Utility - Collision
+4967,GR31499,Utility - All Perils
+4968,RR39751,Sport - All Perils
+4969,CQ72935,Sport - Collision
+4970,HZ68892,Sport - All Perils
+4971,OS96036, Sedan - All Perils
+4972,YE88490,Utility - Collision
+4973,VZ23007,Utility - Collision
+4974,CN24514,Utility - Liability
+4975,BE78308,Utility - Collision
+4976,MB90871,Sport - All Perils
+4977,TV23956,Sedan - Liability
+4978,XH71839,Utility - All Perils
+4979,JA26024, Sedan - All Perils
+4980,VA30351,Sport - Collision
+4981,ZX93551,Sport - Liability
+4982,UV99893,Sport - All Perils
+4983,CJ64468,Sport - All Perils
+4984,YN61339,Sedan - Collision
+4985,NE16405, Sedan - All Perils
+4986,CZ96653, Sedan - All Perils
+4987,FD20455,Sedan - Collision
+4988,DK20428,Utility - Liability
+4989,HI71466,Utility - Collision
+4990,AV76907,Sedan - Collision
+4991,AS17174,Sport - Liability
+4992,UH89141,Utility - Liability
+4993,QW87316,Sport - Collision
+4994,UO86707,Sedan - Liability
+4995,CJ31839,Sport - All Perils
+4996,NK40551,Sport - Liability
+4997,NB79936,Sport - All Perils
+4998,ED91989,Utility - Liability
+4999,YI95574,Sport - All Perils
+5000,VL58402,Sedan - Liability
+5001,QX24179,Sport - All Perils
+5002,VD51297,Utility - All Perils
+5003,MN32305,Sedan - Liability
+5004,LM79063, Sedan - All Perils
+5005,UD27331,Sport - Collision
+5006,TW11712,Utility - Collision
+5007,BE31382,Sedan - Collision
+5008,TF82172,Utility - Collision
+5009,TN79487,Sport - Liability
+5010,XZ45224,Utility - Liability
+5011,BU27331, Sedan - All Perils
+5012,RE46783,Utility - Liability
+5013,SO57563, Sedan - All Perils
+5014,YK32760,Utility - Collision
+5015,KB20508,Utility - Collision
+5016,JG41490,Sport - Collision
+5017,SE78641,Utility - Liability
+5018,GE58317,Sport - Collision
+5019,SE30128,Sedan - Liability
+5020,LG19551,Sport - All Perils
+5021,SL71998,Sport - All Perils
+5022,QB26845,Sport - Collision
+5023,GI25850,Utility - All Perils
+5024,CW63533,Utility - All Perils
+5025,MF49636,Sedan - Liability
+5026,DP13082,Utility - Liability
+5027,OJ84485, Sedan - All Perils
+5028,KJ87930,Utility - All Perils
+5029,YY58769,Utility - All Perils
+5030,OC50447, Sedan - All Perils
+5031,FX65946,Utility - Collision
+5032,DL61016,Sport - Liability
+5033,FS97588, Sedan - All Perils
+5034,FU65756, Sedan - All Perils
+5035,FB84409,Utility - Liability
+5036,HA40978,Sport - All Perils
+5037,OE19653,Utility - Collision
+5038,GA46608,Utility - Liability
+5039,NR49426, Sedan - All Perils
+5040,ZO20633,Sedan - Collision
+5041,WP51328,Utility - Collision
+5042,SC30127,Sedan - Collision
+5043,IK77998,Sport - Collision
+5044,QW60568,Sport - Collision
+5045,VR14881, Sedan - All Perils
+5046,VG31922,Sedan - Liability
+5047,IG89777,Sport - All Perils
+5048,MX80067,Sport - Liability
+5049,LF41085,Sport - All Perils
+5050,LO39834,Sport - Collision
+5051,MI81870,Sedan - Collision
+5052,BK47926,Utility - Collision
+5053,LL14393,Sport - Collision
+5054,DP26592,Sedan - Collision
+5055,OD63728,Sedan - Liability
+5056,SJ71233,Sedan - Liability
+5057,HU75748,Sport - All Perils
+5058,DM59806,Utility - Liability
+5059,BP23267,Sedan - Collision
+5060,DN92191,Sport - Collision
+5061,MS45259,Utility - All Perils
+5062,MF49636,Sport - Collision
+5063,FG91922,Sport - Liability
+5064,CT74097,Utility - All Perils
+5065,ZC32761,Utility - Collision
+5066,ZT63368,Sport - Collision
+5067,ST59524, Sedan - All Perils
+5068,XB43625, Sedan - All Perils
+5069,MM83308,Sport - All Perils
+5070,RZ50353, Sedan - All Perils
+5071,VC77127,Sedan - Liability
+5072,AU94279,Sedan - Liability
+5073,RJ90816,Sedan - Liability
+5074,BA87216,Utility - All Perils
+5075,LR49580,Sport - All Perils
+5076,GY99495, Sedan - All Perils
+5077,HH80006,Utility - Liability
+5078,JK13254,Utility - All Perils
+5079,PG14554,Utility - Liability
+5080,ZO43755,Sport - Collision
+5081,WB38524,Utility - Collision
+5082,IP68868,Sport - All Perils
+5083,NT36519,Sport - Liability
+5084,PY98628,Sedan - Collision
+5085,DR32525,Utility - All Perils
+5086,VA77345,Sport - Liability
+5087,CF50291,Utility - Collision
+5088,BE69929,Utility - Collision
+5089,RA34556, Sedan - All Perils
+5090,FG63647,Utility - Liability
+5091,XR99310,Sport - Collision
+5092,HS14476,Utility - Collision
+5093,SJ30138,Utility - Liability
+5094,HB12866, Sedan - All Perils
+5095,EQ59908,Sport - All Perils
+5096,QJ31447,Sport - All Perils
+5097,YU72540,Sport - All Perils
+5098,QA41558,Sport - Liability
+5099,GX29162,Utility - All Perils
+5100,YC43143,Sedan - Collision
+5101,AU94279,Sport - Liability
+5102,BZ92811,Sedan - Liability
+5103,ZN86559,Utility - All Perils
+5104,CV86445,Sport - Liability
+5105,JU64043,Sedan - Liability
+5106,SO18542,Sport - Collision
+5107,OU62604,Sedan - Liability
+5108,XO75323,Utility - All Perils
+5109,HW61722, Sedan - All Perils
+5110,ZY95807,Sedan - Collision
+5111,PD19551,Utility - All Perils
+5112,WT43034,Sport - Collision
+5113,CI24326,Sport - Collision
+5114,PP39078,Utility - Liability
+5115,IG80910,Sport - All Perils
+5116,CH97666,Sport - Collision
+5117,QF59448,Sport - Liability
+5118,VM58985,Sedan - Liability
+5119,WE60408,Sedan - Liability
+5120,OI68331,Sport - All Perils
+5121,QF55724,Sport - Collision
+5122,KW52227,Sport - All Perils
+5123,EM29359,Sport - All Perils
+5124,YS49138,Sedan - Collision
+5125,QW67581,Utility - All Perils
+5126,QZ83992,Sport - Collision
+5127,KL43280,Sedan - Collision
+5128,CK19789,Sport - Liability
+5129,LZ35469, Sedan - All Perils
+5130,PM63319,Utility - Liability
+5131,HG64216,Utility - Collision
+5132,CZ56843,Utility - Collision
+5133,PA84292,Sedan - Liability
+5134,LL92275,Sport - All Perils
+5135,ZV17267,Sedan - Collision
+5136,QJ31447,Sport - Liability
+5137,BE75190,Sedan - Collision
+5138,QF91596,Sport - Collision
+5139,XH20787,Utility - All Perils
+5140,KF80571,Sport - All Perils
+5141,TV97612,Utility - Liability
+5142,PE63707,Utility - Collision
+5143,SD38003, Sedan - All Perils
+5144,SY46862, Sedan - All Perils
+5145,NF25863,Sport - Collision
+5146,QE79527,Utility - Collision
+5147,EP46328,Sport - Liability
+5148,BC47264,Utility - All Perils
+5149,GT14584,Sedan - Liability
+5150,OW33876,Sport - Collision
+5151,PT34656,Sport - All Perils
+5152,ZZ22193,Sport - All Perils
+5153,SJ74501,Sedan - Liability
+5154,DR38127,Sport - All Perils
+5155,CC94413,Sedan - Collision
+5156,HH61461,Utility - All Perils
+5157,KZ26788,Sport - All Perils
+5158,MC62068, Sedan - All Perils
+5159,MN95006,Utility - Collision
+5160,JL93248,Sport - Collision
+5161,AD12500,Sport - Collision
+5162,QX42433,Sport - Liability
+5163,BX20846,Utility - Liability
+5164,BH28530,Sedan - Collision
+5165,MP53132,Sport - All Perils
+5166,RT64920,Sedan - Collision
+5167,KL27677,Sport - Liability
+5168,KL27226, Sedan - All Perils
+5169,PI96349,Sedan - Collision
+5170,YA52900,Sedan - Liability
+5171,PK28821,Sport - Liability
+5172,CT83377,Sport - Collision
+5173,TW43626,Utility - Liability
+5174,UP90711,Sedan - Liability
+5175,AT93647,Sport - All Perils
+5176,JN72184,Sedan - Liability
+5177,BI33231,Sport - Collision
+5178,XF99212,Utility - Collision
+5179,II83628,Sedan - Collision
+5180,GS92994,Utility - Liability
+5181,QW31435,Utility - All Perils
+5182,JP64518,Sport - Liability
+5183,UE52886,Sedan - Collision
+5184,VE47660,Sport - Liability
+5185,OB66874,Sport - All Perils
+5186,JZ54775,Utility - All Perils
+5187,MX50302,Sedan - Collision
+5188,LY73893,Sedan - Collision
+5189,DH18269,Sport - Liability
+5190,XC68458,Sport - All Perils
+5191,GO14008,Utility - Liability
+5192,GM98732,Sedan - Collision
+5193,KI91500,Sport - Liability
+5194,VW46878,Sport - Collision
+5195,WL46620, Sedan - All Perils
+5196,XK87182,Utility - All Perils
+5197,CE78778, Sedan - All Perils
+5198,AT89553, Sedan - All Perils
+5199,RB16360,Utility - Liability
+5200,VF96109,Sport - All Perils
+5201,KP96020,Utility - All Perils
+5202,GV59387, Sedan - All Perils
+5203,OQ69520,Utility - All Perils
+5204,HV16877,Utility - All Perils
+5205,CH97539,Sport - All Perils
+5206,CP67787,Utility - Collision
+5207,VK94891,Utility - Collision
+5208,IA52178,Sport - Liability
+5209,DR32525,Sport - Collision
+5210,DX70966,Sedan - Collision
+5211,AS18084,Sport - All Perils
+5212,LE26899,Sport - All Perils
+5213,EZ41764,Sport - Collision
+5214,YC33550,Sport - Collision
+5215,PA38372,Sport - Liability
+5216,RM31359, Sedan - All Perils
+5217,AI85843,Sport - All Perils
+5218,DO83789,Sport - Collision
+5219,UH41125,Sport - Liability
+5220,ZZ41158,Utility - Liability
+5221,ER51965,Sport - Collision
+5222,RY38931,Utility - All Perils
+5223,DP92488, Sedan - All Perils
+5224,KI58952,Sport - All Perils
+5225,GQ15613, Sedan - All Perils
+5226,NE51159,Sport - Collision
+5227,ZQ94561,Sedan - Liability
+5228,WT22392,Utility - Collision
+5229,SB61617, Sedan - All Perils
+5230,KJ29915,Utility - All Perils
+5231,WJ55369,Utility - All Perils
+5232,YF87007,Utility - Liability
+5233,CB64729,Sedan - Liability
+5234,GI36262,Sport - Liability
+5235,KR82385,Sport - Collision
+5236,HQ15974,Sport - All Perils
+5237,SL22297,Sport - All Perils
+5238,LX95134,Sport - Collision
+5239,SZ35936,Utility - Liability
+5240,DC91024,Sport - Collision
+5241,ZC32510,Utility - Collision
+5242,NW23827,Sedan - Liability
+5243,HZ39407,Sport - Collision
+5244,RQ99149,Sedan - Liability
+5245,LS62045,Sedan - Liability
+5246,ZK21724,Sedan - Liability
+5247,NT15165, Sedan - All Perils
+5248,RY26286,Sport - Collision
+5249,BU72633,Sport - All Perils
+5250,BR24590,Utility - Collision
+5251,IV84135,Utility - Liability
+5252,FP78531,Utility - All Perils
+5253,IL12516,Utility - Liability
+5254,MN61620,Sedan - Liability
+5255,OA46321,Sport - Collision
+5256,KR25511,Utility - Collision
+5257,TK40018,Utility - All Perils
+5258,HF82396,Sedan - Collision
+5259,JC96695,Sport - All Perils
+5260,AP32891,Utility - Liability
+5261,OF77789,Sport - All Perils
+5262,JK68578,Sedan - Collision
+5263,GE47180, Sedan - All Perils
+5264,CM48429,Utility - Collision
+5265,OY38576,Utility - Liability
+5266,ZT26848,Sport - Collision
+5267,TJ11671,Sport - All Perils
+5268,CO19402,Utility - Collision
+5269,MN32305,Sport - All Perils
+5270,CF95802, Sedan - All Perils
+5271,QC89139, Sedan - All Perils
+5272,EF84269,Sport - Collision
+5273,VV68726,Utility - Collision
+5274,KQ49890,Utility - Liability
+5275,AT62618,Sedan - Liability
+5276,RN97635,Sport - Liability
+5277,JO63462,Utility - Collision
+5278,ZW51071,Sport - All Perils
+5279,TP61305,Utility - All Perils
+5280,KW56110,Sedan - Liability
+5281,NT25078,Utility - Collision
+5282,LO68739,Utility - Liability
+5283,MC62068,Utility - All Perils
+5284,WZ40465,Utility - Collision
+5285,EG12987,Utility - Liability
+5286,VY27019,Sport - All Perils
+5287,RF73329, Sedan - All Perils
+5288,LO48126, Sedan - All Perils
+5289,DX70966,Sedan - Liability
+5290,WH81461,Sedan - Collision
+5291,LB97434,Sport - Collision
+5292,NJ54277, Sedan - All Perils
+5293,KZ26788,Utility - Liability
+5294,WV53830,Sport - All Perils
+5295,QF76244,Sedan - Liability
+5296,ZD65365,Utility - All Perils
+5297,JZ23377,Sedan - Liability
+5298,CD86811,Utility - Collision
+5299,OC88207,Utility - Collision
+5300,TM23514,Sport - Collision
+5301,TH96263,Sport - Collision
+5302,VP13613,Sedan - Collision
+5303,MR77933, Sedan - All Perils
+5304,VJ51327,Sport - Liability
+5305,LF36128,Utility - All Perils
+5306,XR52852,Sedan - Liability
+5307,FI17798,Sport - Liability
+5308,QV66305,Sedan - Liability
+5309,SM88270,Sport - Collision
+5310,JI93499,Sedan - Collision
+5311,YD45065,Sedan - Collision
+5312,AN97123,Sedan - Liability
+5313,UZ60774, Sedan - All Perils
+5314,YU90693,Sedan - Liability
+5315,WY43888,Sedan - Collision
+5316,FS19862,Sport - Collision
+5317,PD19551,Utility - Liability
+5318,NX32730,Sport - All Perils
+5319,XR84971,Sport - Collision
+5320,PI96349,Sport - Collision
+5321,PS69748, Sedan - All Perils
+5322,WU63862, Sedan - All Perils
+5323,EE57466,Utility - Collision
+5324,GB75821,Utility - All Perils
+5325,LZ34046,Utility - All Perils
+5326,GG61186,Sport - Liability
+5327,BQ28323,Sport - Liability
+5328,ZC97968,Sedan - Liability
+5329,IN17648,Sport - Liability
+5330,QJ22057,Utility - Collision
+5331,NB10500,Utility - All Perils
+5332,NB54665,Utility - Collision
+5333,AJ32539,Sedan - Liability
+5334,OH23652,Sport - Liability
+5335,FL55134, Sedan - All Perils
+5336,PU25891,Sport - Liability
+5337,NS14955,Utility - All Perils
+5338,TM14491,Sport - Liability
+5339,TG95261,Sport - Collision
+5340,UK76814,Sedan - Liability
+5341,SE15781,Sport - Collision
+5342,VJ83206,Utility - Liability
+5343,QO59138,Sport - All Perils
+5344,DA79098,Sport - All Perils
+5345,VF36700, Sedan - All Perils
+5346,AA69265,Sedan - Liability
+5347,EB61889, Sedan - All Perils
+5348,KN15789,Utility - All Perils
+5349,VY75186,Sport - Liability
+5350,GB45753,Utility - Liability
+5351,TD97297,Sport - All Perils
+5352,HR64765,Sport - All Perils
+5353,WO94087,Utility - Collision
+5354,TV53243, Sedan - All Perils
+5355,CE71123,Sport - Collision
+5356,CN16311,Sport - Liability
+5357,HU76577,Utility - Liability
+5358,VI35467,Sport - Liability
+5359,LL14393,Sedan - Collision
+5360,KD21661,Sedan - Liability
+5361,CO44659,Sedan - Liability
+5362,LQ45358,Utility - Collision
+5363,HF15113,Sport - All Perils
+5364,JC45487,Sedan - Collision
+5365,LU79865,Sedan - Liability
+5366,MU64306,Sedan - Collision
+5367,AI14767,Utility - Liability
+5368,UW90223,Sedan - Liability
+5369,PC80039,Utility - Collision
+5370,FR46645,Utility - Collision
+5371,HI16472,Sedan - Liability
+5372,AB73565,Sport - Liability
+5373,QY37300,Sport - All Perils
+5374,RD28560,Sport - Collision
+5375,RE12758,Utility - Collision
+5376,YC54142,Sedan - Liability
+5377,US78266,Utility - Liability
+5378,UI36597,Sedan - Liability
+5379,GD17919,Sport - Liability
+5380,AK11719,Sport - Liability
+5381,DL20327,Sedan - Liability
+5382,QF74147,Sedan - Collision
+5383,VA35421,Utility - Collision
+5384,IQ15028,Utility - Liability
+5385,FY13480,Utility - Collision
+5386,EC44438,Sedan - Collision
+5387,WL92199,Utility - Collision
+5388,KW99972,Utility - Liability
+5389,RS60249,Utility - All Perils
+5390,UN52560,Sport - All Perils
+5391,AK17025, Sedan - All Perils
+5392,OP47206,Sport - Liability
+5393,VM69145,Sedan - Collision
+5394,TW43626,Utility - Liability
+5395,EG10175,Sedan - Collision
+5396,EW68125,Sport - All Perils
+5397,PD79570,Utility - All Perils
+5398,PD69398,Utility - Collision
+5399,TY20016,Sedan - Collision
+5400,LB83807,Utility - Collision
+5401,QW67581,Sedan - Liability
+5402,CK24264,Utility - Liability
+5403,CP87192,Sport - Liability
+5404,MM49431,Sport - Liability
+5405,ZE40223,Sport - Liability
+5406,NQ42020, Sedan - All Perils
+5407,TO34442,Sedan - Liability
+5408,YC87263,Utility - Liability
+5409,PD32641,Sport - Collision
+5410,JJ97525,Sport - Liability
+5411,TD90177,Sport - Liability
+5412,KD16729,Sedan - Collision
+5413,US82470,Sport - Liability
+5414,TG70775,Sport - All Perils
+5415,VV82891,Sport - Liability
+5416,CH97539,Sport - Collision
+5417,QG15661, Sedan - All Perils
+5418,LC58452,Sedan - Liability
+5419,NM77735,Utility - All Perils
+5420,WC28543,Utility - Liability
+5421,HQ32112,Utility - All Perils
+5422,NK73719,Sedan - Collision
+5423,SR74929,Sport - Collision
+5424,PP48389,Utility - All Perils
+5425,NB54665,Utility - Liability
+5426,OC50447,Sedan - Liability
+5427,TA77711, Sedan - All Perils
+5428,UF46533,Sport - All Perils
+5429,GZ64473,Sport - Collision
+5430,OO11531,Sport - Liability
+5431,KI58952,Sedan - Liability
+5432,OH55411,Sport - Collision
+5433,QT25383,Utility - All Perils
+5434,NN54114,Sport - Liability
+5435,QV24282,Sedan - Collision
+5436,HT31871,Utility - Liability
+5437,QD97878,Sedan - Liability
+5438,XB17553,Utility - Liability
+5439,NI66988,Sport - Liability
+5440,JA47688,Utility - All Perils
+5441,IC47914,Sedan - Liability
+5442,QJ89807,Utility - All Perils
+5443,GM54723,Utility - Collision
+5444,MC73302,Sedan - Liability
+5445,UQ30615,Utility - All Perils
+5446,BS29584, Sedan - All Perils
+5447,RA29518,Sedan - Collision
+5448,QD46343, Sedan - All Perils
+5449,AZ50087,Sport - Liability
+5450,JZ76788,Sport - All Perils
+5451,JB76199,Sedan - Collision
+5452,OF93412,Utility - All Perils
+5453,LV14566,Utility - All Perils
+5454,XX88364,Sport - All Perils
+5455,ZJ65064,Sport - Liability
+5456,UW98698,Utility - All Perils
+5457,XH20787, Sedan - All Perils
+5458,LE12086,Sport - Collision
+5459,BC64697,Utility - Collision
+5460,FS67856,Sport - Collision
+5461,LM84166,Utility - All Perils
+5462,RE46783,Sport - All Perils
+5463,LE12782, Sedan - All Perils
+5464,BN87372,Sport - Collision
+5465,KR43119,Utility - Collision
+5466,DQ31994,Utility - Collision
+5467,WB68229,Sport - Collision
+5468,IL32727,Utility - Collision
+5469,IE36279,Utility - Collision
+5470,SM87252,Sedan - Collision
+5471,DF66914,Sedan - Collision
+5472,DJ93289,Sedan - Liability
+5473,JC80093,Sport - Liability
+5474,YG87460,Utility - Liability
+5475,MR56401,Sport - Liability
+5476,LC47479,Sedan - Liability
+5477,TH69908,Sport - All Perils
+5478,RH70194,Sedan - Liability
+5479,FU43761,Sedan - Collision
+5480,QI99143,Sport - Liability
+5481,ZX64745,Sport - All Perils
+5482,YB66933,Sedan - Collision
+5483,SY36127, Sedan - All Perils
+5484,KX55910,Utility - Liability
+5485,ZY60545,Sport - Liability
+5486,VZ61940,Sport - All Perils
+5487,EZ78112,Utility - Liability
+5488,FY30870,Sedan - Collision
+5489,QM61543,Sport - Collision
+5490,HP46467,Utility - Collision
+5491,JD10245,Sport - Liability
+5492,RZ98310,Sport - All Perils
+5493,WG26617,Sedan - Collision
+5494,IR62720,Utility - All Perils
+5495,AR17553,Sport - Collision
+5496,YU86594,Sport - Collision
+5497,AM94127, Sedan - All Perils
+5498,ZQ37164,Sport - All Perils
+5499,UI36597,Utility - Collision
+5500,JD75068,Utility - Liability
+5501,SJ86522,Sedan - Liability
+5502,MS45259, Sedan - All Perils
+5503,PX72779,Utility - Collision
+5504,UN63889,Utility - Collision
+5505,LQ16286,Sedan - Collision
+5506,DL14445,Sport - All Perils
+5507,TH86528,Sport - Liability
+5508,NL17964,Utility - Liability
+5509,DZ64604, Sedan - All Perils
+5510,JD11661,Utility - Liability
+5511,MD86050,Sport - Collision
+5512,CV29889,Utility - Liability
+5513,HC20975,Utility - Liability
+5514,IX10511, Sedan - All Perils
+5515,PA38372,Sport - All Perils
+5516,DK19711,Utility - Collision
+5517,IN17648,Utility - Liability
+5518,UF28233,Utility - Liability
+5519,YW85018,Sedan - Liability
+5520,IH54239,Utility - Liability
+5521,SM73248,Sedan - Collision
+5522,SN36487, Sedan - All Perils
+5523,TQ82322,Sedan - Liability
+5524,OO92815,Sport - Collision
+5525,WA97671,Sport - Collision
+5526,SK93727,Utility - All Perils
+5527,WK46492, Sedan - All Perils
+5528,AM94127, Sedan - All Perils
+5529,UL96474,Sedan - Collision
+5530,BV55733,Sedan - Collision
+5531,Y167826,Utility - Liability
+5532,TP20456,Sport - Liability
+5533,WD38315,Sedan - Liability
+5534,QV89018,Sedan - Liability
+5535,QF74806,Sport - All Perils
+5536,TS11219,Sedan - Collision
+5537,OB69153,Sport - All Perils
+5538,BZ33435,Sedan - Liability
+5539,AV25133, Sedan - All Perils
+5540,GT18396,Utility - Liability
+5541,NY90858,Sport - Collision
+5542,HW85007,Utility - Collision
+5543,NC78961,Utility - Liability
+5544,YV67971, Sedan - All Perils
+5545,LZ34164,Sport - All Perils
+5546,SE15781, Sedan - All Perils
+5547,JL71713,Utility - Liability
+5548,MS20849,Sport - All Perils
+5549,EJ67407,Sport - Collision
+5550,KB15252,Utility - Liability

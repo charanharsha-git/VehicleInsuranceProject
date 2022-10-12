@@ -1,0 +1,63 @@
+Name,Phone,Email,State,Response,Coverage,Education,EmploymentStatus,Gender,Income,Marital Status,Sales Channel,Vehicle Class,Vehicle Size,Age,VehiclePrice,Clusters,Product Name,Age of Vehicle
+Test,Test,test@gmail.com,Washington,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,27,less than 20000,1,Sedan - Liability,New
+Test,9898989898,test@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,30000 to 39000,1,Sedan - Liability,New
+Test,9898989898,test@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,30000 to 39000,1,Sedan - Liability,New
+Test,9898989898,test@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,30000 to 39000,1,Sedan - Liability,New
+Test,9898989898,test@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,30000 to 39000,1,Sedan - Liability,New
+mac,897878988,test1@gmail.com,California,Yes,Extended,Master,Employed,Female,50000,Married,Agent,SUV,Large,36,60000 to 69000,2,Sport - All Perils,New
+Charan,07986272559,g@gmail.com,Washington,Yes,Basic,Bachelor,Employed,Male,66543,Married,Agent,SUV,Large,27,60000 to 69000,1,Utility - All Perils,2 Years
+Rehan,7676767676,a@gmail.com,Washington,Yes,Extended,Bachelor,Employed,Male,44555,Married,Agent,Two-Door Car,Small,28,less than 20000,2,Sedan - Liability,New
+Animesh,6767676767,animesh@gmail.com,Nevada,Yes,Basic,Bachelor,Employed,Male,55555,Married,Agent,Two-Door Car,Medium Size,26,30000 to 39000,1,Sport - All Perils,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years
+resubmission,07986272559,test@gmail.com,Washington,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,44,less than 20000,0,Sedan - Liability,New
+Harsha,8787878787,c@gmail.com,Nevada,Yes,Basic,Bachelor,Employed,Male,66543,Married,Web,Two-Door Car,Small,23,60000 to 69000,2,Sedan - Liability,2 Years
+Charan,7676767676,a@gmail.com,Washington,No,Premium,High School or Below,Medical Leave,Female,0,Single,Web,Sports Car,Large,33,more than 69000,0,Utility - All Perils,4 Years
+ABCD,454545454,a@gmail.com,Arizona,No,Extended,Master,Employed,Male,65555,Married,Agent,SUV,Medium Size,34,40000 to 59000,1,Sport - Collision,4 Years
+Sourav,6565656565,c@gmail.com,Washington,Yes,Basic,Bachelor,Employed,Male,67677,Married,Agent,Two-Door Car,Small,26,less than 20000,1,Sedan - Liability,New
+Shukla,57575757,sw@gmail.com,Arizona,Yes,Premium,Bachelor,Employed,Male,43445,Married,Agent,Two-Door Car,Small,27,less than 20000,1,Sedan - Liability,5 Years
+Shukla,57575757,sw@gmail.com,Arizona,Yes,Premium,Bachelor,Employed,Male,43445,Married,Agent,Two-Door Car,Small,27,less than 20000,1,Sedan - Liability,5 Years
+Shukla,57575757,sw@gmail.com,Arizona,Yes,Premium,Bachelor,Employed,Male,43445,Married,Agent,Two-Door Car,Small,27,less than 20000,1,Sedan - Liability,5 Years
+Shukla,57575757,sw@gmail.com,Arizona,Yes,Premium,Bachelor,Employed,Male,43445,Married,Agent,Two-Door Car,Small,27,less than 20000,1,Sedan - Liability,5 Years
+Charan Harsha D S V,07986272559,test@gmail.com,Washington,Yes,Basic,Bachelor,Employed,Male,456778,Married,Agent,Two-Door Car,Small,27,less than 20000,1,Sedan - Liability,more than 7
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New
+Jyothi,345676777,b@gmail.com,Washington,No,Premium,High School or Below,Employed,Female,56555,Married,Web,Luxury SUV,Large,33,60000 to 69000,1,None,5 Years
+LLL,345676777,b@gmail.com,Washington,No,Premium,High School or Below,Employed,Female,56555,Married,Web,Luxury SUV,Large,33,60000 to 69000,2,None,5 Years
+Random,0909098989,q@gmail.com,Nevada,No,Premium,Master,Medical Leave,Female,55444,Single,Web,SUV,Large,45,40000 to 59000,3,None,4 Years
+Random,0909098989,q@gmail.com,Nevada,No,Premium,Master,Medical Leave,Female,55444,Single,Web,SUV,Large,45,40000 to 59000,3,None,4 Years
+Random,0909098989,q@gmail.com,Nevada,No,Premium,Master,Medical Leave,Female,55444,Single,Web,SUV,Large,45,40000 to 59000,3,None,4 Years
+Random,0909098989,q@gmail.com,Nevada,No,Premium,Master,Medical Leave,Female,55444,Single,Web,SUV,Large,45,40000 to 59000,3,None,4 Years
+Sai Kiran,7795162451,sai@gmail.com,Oregon,No,Extended,Master,Employed,Male,60000,Single,Agent,Sports Car,Large,30,60000 to 69000,3,None,4 Years
+Saahil,565768877,SS@gmail.com,Arizona,No,Premium,Master,Employed,Male,69000,Married,Call center,SUV,Small,29,30000 to 39000,3,None,6 Years
+Saahil,565768877,SS@gmail.com,Arizona,No,Premium,Master,Employed,Male,69000,Married,Agent,SUV,Small,29,30000 to 39000,3,None,6 Years
+Animesh,9045409039,animesh@gmail.com,Nevada,No,Premium,Master,Employed,Male,80000,Single,Agent,Luxury Car,Large,26,more than 69000,3,None,3 Years
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Charan Harsha,7986272559,charanharsha30@gmail.com,Arizona,No,Extended,Master,Unemployed,Female,76777,Single,Agent,Four-Door Car,Medium Size,27,30000 to 39000,3,None,5 Years
+Deepak,345656566,deepak@gmail.com,Washington,Yes,Basic,Master,Employed,Male,66543,Married,Agent,Two-Door Car,Small,33,less than 20000,3,None,New
+Charan Harsha D S V,07986272559,allu@gmail.com,Washington,Yes,Premium,Bachelor,Employed,Male,2000000000,Married,Agent,Luxury Car,Small,27,60000 to 69000,3,None,3 Years
+Sai Kiran reddy,7795162451,sai@gmail.com,Nevada,No,Extended,Master,Employed,Male,59000,Single,Agent,Luxury SUV,Medium Size,27,30000 to 39000,3,None,New
+Charan Harsha,7986272559,charanharsha30@gmail.com,Washington,Yes,Basic,Master,Employed,Male,84000,Married,Agent,Luxury SUV,Large,27,40000 to 59000,3,None,2 Years

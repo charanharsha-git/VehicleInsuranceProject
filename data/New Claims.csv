@@ -1,0 +1,43 @@
+Month,WeekOfMonth,DayOfWeek,DayOfWeekClaimed,MonthClaimed,WeekOfMonthClaimed,Fault,RepNumber,Days_Policy_Accident,Days_Policy_Claim,PoliceReportFiled,WitnessPresent,AgentType,NumberOfSuppliments,AddressChange_Claim,BasePolicy,Vehicle Class,AccidentArea,Age,Product Name,VehiclePrice,DriverRating,AgeOfVehicle,Fraud Found,Claim ID
+Sep,1,Friday,Tuesday,Sep,2,Policy Holder,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,2,1,0,NCLM0000
+Sep,1,Friday,Tuesday,Sep,2,Policy Holder,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,2,1,0,NCLM0001
+Sep,1,Thursday,Tuesday,Sep,2,Policy Holder,4,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,32,1,2,3,1,0,NCLM0002
+Sep,1,Thursday,Tuesday,Sep,2,Policy Holder,4,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,32,1,2,3,1,0,NCLM0003
+Sep,1,Thursday,Tuesday,Sep,2,Policy Holder,4,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,32,1,2,3,1,0,NCLM0004
+Sep,1,Thursday,Tuesday,Sep,2,Policy Holder,2,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,32,1,2,2,1,0,NCLM0005
+Aug,1,Monday,Wednesday,Sep,2,Policy Holder,2,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,35,1,2,2,1,0,NCLM0006
+Sep,2,Wednesday,Wednesday,Sep,2,Policy Holder,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,2,1,0,NCLM0007
+Sep,2,Thursday,Wednesday,Sep,2,Policy Holder,10,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,44,1,2,2,1,0,NCLM0008
+Sep,2,Monday,Wednesday,Sep,2,Policy Holder,2,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,23,1,2,2,1,0,NCLM0009
+Jul,1,Saturday,Wednesday,Sep,2,Policy Holder,9,more than 30,more than 30,No,No,External,3,no change,All Perils,Two-Door Car,Urban,0,1,2,1,1,0,NCLM00010
+Jul,1,Saturday,Wednesday,Sep,2,Policy Holder,9,more than 30,more than 30,No,No,External,3,no change,All Perils,Two-Door Car,Urban,0,1,2,1,1,0,NCLM00011
+Sep,1,Sunday,Friday,Sep,5,Policy Holder,8,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,32,1,2,1,1,0,NCLM00012
+Oct,2,Wednesday,Tuesday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00013
+Oct,2,Wednesday,Tuesday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00014
+Oct,2,Wednesday,Tuesday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00015
+Oct,2,Wednesday,Tuesday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00016
+Oct,2,Wednesday,Tuesday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00017
+Oct,2,Wednesday,Tuesday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00018
+Oct,2,Wednesday,Tuesday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00019
+Oct,2,Wednesday,Tuesday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00020
+Oct,1,Saturday,Tuesday,Oct,2,Policy Holder,2,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,32,1,2,1,1,0,NCLM00021
+Oct,1,Sunday,Tuesday,Oct,2,Policy Holder,4,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,33,1,2,2,1,0,NCLM00022
+Oct,2,Thursday,Tuesday,Oct,2,Policy Holder,1,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,44,1,2,3,1,0,NCLM00023
+Oct,1,Saturday,Tuesday,Oct,2,Policy Holder,3,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,35,1,2,3,1,0,NCLM00024
+Oct,1,Saturday,Tuesday,Oct,2,Policy Holder,2,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,44,1,2,2,1,0,NCLM00025
+Oct,1,Saturday,Tuesday,Oct,2,Policy Holder,2,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,44,1,2,2,1,0,NCLM00026
+Oct,1,Sunday,Tuesday,Oct,2,Policy Holder,1,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,26,1,2,2,1,0,NCLM00027
+Oct,2,Friday,Tuesday,Oct,2,Policy Holder,2,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,25,1,2,4,1,0,NCLM00028
+Oct,1,Sunday,Tuesday,Oct,2,Third Party,1,more than 30,more than 30,No,No,Internal,3,4 to 8 years,All Perils,SUV,Rural,34,1,2,1,1,0,NCLM00029
+Oct,1,Sunday,Tuesday,Oct,2,Third Party,1,8 to 15,8 to 15,No,No,Internal,3,2 to 3 years,All Perils,SUV,Rural,32,1,2,1,1,0,NCLM00030
+Oct,2,Monday,Tuesday,Oct,2,Policy Holder,3,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,29,1,2,4,1,0,NCLM00031
+Oct,1,Saturday,Wednesday,Oct,2,Policy Holder,2,1 to 7,1 to 7,No,No,External,3,1 year,Liability,Luxury Car,Rural,26,1,2,2,1,0,NCLM00032
+Oct,1,Saturday,Thursday,Oct,2,Policy Holder,1,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,33,1,2,3,1,0,NCLM00033
+Oct,1,Saturday,Thursday,Oct,2,Policy Holder,9,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,44,1,2,1,1,0,NCLM00034
+Oct,1,Saturday,Thursday,Oct,2,Policy Holder,9,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,44,1,2,1,1,0,NCLM00035
+Oct,1,Sunday,Thursday,Oct,2,Third Party,3,1 to 7,1 to 7,No,No,External,3,under 6 months,Liability,Two-Door Car,Urban,33,1,2,1,1,0,NCLM00036
+Oct,2,Thursday,Friday,Oct,2,Policy Holder,1,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,33,1,2,2,1,0,NCLM00037
+Oct,1,Saturday,Friday,Oct,2,Policy Holder,3,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00038
+Sep,5,Friday,Friday,Oct,2,Policy Holder,3,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,4,1,0,NCLM00039
+Oct,1,Saturday,Friday,Oct,2,Third Party,5,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,SUV,Urban,27,1,2,2,1,0,NCLM00040
+Oct,1,Saturday,Saturday,Oct,2,Policy Holder,3,1 to 7,1 to 7,Yes,Yes,External,3,under 6 months,Liability,Two-Door Car,Urban,27,1,2,2,1,0,NCLM00041

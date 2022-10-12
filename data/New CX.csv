@@ -1,0 +1,33 @@
+Name,Phone,Email,State,Response,Coverage,Education,EmploymentStatus,Gender,Income,Marital Status,Sales Channel,Vehicle Class,Vehicle Size,Age,VehiclePrice,Clusters,Product Name,Age of Vehicle,Monthly Auto Premium,Customer Lifetime Value,Customer ID
+Test,9898989898,test@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,30000 to 39000,1,Sedan - Liability,New,69.2,-1056.778962,CX0000
+Test,9898989898,test@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,30000 to 39000,1,Sedan - Liability,New,69.2,-1056.778962,CX0001
+mac,897878988,test1@gmail.com,California,Yes,Extended,Master,Employed,Female,50000,Married,Agent,SUV,Large,36,60000 to 69000,2,Sport - All Perils,New,126.8,-2083.88126,CX0002
+Charan,7986272559,g@gmail.com,Washington,Yes,Basic,Bachelor,Employed,Male,66543,Married,Agent,SUV,Large,27,60000 to 69000,1,Utility - All Perils,2 Years,110.2,-1197.58241,CX0003
+Rehan,7676767676,a@gmail.com,Washington,Yes,Extended,Bachelor,Employed,Male,44555,Married,Agent,Two-Door Car,Small,28,less than 20000,2,Sedan - Liability,New,86.1,-923.5778023,CX0004
+Rehan,7676767676,a@gmail.com,Washington,Yes,Extended,Bachelor,Employed,Male,44555,Married,Agent,Two-Door Car,Small,28,less than 20000,2,Sedan - Liability,New,86.1,-923.5778023,CX0005
+Animesh,6767676767,animesh@gmail.com,Nevada,Yes,Basic,Bachelor,Employed,Male,55555,Married,Agent,Two-Door Car,Medium Size,26,30000 to 39000,1,Sport - All Perils,3 Years,66.2,-40.02139914,CX0006
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years,69.4,-592.1387973,CX0007
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years,69.4,-592.1387973,CX0008
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years,69.4,-592.1387973,CX0009
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years,69.4,-592.1387973,CX00010
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years,69.4,-592.1387973,CX00011
+Test,9080909090,g@gmail.com,Arizona,Yes,Basic,Bachelor,Employed,Male,34555,Married,Branch,Two-Door Car,Small,32,30000 to 39000,1,Sport - Collision,3 Years,69.4,-592.1387973,CX00012
+resubmission,7986272559,test@gmail.com,Washington,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,44,less than 20000,0,Sedan - Liability,New,70.3,-831.5917836,CX00013
+Harsha,8787878787,c@gmail.com,Nevada,Yes,Basic,Bachelor,Employed,Male,66543,Married,Web,Two-Door Car,Small,23,60000 to 69000,2,Sedan - Liability,2 Years,68.1,-67.77869638,CX00014
+ABCD,454545454,a@gmail.com,Arizona,No,Extended,Master,Employed,Male,65555,Married,Agent,SUV,Medium Size,34,40000 to 59000,1,Sport - Collision,4 Years,128.4,-1146.775751,CX00015
+Sourav,6565656565,c@gmail.com,Washington,Yes,Basic,Bachelor,Employed,Male,67677,Married,Agent,Two-Door Car,Small,26,less than 20000,1,Sedan - Liability,New,68.1,-120.7894085,CX00016
+Camera man,98989898989,v@gmail.com,California,Yes,Basic,Bachelor,Employed,Male,34555,Married,Agent,Two-Door Car,Small,32,less than 20000,1,Sedan - Liability,New,69.2,568.4944286,CX00017
+Jyothi,345676777,b@gmail.com,Washington,No,Premium,High School or Below,Employed,Female,56555,Married,Web,Luxury SUV,Large,33,60000 to 69000,1,Utility - Liability,5 Years,129.0,1404.473097,CX00018
+LLL,345676777,b@gmail.com,Washington,No,Premium,High School or Below,Employed,Female,56555,Married,Web,Luxury SUV,Large,33,60000 to 69000,2,Sport - Liability,5 Years,129.0,-1013.589525,CX00019
+LLL,345676777,b@gmail.com,Washington,No,Premium,High School or Below,Employed,Female,56555,Married,Web,Luxury SUV,Large,33,60000 to 69000,2,Sport - Liability,5 Years,129.0,-1013.589525,CX00020
+Random,909098989,q@gmail.com,Nevada,No,Premium,Master,Medical Leave,Female,55444,Single,Web,SUV,Large,45,40000 to 59000,3,Utility - Liability,4 Years,142.0,-1745.957077,CX00021
+Random,909098989,q@gmail.com,Nevada,No,Premium,Master,Medical Leave,Female,55444,Single,Web,SUV,Large,45,40000 to 59000,3,Utility - Liability,4 Years,142.0,-1745.957077,CX00022
+Sai Kiran,7795162451,sai@gmail.com,Oregon,No,Extended,Master,Employed,Male,60000,Single,Agent,Sports Car,Large,30,60000 to 69000,3,Sport - All Perils,4 Years,152.7,-1308.4186297991555,CX00023
+Saahil,565768877,SS@gmail.com,Arizona,No,Premium,Master,Employed,Male,69000,Married,Agent,SUV,Small,29,30000 to 39000,3,Sedan - All Perils,6 Years,165.0,-1274.4586345695054,CX00024
+Animesh,9045409039,animesh@gmail.com,Nevada,No,Premium,Master,Employed,Male,80000,Single,Agent,Luxury Car,Large,26,more than 69000,3,Sedan - All Perils,3 Years,165.0,-2030.85577885518,CX00025
+Mahesh,9501656565,m@gmail.com,Nevada,No,Extended,High School or Below,Employed,Male,43445,Married,Agent,Two-Door Car,Small,33,less than 20000,3,Sedan - All Perils,New,118.6,-1414.3598964388689,CX00026
+Charan Harsha,7986272559,charanharsha30@gmail.com,Arizona,No,Extended,Master,Unemployed,Female,76777,Single,Agent,Four-Door Car,Medium Size,27,30000 to 39000,3,Sedan - Liability,5 Years,124.0,-1011.840197150334,CX00027
+Deepak,345656566,deepak@gmail.com,Washington,Yes,Basic,Master,Employed,Male,66543,Married,Agent,Two-Door Car,Small,33,less than 20000,3,Sedan - All Perils,New,102.1,-670.3938191500952,CX00028
+Charan Harsha D S V,7986272559,allu@gmail.com,Washington,Yes,Premium,Bachelor,Employed,Male,2000000000,Married,Agent,Luxury Car,Small,27,60000 to 69000,3,Sedan - Liability,3 Years,162.0,27479366.93443053,CX00029
+Sai Kiran reddy,7795162451,sai@gmail.com,Nevada,No,Extended,Master,Employed,Male,59000,Single,Agent,Luxury SUV,Medium Size,27,30000 to 39000,3,Sedan - Liability,New,162.0,-2836.4560251728235,CX00030
+Charan Harsha,7986272559,charanharsha30@gmail.com,Washington,Yes,Basic,Master,Employed,Male,84000,Married,Agent,Luxury SUV,Large,27,40000 to 59000,3,Sedan - Liability,2 Years,162.0,-1895.9504617651787,CX00031
