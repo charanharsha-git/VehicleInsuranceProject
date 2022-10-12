@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Claim Submitted</title>
+</head>
+
+
+
+<body>
+<script>
+if ( window.history.replaceState ) {
+  window.history.replaceState( null, null, window.location.href );
+}
+</script>
+
+<center> <h1> Your claim is successfully submitted </h1> <h2>Your Claim ID for future reference is {{claim_id}}</h2> </center>
+{{fraud_pred}}
+</body>
+</html>

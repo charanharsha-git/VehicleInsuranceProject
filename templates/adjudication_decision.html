@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Adjudication Decision</title>
+</head>
+<body>
+
+<form class="form-inline" method="POST"  action="{{ url_for('adjudication_decision_done') }}" enctype="multipart/form-data" >
+{% for table in tables %}
+            {{titles[loop.index]}}
+            {{ table|safe }}
+{% endfor %}
+
+
+
+<div class="bd-example" align="middle">
+
+<img src="{{url_for('static', filename='img.jpeg')}}" />
+
+    <fieldset2>
+        <legend>Claim Decision</legend>
+        <p><label> <input type="radio" name="claim_decision" required value="Approved"> Approved </label></p>
+        <p><label> <input type="radio" name="claim_decision" required value="Rejected"> Rejected </label></p>
+        <p><label> <input type="radio" name="claim_decision" required value="Investigation Required"> Investigation Required </label></p>
+
+            </fieldset2>
+
+
+
+
+</div>
+    <button type="submit" class="btn btn-default">Mark Status</button>
+    </form>
+</body>
+</html>

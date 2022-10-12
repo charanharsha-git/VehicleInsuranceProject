@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Adjudication</title>
+</head>
+<body>
+<form class="form-inline" method="POST" action="{{ url_for('adjudication_decision') }}">
+<p>{% for table in tables %}
+            {{titles[loop.index]}}
+            {{ table|safe }}
+{% endfor %}</p>
+    <p>
+        <label>Claim ID
+        <input type="text" name="claim_adj_id" required>
+        </label>
+        </p>
+    <button type="submit">Submit</button>
+</form>
+
+<p>
+
+</p>
+
+</body>
+</html>

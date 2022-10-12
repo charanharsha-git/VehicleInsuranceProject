@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>New Customer - Enter Details</title>
+</head>
+
+<body style="background-color:powderblue;">
+
+<h1>Please enter the below details and sign up</h1>
+
+<p>Welcome!</p>
+<div class="loader"></div>
+<form class="form-inline" method="POST" action="{{ url_for('enquirysignup') }}">
+  <div class="form-group">
+    <div class="input-group">
+        <p>
+        <label>Name
+        <input type="text" name="customer_name" required>
+        </label>
+        </p>
+
+        <p>
+        <label>Phone
+        <input type="tel" name="phone_number">
+        </label>
+        </p>
+
+        <p>
+        <label>Email
+        <input type="email" name="email_address">
+        </label>
+        </p>
+
+        </p>
+        <span class="input-group-addon">State</span>
+            <select name="comp_select1" class="selectpicker form-control">
+            <option value="Washington">Washington</option>
+            <option value="Arizona">Arizona</option>
+            <option value="Nevada">Nevada</option>
+            <option value="California">California</option>
+            <option value="Oregon">Oregon</option>
+            </select></p>
+
+
+
+        </p>
+        <span class="input-group-addon">Response</span>
+            <select name="comp_select2" class="selectpicker form-control">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+
+
+            </select>
+        </p>
+        </p>
+        <span class="input-group-addon">Coverage</span>
+            <select name="comp_select3" class="selectpicker form-control">
+            <option value="Basic">Basic</option>
+            <option value="Extended">Extended</option>
+            <option value="Premium">Premium</option>
+
+            </select>
+        </p>
+        </p>
+        <span class="input-group-addon">Education</span>
+            <select name="comp_select4" class="selectpicker form-control">
+            <option value="Bachelor">Bachelor</option>
+            <option value="College">College</option>
+            <option value="Master">Master</option>
+            <option value="High School or Below">High School or Below</option>
+            <option value="Doctor">Doctor</option>
+
+            </select>
+        </p>
+        </p>
+        <span class="input-group-addon">Employment Status</span>
+            <select name="comp_select5" class="selectpicker form-control">
+            <option value="Employed">Employed</option>
+            <option value="Unemployed">Unemployed</option>
+            <option value="Medical Leave">Medical Leave</option>
+            <option value="Disabled">Disabled</option>
+            <option value="Retired">Retired</option>
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Gender</span>
+            <select name="comp_select6" class="selectpicker form-control">
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+
+            </select>
+        </p>
+        <p>
+        <label>Age
+        <input type="text" name="Age" required>
+        </label>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Marital Status</span>
+            <select name="comp_select7" class="selectpicker form-control">
+            <option value="Married">Married</option>
+            <option value="Single">Single</option>
+            <option value="Divorced">Divorced</option>
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Vehicle Class</span>
+            <select name="comp_select8" class="selectpicker form-control">
+            <option value="Two-Door Car">Two-Door Car</option>
+            <option value="Four-Door Car">Four-Door Car</option>
+            <option value="SUV">SUV</option>
+            <option value="Luxury SUV">Luxury SUV</option>
+            <option value="Sports Car">Sports Car</option>
+            <option value="Luxury Car">Luxury Car</option>
+
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Vehicle Size</span>
+            <select name="comp_select9" class="selectpicker form-control">
+            <option value="Small">Small</option>
+            <option value="Medium Size">Medium Size</option>
+            <option value="Large">Large</option>
+
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Vehicle Price</span>
+            <select name="comp_select10" class="selectpicker form-control">
+
+            <option value="less than 20000">less than 20000</option>
+            <option value="20000 to 29000">20000 to 29000</option>
+            <option value="30000 to 39000">30000 to 39000</option>
+            <option value="40000 to 59000">40000 to 59000</option>
+            <option value="60000 to 69000">60000 to 69000</option>
+            <option value="more than 69000">more than 69000</option>
+
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">How do you know about us</span>
+            <select name="comp_select11" class="selectpicker form-control">
+            <option value="Agent">Company Agent</option>
+            <option value="Call Center">Got a call from company</option>
+            <option value="Web">WEB</option>
+            <option value="Branch">Visited nearest branch</option>
+
+            </select>
+
+        </p>
+        <span class="input-group-addon">Age of the Vehicle</span>
+            <select name="comp_select13" class="selectpicker form-control">
+            <option value="New">New</option>
+            <option value="2 Years">2 Years</option>
+            <option value="3 Years">3 Years</option>
+            <option value="4 Years">4 Years</option>
+            <option value="5 Years">5 Years</option>
+            <option value="6 Years">6 Years</option>
+            <option value="7 Years">7 Years</option>
+            <option value="more than 7">more than 7</option>
+
+            </select>
+        </p>
+        <p>
+        <label>Income
+        <input type="text" name="Income" required>
+        </label>
+        </p>
+
+
+
+    </div>
+    <button type="submit" class="btn btn-default">Go</button>
+  </div>
+</form>
+
+</body>
+</html>
+

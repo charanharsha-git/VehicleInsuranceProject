@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vehicle Insurance Portal</title>
+</head>
+<body style="background-color:powderblue;">
+<h1>Already a customer or New ?</h1>
+
+<p>Please select a response</p>
+
+<form class="form-inline" method="POST" action="{{ url_for('test') }}">
+  <div class="form-group">
+    <div class="input-group">
+        <span class="input-group-addon">Please select</span>
+            <select name="comp_select" class="selectpicker form-control">
+
+            <option value="New Customer">New Customer</option>
+            <option value="Already Insured">Already Insured</option>
+            <option value="Employee Login">Employee Login</option>
+            <option value="claim_tracking">Track a claim</option>
+
+
+            </select>
+    </div>
+    <button type="submit" class="btn btn-default">Go</button>
+  </div>
+</form>
+
+
+</body>
+</html>

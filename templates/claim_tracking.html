@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Claim Tracking</title>
+</head>
+<body>
+<form class="form-inline" method="POST" action="{{ url_for('claim_tracking') }}">
+  <div class="form-group">
+    <div class="input-group">
+        <p>
+        <label>Claim ID
+        <input type="text" name="claim_id" required>
+        </label>
+        </p>
+        </div>
+    <button type="submit" class="btn btn-default">Go</button>
+  </div>
+</form>
+</body>
+</html>

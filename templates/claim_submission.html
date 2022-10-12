@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Claim Submission</title>
+</head>
+<style>
+table, th, td {
+  border:1px solid black;
+}
+</style>
+
+<body style="background-color:powderblue;">
+<table style="width:100%">
+
+  <tr>
+    <td>Name</td>
+    <td>{{cx_details[0]}}</td>
+  </tr>
+    <tr>
+    <td>Phone</td>
+    <td>{{cx_details[1]}}</td>
+  </tr>
+    <tr>
+    <td>Email</td>
+    <td>{{cx_details[2]}}</td>
+  </tr>
+    <tr>
+    <td>State</td>
+    <td>{{cx_details[3]}}</td>
+  </tr>
+    <tr>
+    <td>Coverage</td>
+    <td>{{cx_details[5]}}</td>
+  </tr>
+    <tr>
+    <td>Gender</td>
+    <td>{{cx_details[8]}}</td>
+  </tr>
+    <tr>
+    <td>Product Name</td>
+    <td>{{cx_details[17]}}</td>
+  </tr>
+    <tr>
+    <td>Age of the Vehicle</td>
+    <td>{{cx_details[18]}}</td>
+  </tr>
+    <tr>
+    <td>Vehicle Class</td>
+    <td>{{cx_details[12]}}</td>
+  </tr>
+    <tr>
+    <td>Monthly Premium</td>
+    <td>{{cx_details[19]}}</td>
+  </tr>
+    <tr>
+    <td>Customer ID</td>
+    <td>{{cx_details[21]}}</td>
+  </tr>
+
+</table>
+<h1>Please fill the below form for Claim Submission</h1>
+
+<p>Welcome!</p>
+
+<form class="form-inline" method="POST"  action="{{ url_for('claimsubmission') }}" enctype="multipart/form-data" >
+  <div class="form-group">
+    <div class="input-group">
+        </p>
+        <label for="incident_date">Incident Date</label>
+        <input type="date" id="incident_date" name="incident_date">
+        </p>
+
+        </p>
+        <span class="input-group-addon">Fault</span>
+            <select name="comp_select1" class="selectpicker form-control">
+            <option value="Policy Holder">Policy Holder</option>
+            <option value="Third Party">Third Party</option>
+
+            </select>
+        </p>
+
+
+
+        </p>
+        <span class="input-group-addon">PoliceReportFiled</span>
+            <select name="comp_select2" class="selectpicker form-control">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+
+
+            </select>
+        </p>
+
+        </p>
+        <span class="input-group-addon">WitnessPresent</span>
+            <select name="comp_select3" class="selectpicker form-control">
+            <option value="Yes">Yes</option>
+            <option value="No">No</option>
+
+
+            </select>
+        </p>
+
+        </p>
+        <span class="input-group-addon">Age of the Vehicle</span>
+            <select name="comp_select4" class="selectpicker form-control">
+            <option value="New">New</option>
+            <option value="2 Years">2 Years</option>
+            <option value="3 Years">3 Years</option>
+            <option value="4 Years">4 Years</option>
+            <option value="5 Years">5 Years</option>
+            <option value="6 Years">6 Years</option>
+            <option value="7 Years">7 Years</option>
+            <option value="more than 7">more than 7</option>
+
+            </select>
+        </p>
+        </p>
+        <span class="input-group-addon">Number of Suppliments</span>
+            <select name="comp_select5" class="selectpicker form-control">
+            <option value="1 to 2">1 to 2</option>
+            <option value="3 to 5">3 to 5</option>
+            <option value="More than 5">More than 5</option>
+
+
+            </select>
+        </p>
+        </p>
+        <span class="input-group-addon">Address Change claim</span>
+            <select name="comp_select6" class="selectpicker form-control">
+            <option value="under 6 months">under 6 months</option>
+            <option value="1 year">1 year</option>
+            <option value="2 to 3 years">2 to 3 years</option>
+            <option value="4 to 8 years">4 to 8 years</option>
+            <option value="no change">no change</option>
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Base Policy</span>
+            <select name="comp_select7" class="selectpicker form-control">
+            <option value="Liability">Liability</option>
+            <option value="Collison">Collison</option>
+            <option value="All Perils">All Perils</option>
+
+            </select>
+        </p>
+        <p>
+        <label>Age
+        <input type="text" name="Age" required>
+        </label>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Accident Area</span>
+            <select name="comp_select8" class="selectpicker form-control">
+            <option value="Urban">Urban</option>
+            <option value="Rural">Rural</option>
+
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Vehicle Class</span>
+            <select name="comp_select9" class="selectpicker form-control">
+            <option value="Two-Door Car">Two-Door Car</option>
+            <option value="Four-Door Car">Four-Door Car</option>
+            <option value="SUV">SUV</option>
+            <option value="Luxury SUV">Luxury SUV</option>
+            <option value="Sports Car">Sports Car</option>
+            <option value="Luxury Car">Luxury Car</option>
+
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Agent Type</span>
+            <select name="comp_select10" class="selectpicker form-control">
+            <option value="External">External</option>
+            <option value="Internal">Internal</option>
+
+
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Days_Policy_Claim</span>
+            <select name="comp_select11" class="selectpicker form-control">
+
+            <option value="1 to 7">1 to 7</option>
+            <option value="8 to 15">8 to 15</option>
+            <option value="15 to 30">15 to 30</option>
+            <option value="more than 30">more than 30</option>
+
+
+            </select>
+        </p>
+        </p>
+
+        <span class="input-group-addon">Days_Policy_Accident</span>
+            <select name="comp_select12" class="selectpicker form-control">
+            <option value="1 to 7">1 to 7</option>
+            <option value="8 to 15">8 to 15</option>
+            <option value="15 to 30">15 to 30</option>
+            <option value="more than 30">more than 30</option>
+
+            </select>
+        </p>
+
+
+        <fieldset1>
+        <legend>Rep Number</legend>
+        <p><label> <input type="radio" name="rep_number" required value="1"> 1 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="2"> 2 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="3"> 3 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="4"> 4 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="5"> 5 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="6"> 6 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="7"> 7 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="8"> 8 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="9"> 9 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="10"> 10 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="11"> 11 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="12"> 12 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="13"> 13 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="14"> 14 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="15"> 15 </label></p>
+        <p><label> <input type="radio" name="rep_number" required value="16"> 16 </label></p>
+        </fieldset1>
+
+
+            <fieldset2>
+        <legend>Driver rating</legend>
+        <p><label> <input type="radio" name="driver_rating" required value="1"> 1 </label></p>
+        <p><label> <input type="radio" name="driver_rating" required value="2"> 2 </label></p>
+        <p><label> <input type="radio" name="driver_rating" required value="3"> 3 </label></p>
+        <p><label> <input type="radio" name="driver_rating" required value="4"> 4 </label></p>
+            </fieldset2>
+        <p>
+
+          <label for="myfile">Upload Car Photo</label>
+          <input type="file" id="myfile" name="car_photo",accept=".jpg,.jpeg">
+
+
+        </p>
+
+        <p>
+            <label for="my_file">Upload PDF Doc</label>
+            <input type="file" id="my_file" name="pdf_doc",accept=".pdf">
+        </p>
+
+
+    </div>
+
+    <button type="submit" class="btn btn-default">Go</button>
+  </div>
+</form>
+</body>
+</html>
